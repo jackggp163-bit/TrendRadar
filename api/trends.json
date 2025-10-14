@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T18:42:29.783436+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2025-10-14T19:29:28.155780+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时05分 ~ 18时42分]"
+          "appearance_count": 15,
+          "time_info": "[11时05分 ~ 19时29分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -112,17 +112,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "富国银行三季度营收214.4亿美元，预估211.6亿美元。 三季度每股收益1.66美元。 第三季净利息收入119.5亿美元，预估为120.1亿美元。 富国银行任命Charlie Scharf为董事会主席。 富国银行美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/2987475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
           "title": "纳微半导体(NVTS.O)美股盘前大涨24%，此前公司宣布在为英伟达数据中心基础设施研发芯片方面取得进展。",
           "url": "https://flash.jin10.com/detail/20251014161434030800",
           "source": "金十数据",
@@ -134,24 +123,13 @@
           "time_info": "16时44分"
         },
         {
-          "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2987467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
           "title": "通用汽车美股盘前跌近3%，公司称基于对电动汽车产能和制造布局的规划性战略调整，通用汽车在截至9月30日的第三季度计入16亿美元支出。",
           "url": "https://wallstreetcn.com/livenews/2987465",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -166,6 +144,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时22分]"
+        },
+        {
+          "title": "富国银行三季度营收214.4亿美元，预估211.6亿美元。 三季度每股收益1.66美元。 第三季净利息收入119.5亿美元，预估为120.1亿美元。 富国银行任命Charlie Scharf为董事会主席。 富国银行美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/2987475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时29分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超3%",
@@ -192,6 +182,18 @@
           "time_info": "[05时22分 ~ 06时25分]"
         },
         {
+          "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2987467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时29分]"
+        },
+        {
           "title": "半导体ETF收涨超4.4%，领跑美股行业ETF，标普科技板块涨约2.5%",
           "url": "https://wallstreetcn.com/livenews/2986966",
           "source": "华尔街见闻-快讯",
@@ -216,6 +218,18 @@
           "time_info": "[05时22分 ~ 06时25分]"
         },
         {
+          "title": "贝莱德第三季度资产管理规模为13.46万亿美元，市场预期为13.37万亿美元。 第三季度调整后EPS11.55美元，去年同期为11.46美元，市场预期为11.47美元。 第三季度营收65.1亿美元，同比增长25%，市场预期为63.4亿美元。 第三季度调整后营业利润率44.6%，去年同期为45.8%，市场预期为44%。 贝莱德美股盘前微涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2987454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时29分]"
+        },
+        {
           "title": "美股稀土股盘前普涨，USA Rare Earth涨超11%，MP Materials涨超7%。",
           "url": "https://wallstreetcn.com/livenews/2987376",
           "source": "华尔街见闻-快讯",
@@ -238,15 +252,15 @@
           "time_info": "16时44分"
         },
         {
-          "title": "贝莱德第三季度资产管理规模为13.46万亿美元，市场预期为13.37万亿美元。 第三季度调整后EPS11.55美元，去年同期为11.46美元，市场预期为11.47美元。 第三季度营收65.1亿美元，同比增长25%，市场预期为63.4亿美元。 第三季度调整后营业利润率44.6%，去年同期为45.8%，市场预期为44%。 贝莱德美股盘前微涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/2987454",
+          "title": "华尔街警示美股逢低买家：诱惑背后 或暗藏更多波澜",
+          "url": "https://wallstreetcn.com/livenews/2987486",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "19时29分"
         },
         {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股收盘）",
@@ -258,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "摩根大通三季度经调整后营收471.2亿美元，预估454.8亿美元。 三季度每股收益5.07美元。 第三季股票销售和交易收入33.3亿美元，预估30.4亿美元。 第三季FICC销售与交易收入56.1亿美元，预估为53.3亿美元。 摩根大通预计全年净利息收入约为958亿美元，此前预计955亿美元。 摩根大通美股盘前涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/2987479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美股盘前中概股走低，阿里巴巴(BABA.N)下跌3.7%，拼多多(PDD.O)下跌2.4%，百度(BIDU.O)下跌3.6%。",
@@ -293,6 +318,17 @@
           "time_info": "16时44分"
         },
         {
+          "title": "通用汽车美股盘前跌近3%，公司称基于对电动汽车产能和制造布局的规划性战略调整，通用汽车在截至9月30日的第三季度计提16亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2987465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251014004632914800",
           "source": "金十数据",
@@ -318,7 +354,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价银价跳水",
@@ -330,8 +366,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时52分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[14时52分 ~ 19时29分]"
         },
         {
           "title": "目前的金价，你还敢追吗？",
@@ -413,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "金价这么高 到底谁在买",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
