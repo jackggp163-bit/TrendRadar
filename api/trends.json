@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T17:40:18.196322+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-10-14T18:42:29.783436+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时05分 ~ 17时40分]"
+          "appearance_count": 14,
+          "time_info": "[11时05分 ~ 18时42分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -112,6 +112,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "富国银行三季度营收214.4亿美元，预估211.6亿美元。 三季度每股收益1.66美元。 第三季净利息收入119.5亿美元，预估为120.1亿美元。 富国银行任命Charlie Scharf为董事会主席。 富国银行美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/2987475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "纳微半导体(NVTS.O)美股盘前大涨24%，此前公司宣布在为英伟达数据中心基础设施研发芯片方面取得进展。",
           "url": "https://flash.jin10.com/detail/20251014161434030800",
           "source": "金十数据",
@@ -121,6 +132,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2987467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "通用汽车美股盘前跌近3%，公司称基于对电动汽车产能和制造布局的规划性战略调整，通用汽车在截至9月30日的第三季度计入16亿美元支出。",
+          "url": "https://wallstreetcn.com/livenews/2987465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
@@ -205,6 +238,17 @@
           "time_info": "16时44分"
         },
         {
+          "title": "贝莱德第三季度资产管理规模为13.46万亿美元，市场预期为13.37万亿美元。 第三季度调整后EPS11.55美元，去年同期为11.46美元，市场预期为11.47美元。 第三季度营收65.1亿美元，同比增长25%，市场预期为63.4亿美元。 第三季度调整后营业利润率44.6%，去年同期为45.8%，市场预期为44%。 贝莱德美股盘前微涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2987454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251014040523215800",
           "source": "金十数据",
@@ -222,7 +266,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -277,6 +321,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D25%26realpos%3D25%26band_rank%3D25%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26display_time%3D1760424594%26pre_seqid%3D17604245943700372924255",
+          "source": "微博",
+          "ranks": [
+            25,
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 18时42分]"
+        },
+        {
           "title": "目前的金价，你还敢追吗？",
           "url": "https://www.zhihu.com/question/1960053472419378672",
           "source": "知乎",
@@ -288,19 +345,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时35分 ~ 07时21分]"
-        },
-        {
-          "title": "金价银价跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D25%26realpos%3D25%26band_rank%3D25%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26display_time%3D1760424594%26pre_seqid%3D17604245943700372924255",
-          "source": "微博",
-          "ranks": [
-            25,
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时52分 ~ 17时40分]"
         },
         {
           "title": "景顺：预计各国央行将持续增加黄金储备，金价涨势有望延续",
@@ -426,7 +470,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
