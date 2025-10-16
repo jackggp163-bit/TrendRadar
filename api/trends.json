@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T14:53:22.596186+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2025-10-16T15:35:03.210255+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -46,6 +46,19 @@
           "time_info": "[01时40分 ~ 07时30分]"
         },
         {
+          "title": "金价除以10=历史性的1979年牛市？",
+          "url": "https://www.cls.cn/detail/2171118",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 15时35分]"
+        },
+        {
           "title": "金价暴涨 买黄金还是黄金股",
           "url": "https://www.toutiao.com/trending/7561421312267439654/",
           "source": "今日头条",
@@ -67,8 +80,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时35分]"
+        },
+        {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 15时35分]"
         },
         {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
@@ -83,30 +108,6 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
-          "title": "金价除以10=历史性的1979年牛市？",
-          "url": "https://www.cls.cn/detail/2171118",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 14时53分]"
-        },
-        {
-          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
-          "url": "https://www.cls.cn/detail/2171004",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 14时53分]"
-        },
-        {
           "title": "金十图示：2025年10月16日（周四）上海金早盘价为967.36元/克，较国际金价(971.33元/克)，低3.97元/克",
           "url": "https://flash.jin10.com/detail/20251016110308601800",
           "source": "金十数据",
@@ -117,6 +118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 12时42分]"
+        },
+        {
+          "title": "多家银行就金价紧急提醒",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%B0%B1%E9%87%91%E4%BB%B7%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D28%26stream_entry_id%3D31%26q%3D%2523%25E5%25A4%259A%25E5%25AE%25B6%25E9%2593%25B6%25E8%25A1%258C%25E5%25B0%25B1%25E9%2587%2591%25E4%25BB%25B7%25E7%25B4%25A7%25E6%2580%25A5%25E6%258F%2590%25E9%2586%2592%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D28%26c_type%3D31%26pos%3D29%26cate%3D5001%26lcate%3D5001%26display_time%3D1760599975%26pre_seqid%3D176059997567800562151",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
@@ -381,11 +393,12 @@
             15,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 14时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时48分 ~ 15时35分]"
         }
       ]
     }
