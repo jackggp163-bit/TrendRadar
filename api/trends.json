@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T02:46:37.228752+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-10-18T03:27:09.345155+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 02时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 03时27分]"
         },
         {
           "title": "金价涨了 金条能变现吗",
@@ -44,6 +44,18 @@
           "time_info": "[00时46分 ~ 01时34分]"
         },
         {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D29%26lcate%3D5001%26pos%3D29%26display_time%3D1760721007%26pre_seqid%3D176072100743803586256114",
+          "source": "微博",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时33分 ~ 03时27分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市收跌超2%，追随金价从历史最高位回撤的表现",
           "url": "https://wallstreetcn.com/livenews/2989825",
           "source": "华尔街见闻-快讯",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时34分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D29%26c_type%3D31%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D29%26lcate%3D5001%26pos%3D29%26display_time%3D1760721007%26pre_seqid%3D176072100743803586256114",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 01时34分]"
         }
       ]
     },
@@ -81,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 02时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 03时27分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -93,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 02时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 03时27分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -133,8 +134,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 02时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 03时27分]"
         }
       ]
     }
