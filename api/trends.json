@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T06:34:27.830103+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-10-19T07:29:57.860710+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时29分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时29分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时29分]"
         }
       ]
     },
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时29分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -83,11 +83,12 @@
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时29分]"
         }
       ]
     }
