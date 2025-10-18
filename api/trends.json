@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T03:22:52.398570+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-10-19T04:34:31.066361+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -85,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时34分]"
         }
       ]
     }
