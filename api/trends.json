@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T18:41:43.090091+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-10-18T19:31:52.871919+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 18时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 19时31分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -115,6 +115,28 @@
           "time_info": "[04时37分 ~ 07时29分]"
         },
         {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时31分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时31分]"
+        },
+        {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
           "url": "https://wallstreetcn.com/livenews/2989891",
           "source": "华尔街见闻-快讯",
@@ -149,28 +171,6 @@
           "time_info": "04时37分"
         },
         {
-          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
-          "url": "https://wallstreetcn.com/articles/3757414",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251018004100185800",
           "source": "金十数据",
@@ -196,7 +196,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价暴涨时4万5黄金订单蒸发",
@@ -233,11 +233,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 18时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 19时31分]"
         },
         {
           "title": "金价",
@@ -288,13 +289,24 @@
           "time_info": "[00时47分 ~ 01时34分]"
         },
         {
+          "title": "金价暴涨下的水贝",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%8B%E7%9A%84%E6%B0%B4%E8%B4%9D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%258B%25E7%259A%2584%25E6%25B0%25B4%25E8%25B4%259D%26dgr%3D0%26pos%3D22%26realpos%3D23%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D23%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1760786903%26pre_seqid%3D17607869038650358624615",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "黄金价格“抛物线式”上涨",
           "url": "https://www.toutiao.com/trending/7562476629914553883/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -316,6 +328,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时06分 ~ 19时31分]"
+        },
+        {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -326,17 +349,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时46分 ~ 07时29分]"
-        },
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时06分 ~ 18时41分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美三大股指齐反弹，金银跳水，美债下挫",
