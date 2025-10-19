@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T18:36:02.572844+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2025-10-19T19:25:19.806130+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -36,15 +36,27 @@
           "time_info": "[11时39分 ~ 16时40分]"
         },
         {
-          "title": "金价涨了 印度人节日买金习惯变了",
-          "url": "https://flash.jin10.com/detail/20251019175330077800",
-          "source": "金十数据",
+          "title": "金价狂飙 “租三金”结婚成新选择",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E2%80%9C%E7%A7%9F%E4%B8%89%E9%87%91%E2%80%9D%E7%BB%93%E5%A9%9A%E6%88%90%E6%96%B0%E9%80%89%E6%8B%A9",
+          "source": "百度热搜",
           "ranks": [
-            5
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时36分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时25分]"
+        },
+        {
+          "title": "金价涨了，印度人节日买金习惯变了",
+          "url": "https://news.ifeng.com/c/8na31dSR83g",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时25分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -60,29 +72,6 @@
           "time_info": "[01时34分 ~ 06时34分]"
         },
         {
-          "title": "金价狂飙 “租三金”结婚成新选择",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E2%80%9C%E7%A7%9F%E4%B8%89%E9%87%91%E2%80%9D%E7%BB%93%E5%A9%9A%E6%88%90%E6%96%B0%E9%80%89%E6%8B%A9",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 18时36分]"
-        },
-        {
-          "title": "金价涨了，印度人节日买金习惯变了",
-          "url": "https://news.ifeng.com/c/8na31dSR83g",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时36分]"
-        },
-        {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
           "url": "https://www.zhihu.com/question/1962971368476901383",
           "source": "知乎",
@@ -90,8 +79,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时25分]"
+        },
+        {
+          "title": "金价涨了 印度人节日买金习惯变了",
+          "url": "https://flash.jin10.com/detail/20251019175330077800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 19时25分]"
         }
       ]
     },
@@ -109,8 +110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时46分 ~ 18时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 19时25分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -142,8 +143,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 19时25分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -172,8 +173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时26分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[15时26分 ~ 19时25分]"
         },
         {
           "title": "习近平：祝贺郑丽文当选中国国民党主席",
@@ -183,8 +184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 18时36分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时25分]"
         },
         {
           "title": "中共中央总书记习近平电贺郑丽文当选中国国民党主席，郑丽文复电习近平表示感谢",
@@ -193,11 +194,12 @@
           "ranks": [
             3,
             7,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时25分]"
         },
         {
           "title": "中共中央总书记习近平电贺郑丽文当选中国国民党主席，郑丽文复电习近平表示感谢",
@@ -208,8 +210,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时25分]"
         },
         {
           "title": "习近平就村山富市逝世向石破茂致唁电",
@@ -239,8 +241,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时49分 ~ 18时36分]"
+          "appearance_count": 9,
+          "time_info": "[14时49分 ~ 19时25分]"
         },
         {
           "title": "陈春江任河南洛阳市委书记",
