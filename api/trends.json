@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T22:39:04.116913+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-10-19T23:34:59.772265+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时30分 ~ 22时39分]"
+          "appearance_count": 10,
+          "time_info": "[17时30分 ~ 23时34分]"
         },
         {
           "title": "金价为何下跌",
@@ -116,6 +116,19 @@
           "time_info": "[00时46分 ~ 21时12分]"
         },
         {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时35分 ~ 23时34分]"
+        },
+        {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
@@ -136,19 +149,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 14时49分]"
-        },
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时35分 ~ 22时39分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -201,8 +201,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时30分 ~ 22时39分]"
+          "appearance_count": 10,
+          "time_info": "[17时30分 ~ 23时34分]"
         },
         {
           "title": "中共中央总书记习近平电贺郑丽文当选中国国民党主席，郑丽文复电习近平表示感谢",
@@ -248,8 +248,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时49分 ~ 22时39分]"
+          "appearance_count": 14,
+          "time_info": "[14时49分 ~ 23时34分]"
         },
         {
           "title": "陈春江任河南洛阳市委书记",
