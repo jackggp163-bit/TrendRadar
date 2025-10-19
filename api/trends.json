@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T07:29:57.860710+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2025-10-19T11:39:44.148438+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 11时39分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -38,14 +39,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 11时39分]"
+        },
+        {
+          "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
+          "url": "https://flash.jin10.com/detail/20251019091747896800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
@@ -53,11 +65,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 11时39分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -71,6 +84,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时34分 ~ 06时34分]"
+        },
+        {
+          "title": "金价为何下跌",
+          "url": "https://www.toutiao.com/trending/7562708312681090570/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
