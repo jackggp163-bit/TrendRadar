@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T19:25:19.806130+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-10-19T21:12:19.863141+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时46分 ~ 15时27分]"
+        },
+        {
+          "title": "金价涨了，印度人节日买金习惯变了",
+          "url": "https://news.ifeng.com/c/8na31dSR83g",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时30分 ~ 21时12分]"
         },
         {
           "title": "金价为何下跌",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时40分 ~ 19时25分]"
-        },
-        {
-          "title": "金价涨了，印度人节日买金习惯变了",
-          "url": "https://news.ifeng.com/c/8na31dSR83g",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 19时25分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -88,11 +88,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 21时12分]"
         }
       ]
     },
@@ -107,11 +108,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时46分 ~ 19时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时46分 ~ 21时12分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -140,11 +142,12 @@
           "url": "https://wallstreetcn.com/articles/3757446",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 21时12分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -173,8 +176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时26分 ~ 19时25分]"
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 21时12分]"
         },
         {
           "title": "习近平：祝贺郑丽文当选中国国民党主席",
@@ -184,8 +187,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 21时12分]"
+        },
+        {
+          "title": "中共中央总书记习近平电贺郑丽文当选中国国民党主席，郑丽文复电习近平表示感谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31807035",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时30分 ~ 21时12分]"
         },
         {
           "title": "中共中央总书记习近平电贺郑丽文当选中国国民党主席，郑丽文复电习近平表示感谢",
@@ -200,18 +216,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时40分 ~ 19时25分]"
-        },
-        {
-          "title": "中共中央总书记习近平电贺郑丽文当选中国国民党主席，郑丽文复电习近平表示感谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31807035",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 19时25分]"
         },
         {
           "title": "习近平就村山富市逝世向石破茂致唁电",
@@ -238,11 +242,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时49分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[14时49分 ~ 21时12分]"
         },
         {
           "title": "陈春江任河南洛阳市委书记",
