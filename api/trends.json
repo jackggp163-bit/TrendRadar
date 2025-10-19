@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T13:35:49.803485+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2025-10-19T14:49:37.009199+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 13时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 14时49分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -39,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 11时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 14时49分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -72,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 13时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 14时49分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -98,8 +98,36 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "陕西省副省长陈春江跨省调任河南省委常委、洛阳市委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806484",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "陈春江任河南洛阳市委书记",
+          "url": "https://www.toutiao.com/trending/7562774237413412393/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     },
@@ -118,23 +146,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 07时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "陈春江任河南洛阳市委书记",
-          "url": "https://www.toutiao.com/trending/7562774237413412393/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
         }
       ]
     }
