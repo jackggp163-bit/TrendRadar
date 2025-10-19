@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T21:12:19.863141+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2025-10-19T22:39:04.116913+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时30分 ~ 21时12分]"
+          "appearance_count": 9,
+          "time_info": "[17时30分 ~ 22时39分]"
         },
         {
           "title": "金价为何下跌",
@@ -143,11 +143,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时35分 ~ 21时12分]"
+          "appearance_count": 7,
+          "time_info": "[18时35分 ~ 22时39分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -169,6 +170,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "习近平：祝贺郑丽文当选中国国民党主席",
+          "url": "https://www.toutiao.com/trending/7562826199257435699/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时40分 ~ 22时39分]"
+        },
+        {
           "title": "习近平电贺郑丽文当选国民党主席",
           "url": "https://www.douyin.com/hot/2275398",
           "source": "抖音",
@@ -180,17 +192,6 @@
           "time_info": "[15时26分 ~ 21时12分]"
         },
         {
-          "title": "习近平：祝贺郑丽文当选中国国民党主席",
-          "url": "https://www.toutiao.com/trending/7562826199257435699/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 21时12分]"
-        },
-        {
           "title": "中共中央总书记习近平电贺郑丽文当选中国国民党主席，郑丽文复电习近平表示感谢",
           "url": "https://m.thepaper.cn/newsDetail_forward_31807035",
           "source": "澎湃新闻",
@@ -200,8 +201,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时30分 ~ 21时12分]"
+          "appearance_count": 9,
+          "time_info": "[17时30分 ~ 22时39分]"
         },
         {
           "title": "中共中央总书记习近平电贺郑丽文当选中国国民党主席，郑丽文复电习近平表示感谢",
@@ -243,11 +244,12 @@
             13,
             11,
             10,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时49分 ~ 21时12分]"
+          "appearance_count": 13,
+          "time_info": "[14时49分 ~ 22时39分]"
         },
         {
           "title": "陈春江任河南洛阳市委书记",
