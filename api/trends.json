@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T18:44:42.192810+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-10-20T19:29:50.460848+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -60,7 +60,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -146,11 +146,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时55分 ~ 18时44分]"
+          "appearance_count": 8,
+          "time_info": "[14时55分 ~ 19时29分]"
         },
         {
           "title": "河南下雪了",
@@ -161,11 +162,12 @@
             4,
             16,
             5,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时55分 ~ 18时44分]"
+          "appearance_count": 8,
+          "time_info": "[14时55分 ~ 19时29分]"
         },
         {
           "title": "河南多地下雪",
@@ -176,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时48分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[16时48分 ~ 19时29分]"
         },
         {
           "title": "河南濮阳范县发生地震系谣言",
@@ -186,9 +188,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时29分]"
         },
         {
           "title": "河南60年一遇烂秋雨背后",
@@ -197,7 +199,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -257,8 +259,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时55分 ~ 18时44分]"
+          "appearance_count": 8,
+          "time_info": "[14时55分 ~ 19时29分]"
         },
         {
           "title": "美股美债与美元指数的“共振模式”",
