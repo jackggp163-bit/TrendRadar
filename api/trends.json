@@ -1,11 +1,85 @@
 {
-  "generated_at": "2025-10-20T15:34:06.035427+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2025-10-20T16:49:12.883375+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 13时40分]"
+        },
+        {
+          "title": "亚马逊美股盘前转跌，现跌0.11%。",
+          "url": "https://wallstreetcn.com/livenews/2990560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20251020060149187800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时30分]"
+        },
+        {
+          "title": "美股加密货币相关股票盘前上涨，Riot Blockchain(RIOT.O)盘前涨3.7%，Mara Holdings上涨4.9%，BITFARMS上涨11.6%，Strategy(MSTR.O)上涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20251020162813944800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "美股经纪商Robinhood：亚马逊云计算服务（AWS）正遭遇服务中断，这已影响到Robinhood的服务。我们已注意到该问题。",
+          "url": "https://flash.jin10.com/detail/20251020162541007800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/2990523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "河南",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "陕西省副省长陈春江跨省调任河南省委常委、洛阳市委书记",
@@ -22,27 +96,51 @@
           "time_info": "[00时47分 ~ 11时42分]"
         },
         {
+          "title": "河南多地下雪了",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E4%B8%8B%E9%9B%AA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 16时49分]"
+        },
+        {
           "title": "河南下雪了",
           "url": "https://www.toutiao.com/trending/7563105971657408538/",
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 16时49分]"
         },
         {
-          "title": "河南多地下雪了",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E4%B8%8B%E9%9B%AA%E4%BA%86",
-          "source": "百度热搜",
+          "title": "河南多地下雪",
+          "url": "https://www.douyin.com/hot/2276252",
+          "source": "抖音",
           "ranks": [
-            5
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 15时34分]"
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
+          "title": "河南发行7年期棚改专项地方债，规模4.2700亿元，发行利率1.9600%，边际倍数4.71倍，倍数预期1.97； 河南发行10年期棚改专项地方债，规模2.0700亿元，发行利率2.0700%，边际倍数1.61倍，倍数预期2.06； 河南发行7年期普通专项地方债，规模0.6700亿元，发行利率2.0000%，边际倍数5.71倍，倍数预期1.97。",
+          "url": "https://wallstreetcn.com/livenews/2990516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
@@ -83,11 +181,12 @@
           "url": "https://wallstreetcn.com/articles/3757469",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 16时49分]"
         },
         {
           "title": "美股美债与美元指数的“共振模式”",
@@ -99,36 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 13时40分]"
-        },
-        {
-          "title": "美股股指期货周一高开，纳指期货涨0.36%。",
-          "url": "https://flash.jin10.com/detail/20251020060149187800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时30分]"
         }
       ]
     },
