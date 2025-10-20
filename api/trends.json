@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T17:40:27.359019+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-10-20T18:44:42.192810+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -43,6 +43,28 @@
           "time_info": "[06时36分 ~ 07时30分]"
         },
         {
+          "title": "Alphabet(GOOG.O)美股盘前涨幅收窄，最新上涨0.1%；美国国家公路交通安全管理局已启动对约2000辆Waymo车辆的初步评估。",
+          "url": "https://flash.jin10.com/detail/20251020180900012800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "波音(BA.N)美股盘前上涨1.4%，此前美国联邦航空管理局（FAA）表示，波音公司可将737 MAX的月产量提升至42架。",
+          "url": "https://flash.jin10.com/detail/20251020180758113800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "美股加密货币相关股票盘前上涨，Riot Blockchain(RIOT.O)盘前涨3.7%，Mara Holdings上涨4.9%，BITFARMS上涨11.6%，Strategy(MSTR.O)上涨3.3%。",
           "url": "https://flash.jin10.com/detail/20251020162813944800",
           "source": "金十数据",
@@ -71,7 +93,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -82,7 +104,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -101,7 +123,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "陕西省副省长陈春江跨省调任河南省委常委、洛阳市委书记",
@@ -118,20 +140,6 @@
           "time_info": "[00时47分 ~ 11时42分]"
         },
         {
-          "title": "河南下雪了",
-          "url": "https://www.toutiao.com/trending/7563105971657408538/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 17时40分]"
-        },
-        {
           "title": "河南多地下雪了",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E4%B8%8B%E9%9B%AA%E4%BA%86",
           "source": "百度热搜",
@@ -141,8 +149,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 18时44分]"
+        },
+        {
+          "title": "河南下雪了",
+          "url": "https://www.toutiao.com/trending/7563105971657408538/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            16,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 18时44分]"
         },
         {
           "title": "河南多地下雪",
@@ -153,8 +176,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 18时44分]"
+        },
+        {
+          "title": "河南濮阳范县发生地震系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E8%8C%83%E5%8E%BF%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "河南60年一遇烂秋雨背后",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B2%B3%E5%8D%9760%E5%B9%B4%E4%B8%80%E9%81%87%E7%83%82%E7%A7%8B%E9%9B%A8%E8%83%8C%E5%90%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D20%26flag%3D1%26q%3D%2523%25E6%25B2%25B3%25E5%258D%259760%25E5%25B9%25B4%25E4%25B8%2580%25E9%2581%2587%25E7%2583%2582%25E7%25A7%258B%25E9%259B%25A8%25E8%2583%258C%25E5%2590%258E%2523%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D19%26realpos%3D19%26dgr%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760955450%26pre_seqid%3D176095545024302297400102",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "河南发行7年期棚改专项地方债，规模4.2700亿元，发行利率1.9600%，边际倍数4.71倍，倍数预期1.97； 河南发行10年期棚改专项地方债，规模2.0700亿元，发行利率2.0700%，边际倍数1.61倍，倍数预期2.06； 河南发行7年期普通专项地方债，规模0.6700亿元，发行利率2.0000%，边际倍数5.71倍，倍数预期1.97。",
@@ -208,11 +253,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 18时44分]"
         },
         {
           "title": "美股美债与美元指数的“共振模式”",
