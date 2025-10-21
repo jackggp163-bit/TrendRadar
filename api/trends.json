@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T22:38:52.379884+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2025-10-21T23:39:51.961120+08:00",
+  "total_titles_processed": 1945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -43,6 +43,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时49分 ~ 22时38分]"
+        },
+        {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 23时39分]"
         },
         {
           "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
@@ -158,18 +181,6 @@
           "time_info": "[18时42分 ~ 19时38分]"
         },
         {
-          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
-          "url": "https://wallstreetcn.com/articles/3757528",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 22时38分]"
-        },
-        {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
           "url": "https://flash.jin10.com/detail/20251021040131135800",
           "source": "金十数据",
@@ -229,6 +240,17 @@
           "time_info": "21时49分"
         },
         {
+          "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
+          "url": "https://wallstreetcn.com/livenews/2991320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/2991275",
           "source": "华尔街见闻-快讯",
@@ -268,7 +290,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -320,7 +342,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -370,22 +392,36 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时39分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
           "url": "https://www.toutiao.com/trending/7563613729208667702/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时39分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26stream_entry_id%3D31%26realpos%3D29%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D29%26cate%3D5001%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761057039%26pre_seqid%3D17610570391500146795897",
+          "source": "微博",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时39分]"
         },
         {
           "title": "金价大涨影响年轻人结婚",
@@ -397,6 +433,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时49分 ~ 22时38分]"
+        },
+        {
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D30%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D30%26pos%3D31%26flag%3D0%26stream_entry_id%3D31%26display_time%3D1761054075%26pre_seqid%3D17610540757050230370982",
+          "source": "微博",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时39分]"
         },
         {
           "title": "金价飙升引发投资潮 韩国银行金条供不应求",
@@ -419,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "花旗对金价转为看跌，料未来三个月内跌至4000美元",
+          "url": "https://flash.jin10.com/detail/20251021233035750800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
@@ -454,17 +513,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26stream_entry_id%3D31%26realpos%3D29%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D29%26cate%3D5001%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1761057039%26pre_seqid%3D17610570391500146795897",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
           "title": "金价银价大反攻 黄金涨破4380美元",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%8F%8D%E6%94%BB+%E9%BB%84%E9%87%91%E6%B6%A8%E7%A0%B44380%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -474,17 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        },
-        {
-          "title": "国际金价大跌原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D30%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D30%26pos%3D31%26flag%3D0%26stream_entry_id%3D31%26display_time%3D1761054075%26pre_seqid%3D17610540757050230370982",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         }
       ]
     },
@@ -553,7 +590,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -561,11 +598,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时33分 ~ 22时38分]"
+          "appearance_count": 17,
+          "time_info": "[07时33分 ~ 23时39分]"
         },
         {
           "title": "美元指数20日上涨",
@@ -601,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "恒天然：10月21日全球乳品贸易（GDT）拍卖价格指数上涨21.9%，奶粉各合同期FAS拍卖均价3.881美元/吨。 批发奶粉价格指数下降4.6%，报3,610美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2991330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     },
@@ -625,11 +674,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时39分]"
         },
         {
           "title": "河南一老板挣100万给员工分85万",
@@ -638,9 +688,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时39分]"
         },
         {
           "title": "河南港航集团有限公司正式揭牌",
