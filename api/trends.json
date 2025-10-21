@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T12:42:28.123074+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2025-10-21T13:38:57.507728+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时38分]"
         },
         {
           "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
@@ -168,11 +168,12 @@
           "ranks": [
             13,
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 13时38分]"
         },
         {
           "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
@@ -180,11 +181,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时38分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
@@ -215,7 +217,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -255,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时38分]"
         },
         {
           "title": "美元指数20日上涨",
