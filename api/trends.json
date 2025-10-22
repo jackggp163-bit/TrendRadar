@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T13:42:06.561225+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2025-10-22T14:57:02.330958+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 13时42分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 14时57分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -206,7 +206,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "国际金价突然大跌",
@@ -217,8 +217,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 13时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时49分 ~ 14时57分]"
+        },
+        {
+          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
+          "url": "https://www.cls.cn/detail/2176453",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 14时57分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -230,18 +243,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 07时33分]"
-        },
-        {
-          "title": "金价大跌是什么信号？前FED顾问：系统性“流动性危机”已至，金融体系正崩溃！",
-          "url": "https://www.cls.cn/detail/2176453",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时42分]"
         },
         {
           "title": "金价",
@@ -266,8 +267,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 14时57分]"
         },
         {
           "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
@@ -278,8 +279,20 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 14时57分]"
+        },
+        {
+          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
+          "url": "https://www.cls.cn/detail/2176533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时42分]"
+          "time_info": "[13时41分 ~ 14时57分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -307,15 +320,15 @@
           "time_info": "[07时32分 ~ 11时35分]"
         },
         {
-          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
-          "url": "https://www.cls.cn/detail/2176533",
-          "source": "财联社热门",
+          "title": "金价暴跌有金店连夜降价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E9%87%91%E5%BA%97%E8%BF%9E%E5%A4%9C%E9%99%8D%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D29%26dgr%3D0%26realpos%3D29%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D30%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E9%2587%2591%25E5%25BA%2597%25E8%25BF%259E%25E5%25A4%259C%25E9%2599%258D%25E4%25BB%25B7%2523%26cate%3D5001%26lcate%3D5001%26display_time%3D1761116109%26pre_seqid%3D17611161093980118306377",
+          "source": "微博",
           "ranks": [
-            12
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "time_info": "[14时56分 ~ 14时57分]"
         },
         {
           "title": "金价银价为什么同时下跌",
@@ -458,11 +471,12 @@
           "ranks": [
             17,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 14时57分]"
         }
       ]
     },
