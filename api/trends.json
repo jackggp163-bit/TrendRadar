@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T06:31:43.982727+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2025-10-23T07:29:54.673777+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -36,11 +36,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -52,6 +53,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 02时56分]"
+        },
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
@@ -180,11 +203,12 @@
           "url": "https://wallstreetcn.com/articles/3757632",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -198,8 +222,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "金价",
@@ -212,8 +236,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -293,8 +317,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "河南一老板挣100万分给员工85万",
@@ -303,11 +327,12 @@
           "ranks": [
             29,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 06时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 07时29分]"
         }
       ]
     },
