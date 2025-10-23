@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T02:52:46.322932+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2025-10-24T03:28:45.230950+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时28分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时28分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -59,7 +59,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         }
@@ -89,8 +89,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时28分]"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -100,19 +100,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时28分]"
         },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
           "url": "https://wallstreetcn.com/articles/3757691",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 03时28分]"
         }
       ]
     },
@@ -126,11 +127,12 @@
           "source": "微博",
           "ranks": [
             15,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时28分]"
         }
       ]
     }
