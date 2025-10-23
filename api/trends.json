@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T12:41:38.488553+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2025-10-23T13:38:57.663101+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时57分 ~ 13时38分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -45,17 +45,6 @@
           "time_info": "[03时25分 ~ 06时31分]"
         },
         {
-          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时56分]"
-        },
-        {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
           "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
@@ -64,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 13时38分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -75,8 +64,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 13时38分]"
+        },
+        {
+          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 02时56分]"
         },
         {
           "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
@@ -198,7 +198,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -209,8 +209,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时57分 ~ 13时38分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -250,8 +250,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 13时38分]"
+        },
+        {
+          "title": "黄金价格为何突然大幅回调",
+          "url": "https://www.toutiao.com/trending/7564185395232001575/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 13时38分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -265,17 +276,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时56分]"
-        },
-        {
-          "title": "黄金价格为何突然大幅回调",
-          "url": "https://www.toutiao.com/trending/7564185395232001575/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 12时41分]"
         },
         {
           "title": "金价回调可以“上车”了吗",
@@ -301,6 +301,18 @@
           "time_info": "[04时39分 ~ 05时26分]"
         },
         {
+          "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
+          "url": "https://wallstreetcn.com/livenews/2992304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时38分]"
+        },
+        {
           "title": "黄金价格大跳水 金价到顶了吗",
           "url": "https://www.toutiao.com/trending/7563965781701037609/",
           "source": "今日头条",
@@ -312,21 +324,21 @@
           "time_info": "[03时25分 ~ 03时26分]"
         },
         {
-          "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
-          "url": "https://wallstreetcn.com/livenews/2992304",
-          "source": "华尔街见闻-快讯",
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "13时38分"
         }
       ]
     },
     {
       "keyword_group": "河南",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "安徽多地、河南濮阳出现降雪？不实",
@@ -347,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 13时38分]"
         },
         {
           "title": "河南一老板挣100万分给员工85万",
@@ -374,6 +386,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "河南登封拟对一镇征收房产税引发热议，个人住房是否征税、该征多少税？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31824325",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "两大重磅项目签约 河南半导体产业发展再提速",
