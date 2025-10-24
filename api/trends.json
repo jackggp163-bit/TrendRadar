@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T01:37:27.768729+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2025-10-25T02:54:24.577772+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时54分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时54分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
@@ -68,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时54分]"
         },
         {
           "title": "河南南阳暴发猪瘟系谣言",
@@ -79,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时54分]"
         }
       ]
     }
