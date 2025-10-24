@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T13:37:47.904942+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-10-24T14:54:00.423295+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -20,18 +20,6 @@
           "time_info": "[00时50分 ~ 06时35分]"
         },
         {
-          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2178825",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时36分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
           "url": "https://www.cls.cn/detail/2179010",
           "source": "财联社热门",
@@ -41,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 14时54分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -53,8 +41,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 14时54分]"
+        },
+        {
+          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2178825",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时36分]"
         },
         {
           "title": "但斌最新美股持仓曝光：首度建仓阿里、博通，英伟达仍为第一大重仓股",
@@ -232,8 +232,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时54分]"
         },
         {
           "title": "分析人士：国际金价长期仍看涨",
@@ -241,11 +241,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时54分]"
         },
         {
           "title": "金价惊魂一夜后大妈挤爆金店",
@@ -316,7 +317,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         }
