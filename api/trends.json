@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T11:15:49.354463+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2025-10-25T12:40:55.300933+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
@@ -26,22 +26,24 @@
             6,
             5,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 11时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 12时40分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
           "url": "https://wallstreetcn.com/articles/3757811",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时40分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -59,17 +61,6 @@
           "time_info": "[04时38分 ~ 11时15分]"
         },
         {
-          "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251025040539216800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时38分 ~ 07时31分]"
-        },
-        {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
           "url": "https://www.cls.cn/detail/2180462",
           "source": "财联社热门",
@@ -79,8 +70,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时37分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[06时37分 ~ 12时40分]"
+        },
+        {
+          "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251025040539216800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时31分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）热门中概股行情一览（美股收盘）",
@@ -172,22 +174,24 @@
           "url": "https://www.zhihu.com/question/1965166798556061718",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时40分]"
         },
         {
           "title": "河南造出全球最大培育钻石",
           "url": "https://www.toutiao.com/trending/7564598897667113003/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时40分]"
         }
       ]
     },
@@ -262,11 +266,12 @@
           "url": "https://wallstreetcn.com/articles/3757808",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时40分]"
         }
       ]
     }
