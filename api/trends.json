@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T15:30:56.267946+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2025-10-25T16:42:16.687687+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时50分 ~ 07时31分]"
         },
         {
+          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
+          "url": "https://wallstreetcn.com/articles/3757811",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 16时42分]"
+        },
+        {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
           "url": "https://www.cls.cn/detail/2180240",
           "source": "财联社热门",
@@ -31,20 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 15时30分]"
-        },
-        {
-          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
-          "url": "https://wallstreetcn.com/articles/3757811",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 15时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 16时42分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -53,11 +53,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时37分 ~ 15时30分]"
+          "appearance_count": 9,
+          "time_info": "[06时37分 ~ 16时42分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -154,11 +155,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 15时30分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 16时42分]"
         },
         {
           "title": "河南南阳暴发猪瘟系谣言",
