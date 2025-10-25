@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T14:46:07.860000+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-10-25T15:30:56.267946+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 14时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 15时30分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时30分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时37分 ~ 14时46分]"
+          "appearance_count": 8,
+          "time_info": "[06时37分 ~ 15时30分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -149,6 +149,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "河南漯河一「吃苦幼儿园」靠筛麦子、做烧鸡等劳动教学走红，它为啥能火？这种教学的价值在哪里？",
+          "url": "https://www.zhihu.com/question/1965166798556061718",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时30分]"
+        },
+        {
           "title": "河南南阳暴发猪瘟系谣言",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%8D%97%E9%98%B3%E6%9A%B4%E5%8F%91%E7%8C%AA%E7%98%9F%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
@@ -158,18 +170,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 11时15分]"
-        },
-        {
-          "title": "河南漯河一「吃苦幼儿园」靠筛麦子、做烧鸡等劳动教学走红，它为啥能火？这种教学的价值在哪里？",
-          "url": "https://www.zhihu.com/question/1965166798556061718",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时46分]"
         },
         {
           "title": "河南南阳暴发猪瘟？假的",
