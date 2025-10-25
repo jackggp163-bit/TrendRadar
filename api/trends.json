@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T13:35:53.524824+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2025-10-25T14:46:07.860000+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             5,
             4,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 13时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 14时46分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -42,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时46分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -55,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时37分 ~ 13时35分]"
+          "appearance_count": 7,
+          "time_info": "[06时37分 ~ 14时46分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -159,6 +160,18 @@
           "time_info": "[00时50分 ~ 11时15分]"
         },
         {
+          "title": "河南漯河一「吃苦幼儿园」靠筛麦子、做烧鸡等劳动教学走红，它为啥能火？这种教学的价值在哪里？",
+          "url": "https://www.zhihu.com/question/1965166798556061718",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时46分]"
+        },
+        {
           "title": "河南南阳暴发猪瘟？假的",
           "url": "https://www.toutiao.com/trending/7564620871562838066/",
           "source": "今日头条",
@@ -168,18 +181,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 07时31分]"
-        },
-        {
-          "title": "河南漯河一「吃苦幼儿园」靠筛麦子、做烧鸡等劳动教学走红，它为啥能火？这种教学的价值在哪里？",
-          "url": "https://www.zhihu.com/question/1965166798556061718",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时35分]"
         },
         {
           "title": "河南造出全球最大培育钻石",
@@ -267,11 +268,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时46分]"
         }
       ]
     }
