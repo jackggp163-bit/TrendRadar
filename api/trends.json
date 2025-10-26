@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T00:48:50.189777+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-10-27T01:40:22.851001+08:00",
+  "total_titles_processed": 333,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时40分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -26,8 +26,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时40分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/1965807420434511226",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时40分]"
         }
       ]
     }
