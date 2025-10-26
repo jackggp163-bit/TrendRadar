@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T12:42:06.034247+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2025-10-26T13:36:04.630725+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 12时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 13时36分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -70,11 +70,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时36分]"
         },
         {
           "title": "王安宇一年归来仍是河南老乡",
