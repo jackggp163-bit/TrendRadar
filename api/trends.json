@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T04:36:19.821819+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2025-10-27T05:30:39.937948+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7565011357729521670/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 05时30分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -26,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 05时30分]"
         }
       ]
     },
