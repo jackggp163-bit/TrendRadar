@@ -1,174 +1,50 @@
 {
-  "generated_at": "2025-10-26T23:35:58.301439+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2025-10-27T00:48:50.189777+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "第一批金价下跌受害者出现了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D12%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258F%2597%25E5%25AE%25B3%25E8%2580%2585%25E5%2587%25BA%25E7%258E%25B0%25E4%25BA%2586%2523%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D13%26c_type%3D31%26realpos%3D13%26stream_entry_id%3D31%26cate%3D5001%26display_time%3D1761461711%26pre_seqid%3D176146171190901159019127",
-          "source": "微博",
-          "ranks": [
-            13,
-            12,
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时57分 ~ 19时26分]"
-        },
-        {
-          "title": "金价暴跌 大学生把生活费亏没了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时57分 ~ 19时26分]"
-        },
         {
           "title": "第一批金价下跌受害者出现了",
           "url": "https://www.toutiao.com/trending/7565011357729521670/",
           "source": "今日头条",
           "ranks": [
-            1,
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D15%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26dgr%3D0%26realpos%3D15%26filter_type%3Drealtimehot%26pos%3D16%26c_type%3D31%26flag%3D2%26display_time%3D1761483609%26pre_seqid%3D17614836096630367348965",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26dgr%3D0%26pos%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26flag%3D2%26cate%3D5001%26lcate%3D5001%26band_rank%3D21%26display_time%3D1761496155%26pre_seqid%3D1761496155788032636497",
           "source": "微博",
           "ranks": [
-            15,
-            22,
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 23时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
-          "url": "https://wallstreetcn.com/articles/3757811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时35分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时45分 ~ 15时28分]"
-        },
-        {
-          "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1965195615022587967",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 11时32分]"
-        },
-        {
-          "title": "美股为何一直在上涨",
-          "url": "https://www.toutiao.com/trending/7564074588235317290/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 03时29分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "河南",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "河南多地出现大雾 部分高速禁止所有车辆上站",
-          "url": "https://flash.jin10.com/detail/20251026105351156800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 13时36分]"
-        },
         {
           "title": "河南一幼儿园「硬核」体能课走红，孩子每天体能训练 1 小时，如何评价这种教育模式？有可能全国推广吗？",
           "url": "https://www.zhihu.com/question/1965807420434511226",
           "source": "知乎",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 23时35分]"
-        },
-        {
-          "title": "河南说唱之神新专深度访谈",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E8%AF%B4%E5%94%B1%E4%B9%8B%E7%A5%9E%E6%96%B0%E4%B8%93%E6%B7%B1%E5%BA%A6%E8%AE%BF%E8%B0%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "王安宇一年归来仍是河南老乡",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E5%AE%89%E5%AE%87%E4%B8%80%E5%B9%B4%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E6%B2%B3%E5%8D%97%E8%80%81%E4%B9%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E7%258E%258B%25E5%25AE%2589%25E5%25AE%2587%25E4%25B8%2580%25E5%25B9%25B4%25E5%25BD%2592%25E6%259D%25A5%25E4%25BB%258D%25E6%2598%25AF%25E6%25B2%25B3%25E5%258D%2597%25E8%2580%2581%25E4%25B9%25A1%26dgr%3D0%26cate%3D5001%26band_rank%3D28%26realpos%3D28%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26pos%3D27%26display_time%3D1761433808%26pre_seqid%3D1761433808064031213811",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "00时48分"
         }
       ]
     }
