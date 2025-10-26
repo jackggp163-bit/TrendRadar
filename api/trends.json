@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T18:36:47.990023+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2025-10-26T19:26:33.998871+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时57分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[14时57分 ~ 19时26分]"
         },
         {
           "title": "金价暴跌 大学生把生活费亏没了",
@@ -85,11 +85,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时57分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[14时57分 ~ 19时26分]"
         }
       ]
     },
