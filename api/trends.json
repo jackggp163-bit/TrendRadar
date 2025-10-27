@@ -1,64 +1,11 @@
 {
-  "generated_at": "2025-10-27T13:43:22.273329+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2025-10-27T14:59:32.449631+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251027060229559800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时30分]"
-        },
-        {
-          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
-          "url": "https://wallstreetcn.com/livenews/2993801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时30分]"
-        },
-        {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时43分]"
-        },
-        {
-          "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20251027111943892800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -93,6 +40,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "业内：金价急跌套牢Z世代",
+          "url": "https://www.toutiao.com/trending/7565736865819528746/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 14时59分]"
+        },
+        {
+          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251027060229559800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时30分]"
+        },
+        {
+          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
+          "url": "https://wallstreetcn.com/livenews/2993801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时30分]"
+        },
+        {
+          "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20251027111943892800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     },
@@ -107,7 +119,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
