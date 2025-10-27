@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T18:46:17.025979+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-10-27T19:30:40.473704+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时45分 ~ 16时51分]"
+        },
+        {
+          "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
+          "url": "https://flash.jin10.com/detail/20251027190236928800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -49,11 +60,12 @@
           "url": "https://www.cls.cn/detail/2182013",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 19时30分]"
         },
         {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
@@ -65,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "凯登斯银行美股盘前上涨3.2%。",
+          "url": "https://flash.jin10.com/detail/20251027185322298800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "美股盘前，科技股、中概股普涨",
@@ -155,8 +178,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 19时30分]"
         },
         {
           "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
@@ -174,11 +197,42 @@
           "url": "https://flash.jin10.com/detail/20251027182712790800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "河南一幼儿园「硬核」体能课走红，孩子每天体能训练 1 小时，如何评价这种教育模式？有可能全国推广吗？",
+          "url": "https://www.zhihu.com/question/1965807420434511226",
+          "source": "知乎",
+          "ranks": [
+            10,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时30分]"
+        },
+        {
+          "title": "河南新蔡县一事业单位招聘被疑“萝卜岗”，官方致歉：责成纪委调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31841776",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时30分"
         }
       ]
     },
@@ -196,25 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "河南一幼儿园「硬核」体能课走红，孩子每天体能训练 1 小时，如何评价这种教育模式？有可能全国推广吗？",
-          "url": "https://www.zhihu.com/question/1965807420434511226",
-          "source": "知乎",
-          "ranks": [
-            10,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 07时30分]"
         }
       ]
     }
