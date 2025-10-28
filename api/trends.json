@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T01:41:36.437516+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-10-29T02:57:47.716379+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时57分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -26,8 +26,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时57分]"
+        },
+        {
+          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
@@ -36,7 +47,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         }
@@ -55,7 +66,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -65,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时57分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -76,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时57分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -85,11 +96,23 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时57分]"
+        },
+        {
+          "title": "金价银价暴跌原因",
+          "url": "https://www.douyin.com/hot/2285515",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         }
       ]
     },
@@ -105,8 +128,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时57分]"
         }
       ]
     }
