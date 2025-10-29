@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T21:47:10.099275+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2025-10-29T22:47:36.240694+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -66,17 +66,6 @@
           "time_info": "19时31分"
         },
         {
-          "title": "美股盘初：半导体股普涨，英伟达成为史上首家市值站上5万亿美元的公司",
-          "url": "https://wallstreetcn.com/livenews/2996031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
           "url": "https://wallstreetcn.com/articles/3758056",
           "source": "华尔街见闻",
@@ -101,6 +90,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 06时40分]"
+        },
+        {
+          "title": "美股盘初：半导体股普涨，英伟达成为史上首家市值站上5万亿美元的公司",
+          "url": "https://wallstreetcn.com/livenews/2996031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 22时47分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
@@ -208,6 +209,17 @@
           "time_info": "19时31分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近2%，全球科技股指数ETF涨超1%，日常消费品ETF跌超1%，金融业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2996056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "礼来(LLY.N)美股盘前涨近1%，公司宣布沃尔玛将提供Zepbound注射剂的取药服务。",
           "url": "https://flash.jin10.com/detail/20251029191217764800",
           "source": "金十数据",
@@ -225,7 +237,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -247,7 +259,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -402,6 +414,17 @@
           "time_info": "[17时39分 ~ 19时31分]"
         },
         {
+          "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
+          "url": "https://www.zhihu.com/question/1966579524385903459",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 22时47分]"
+        },
+        {
           "title": "汇丰：金价料将于明年上半年见顶 峰值指向4400美元",
           "url": "https://flash.jin10.com/detail/20251029144255061800",
           "source": "金十数据",
@@ -412,17 +435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时58分 ~ 15时35分]"
-        },
-        {
-          "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
-          "url": "https://www.zhihu.com/question/1966579524385903459",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "金价暴跌有投资者打算割肉离场",
@@ -482,8 +494,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时35分 ~ 22时47分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -493,8 +505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时35分 ~ 22时47分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -504,8 +516,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时35分 ~ 22时47分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -515,8 +527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时35分 ~ 22时47分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -529,8 +541,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时35分 ~ 22时47分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 22时47分]"
         },
         {
           "title": "习近平：关于《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》的说明",
@@ -545,17 +568,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[05时32分 ~ 16时52分]"
-        },
-        {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 21时47分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
