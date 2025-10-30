@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T16:51:42.807420+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2025-10-30T17:39:15.140057+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "习近平",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -18,6 +18,67 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[04时46分 ~ 14时53分]"
+        },
+        {
+          "title": "习近平抵达韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854185",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时33分 ~ 17时39分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时33分 ~ 17时39分]"
+        },
+        {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 17时39分]"
+        },
+        {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 17时39分]"
+        },
+        {
+          "title": "习近平：让中美关系这艘大船平稳前行",
+          "url": "https://www.cls.cn/detail/2185755",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时33分 ~ 17时39分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -40,17 +101,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时46分 ~ 07时32分]"
-        },
-        {
-          "title": "习近平抵达韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854185",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 16时51分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -76,55 +126,6 @@
           "time_info": "[11时33分 ~ 16时51分]"
         },
         {
-          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 16时51分]"
-        },
-        {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时51分]"
-        },
-        {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时51分]"
-        },
-        {
-          "title": "习近平：让中美关系这艘大船平稳前行",
-          "url": "https://www.cls.cn/detail/2185755",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 16时51分]"
-        },
-        {
           "title": "习近平同特朗普握手合影",
           "url": "https://www.cls.cn/detail/2185819",
           "source": "财联社热门",
@@ -132,11 +133,58 @@
             8,
             7,
             5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 17时39分]"
+        },
+        {
+          "title": "习近平同特朗普会晤 详讯公布",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 17时39分]"
+        },
+        {
+          "title": "会晤结束后 特朗普送习近平上车",
+          "url": "https://www.toutiao.com/trending/7566894327608200731/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 17时39分]"
+        },
+        {
+          "title": "会晤结束后 特朗普送习近平上车",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%9A%E6%99%A4%E7%BB%93%E6%9D%9F%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8A%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 17时39分]"
+        },
+        {
+          "title": "会晤结束后特朗普送习近平上车",
+          "url": "https://www.douyin.com/hot/2288460",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时39分]"
         },
         {
           "title": "习近平：让中美关系这艘大船平稳前行",
@@ -163,17 +211,6 @@
           "time_info": "[14时53分 ~ 16时51分]"
         },
         {
-          "title": "习近平同特朗普会晤 详讯公布",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时51分]"
-        },
-        {
           "title": "习近平同美国总统特朗普会晤",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -185,39 +222,15 @@
           "time_info": "[12时42分 ~ 13时41分]"
         },
         {
-          "title": "会晤结束后 特朗普送习近平上车",
-          "url": "https://www.toutiao.com/trending/7566894327608200731/",
-          "source": "今日头条",
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://www.cls.cn/detail/2186006",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时51分]"
-        },
-        {
-          "title": "会晤结束后 特朗普送习近平上车",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%9A%E6%99%A4%E7%BB%93%E6%9D%9F%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8A%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时51分]"
-        },
-        {
-          "title": "会晤结束后特朗普送习近平上车",
-          "url": "https://www.douyin.com/hot/2288460",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时51分]"
+          "time_info": "[16时51分 ~ 17时39分]"
         },
         {
           "title": "习近平同特朗普会晤开始",
@@ -264,17 +277,6 @@
           "time_info": "11时33分"
         },
         {
-          "title": "习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://www.cls.cn/detail/2186006",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
           "title": "中美元首会晤开始前，习近平同特朗普握手合影。 （央视新闻）",
           "url": "https://wallstreetcn.com/livenews/2996439",
           "source": "华尔街见闻-快讯",
@@ -285,6 +287,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时33分 ~ 12时42分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758273",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
+          "title": "习近平：让中美关系这艘大船平稳前行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854330",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855405",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -334,7 +369,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -410,6 +445,17 @@
           "time_info": "[04时46分 ~ 06时42分]"
         },
         {
+          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
           "title": "微软美股盘后跌幅收窄至3.4%。",
           "url": "https://wallstreetcn.com/livenews/2996252",
           "source": "华尔街见闻-快讯",
@@ -440,7 +486,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -487,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "好未来第二财季净营收8.614亿美元，预估8.305亿美元。 第二财季调整后每ADS收益 0.24美元，预估0.16美元。 好未来美股盘前涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/2996704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美股股指期货跌幅收窄，标普500指数期货和纳斯达克指数期货再次转为持平。",
@@ -550,7 +607,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -569,8 +626,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时31分 ~ 16时51分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 17时39分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -582,8 +639,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时31分 ~ 16时51分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 17时39分]"
         },
         {
           "title": "美债收益率全面上涨，2-10年期收益率至少涨10个基点，鲍威尔12月降息并非那么笃定的事",
@@ -607,6 +664,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价在美联储降息后回落 因鲍威尔试图撤回12月降息预期",
+          "url": "https://flash.jin10.com/detail/20251030041626474800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时42分]"
+        },
+        {
+          "title": "金价反弹",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26cate%3D5001%26band_rank%3D22%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E5%258F%258D%25E5%25BC%25B9%26dgr%3D0%26c_type%3D31%26realpos%3D22%26pos%3D23%26lcate%3D5001%26display_time%3D1761816722%26pre_seqid%3D17618167220370113881164",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
+          "title": "金价波动加剧，多家银行调整积存金起投门槛",
+          "url": "https://wallstreetcn.com/livenews/2996263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     },
@@ -647,36 +745,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价在美联储降息后回落 因鲍威尔试图撤回12月降息预期",
-          "url": "https://flash.jin10.com/detail/20251030041626474800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时42分]"
-        },
-        {
-          "title": "金价波动加剧，多家银行调整积存金起投门槛",
-          "url": "https://wallstreetcn.com/livenews/2996263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         }
       ]
     },
