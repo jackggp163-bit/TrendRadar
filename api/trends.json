@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T05:33:11.240283+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-10-31T06:36:22.413172+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 06时36分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 06时36分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -35,11 +35,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 06时36分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
+          "url": "https://www.cls.cn/detail/2187041",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 06时36分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
@@ -47,11 +59,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时36分]"
         },
         {
           "title": "苹果第四财季营收1024.7亿美元，分析师预期1021.9亿美元。 第四财季大中华区营收144.9亿美元，分析师预期164.3亿美元。 第四财季iPhone收入490.3亿美元，同比增长6.1%。 苹果股价美股盘后跌3%。",
@@ -63,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
-        },
-        {
-          "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20251031044521499800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -98,6 +100,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时41分]"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251031044521499800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时36分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
@@ -173,8 +187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 06时36分]"
         },
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -184,8 +198,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 06时36分]"
         },
         {
           "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
@@ -195,8 +209,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 06时36分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -205,11 +219,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 06时36分]"
         }
       ]
     },
@@ -225,8 +240,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 06时36分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -293,11 +308,12 @@
           "source": "微博",
           "ranks": [
             18,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时46分 ~ 05时33分]"
+          "appearance_count": 6,
+          "time_info": "[04时46分 ~ 06时36分]"
         }
       ]
     }
