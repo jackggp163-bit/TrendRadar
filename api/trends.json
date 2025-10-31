@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T07:31:30.527045+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2025-10-31T11:35:37.420193+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,23 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 07时31分]"
+          "appearance_count": 4,
+          "time_info": "[06时35分 ~ 11时35分]"
+        },
+        {
+          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 11时35分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 06时36分]"
-        },
-        {
-          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "苹果第四财季营收1024.7亿美元，分析师预期1021.9亿美元。 第四财季大中华区营收144.9亿美元，分析师预期164.3亿美元。 第四财季iPhone收入490.3亿美元，同比增长6.1%。 苹果股价美股盘后跌3%。",
@@ -191,7 +192,7 @@
     },
     {
       "keyword_group": "习近平",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "习近平抵达韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
@@ -220,11 +221,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 11时35分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -238,8 +240,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 11时35分]"
+        },
+        {
+          "title": "据央视新闻，习近平在亚太经合组织第三十二次领导人非正式会议第一阶段会议上的讲话全文发布。",
+          "url": "https://wallstreetcn.com/livenews/2997318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         }
       ]
     },
