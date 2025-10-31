@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T13:00:18.158885+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-10-31T13:41:45.326219+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时35分 ~ 13时00分]"
+          "appearance_count": 6,
+          "time_info": "[06时35分 ~ 13时41分]"
         },
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时41分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
@@ -225,8 +225,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 13时00分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 13时41分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -241,8 +241,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 13时00分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 13时41分]"
         },
         {
           "title": "据央视新闻，习近平在亚太经合组织第三十二次领导人非正式会议第一阶段会议上的讲话全文发布。",
@@ -357,7 +357,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         }
