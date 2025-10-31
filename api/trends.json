@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T00:55:37.184997+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-01T01:41:17.695644+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -26,8 +26,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251101004053080800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251101004045516800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -54,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "习近平会见日本首相高市早苗",
@@ -65,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "习近平会见日本首相高市早苗",
@@ -76,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         }
       ]
     },
@@ -90,11 +112,12 @@
           "url": "https://wallstreetcn.com/livenews/2997824",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         }
       ]
     },
@@ -110,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         }
       ]
     }
