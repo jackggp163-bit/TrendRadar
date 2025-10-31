@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T01:41:17.695644+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-11-01T02:58:18.046701+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股盘中）",
@@ -36,7 +36,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -76,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "习近平会见日本首相高市早苗",
@@ -87,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         },
         {
           "title": "习近平会见日本首相高市早苗",
@@ -98,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         }
       ]
     },
@@ -133,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时58分]"
         }
       ]
     }
