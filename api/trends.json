@@ -1,8 +1,218 @@
 {
-  "generated_at": "2025-11-01T17:33:25.605218+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2025-11-01T18:40:26.646620+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "习近平",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "习近平会见日本首相高市早苗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31861754",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 16时42分]"
+        },
+        {
+          "title": "习近平会见日本首相高市早苗",
+          "url": "https://www.douyin.com/hot/2289892",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时30分]"
+        },
+        {
+          "title": "习近平会见日本首相高市早苗",
+          "url": "https://www.cls.cn/detail/2188323",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 18时40分]"
+        },
+        {
+          "title": "习近平会见日本首相高市早苗",
+          "url": "https://wallstreetcn.com/articles/3758450",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 18时40分]"
+        },
+        {
+          "title": "国家主席习近平出席韩国总统李在明举行的欢迎仪式。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2997976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时47分 ~ 18时40分]"
+        },
+        {
+          "title": "习近平同韩国总统李在明会谈",
+          "url": "https://wallstreetcn.com/livenews/2998002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "习近平：将坚定不移扩大高水平对外开放，同世界各国共享发展机遇",
+          "url": "https://flash.jin10.com/detail/20251101181113522800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "习近平就开辟中韩关系新局面提出4点建议",
+          "url": "https://flash.jin10.com/detail/20251101180914247800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "习近平同韩国总统李在明会谈",
+          "url": "https://flash.jin10.com/detail/20251101180620574800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "习近平宣布中方将在深圳举办亚太经合组织第三十三次领导人非正式会议",
+          "url": "https://wallstreetcn.com/livenews/2997958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 15时28分]"
+        },
+        {
+          "title": "据央视新闻，习近平在亚太经合组织第三十二次领导人非正式会议第二阶段会议上的讲话全文发布。",
+          "url": "https://wallstreetcn.com/livenews/2997953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 14时47分]"
+        },
+        {
+          "title": "习近平同韩国总统李在明举行会谈。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/2997978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 18时40分]"
+        },
+        {
+          "title": "习近平会见加拿大总理卡尼",
+          "url": "https://wallstreetcn.com/articles/3758433",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 13时37分]"
+        },
+        {
+          "title": "APEC峰会首日｜习近平主席发表重要讲话，密集会见多国首脑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864881",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 18时40分]"
+        },
+        {
+          "title": "习近平将继续出席亚太经合组织第三十二次领导人非正式会议",
+          "url": "https://wallstreetcn.com/livenews/2997935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时39分]"
+        },
+        {
+          "title": "习近平将继续出席亚太经合组织第三十二次领导人非正式会议",
+          "url": "https://flash.jin10.com/detail/20251101085554039800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "习近平会见加拿大总理卡尼",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31860917",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 15,
@@ -27,8 +237,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 17时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 18时40分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -43,8 +253,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时38分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[06时38分 ~ 18时40分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -194,169 +404,6 @@
       ]
     },
     {
-      "keyword_group": "习近平",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "习近平会见日本首相高市早苗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31861754",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时55分 ~ 16时42分]"
-        },
-        {
-          "title": "习近平会见日本首相高市早苗",
-          "url": "https://www.douyin.com/hot/2289892",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时30分]"
-        },
-        {
-          "title": "习近平会见日本首相高市早苗",
-          "url": "https://www.cls.cn/detail/2188323",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 17时33分]"
-        },
-        {
-          "title": "习近平会见日本首相高市早苗",
-          "url": "https://wallstreetcn.com/articles/3758450",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时33分 ~ 17时33分]"
-        },
-        {
-          "title": "国家主席习近平出席韩国总统李在明举行的欢迎仪式。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/2997976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 17时33分]"
-        },
-        {
-          "title": "习近平宣布中方将在深圳举办亚太经合组织第三十三次领导人非正式会议",
-          "url": "https://wallstreetcn.com/livenews/2997958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 15时28分]"
-        },
-        {
-          "title": "据央视新闻，习近平在亚太经合组织第三十二次领导人非正式会议第二阶段会议上的讲话全文发布。",
-          "url": "https://wallstreetcn.com/livenews/2997953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 14时47分]"
-        },
-        {
-          "title": "习近平同韩国总统李在明举行会谈。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/2997978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时33分]"
-        },
-        {
-          "title": "习近平会见加拿大总理卡尼",
-          "url": "https://wallstreetcn.com/articles/3758433",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 13时37分]"
-        },
-        {
-          "title": "APEC峰会首日｜习近平主席发表重要讲话，密集会见多国首脑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864881",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 17时33分]"
-        },
-        {
-          "title": "习近平将继续出席亚太经合组织第三十二次领导人非正式会议",
-          "url": "https://wallstreetcn.com/livenews/2997935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 12时39分]"
-        },
-        {
-          "title": "习近平将继续出席亚太经合组织第三十二次领导人非正式会议",
-          "url": "https://flash.jin10.com/detail/20251101085554039800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "习近平会见加拿大总理卡尼",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31860917",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -424,11 +471,12 @@
           "url": "https://wallstreetcn.com/articles/3758466",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时40分]"
         }
       ]
     },
