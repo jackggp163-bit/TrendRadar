@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T01:36:06.809621+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2025-11-02T02:43:45.109603+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时43分]"
         },
         {
           "title": "习近平会见日本首相高市早苗",
           "url": "https://www.cls.cn/detail/2188323",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时43分]"
         },
         {
           "title": "习近平结束出席亚太经合组织第三十二次领导人非正式会议和对韩国的国事访问回到北京",
@@ -37,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时43分]"
         },
         {
           "title": "当地时间11月1日晚，国家主席习近平结束出席亚太经合组织第三十二次领导人非正式会议和对韩国的国事访问返回北京。",
@@ -48,8 +49,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时43分]"
         }
       ]
     },
@@ -57,6 +58,19 @@
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
+        {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时43分]"
+        },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3758419",
@@ -66,20 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时43分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -89,8 +91,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时43分]"
         }
       ]
     },
@@ -106,8 +108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时43分]"
         }
       ]
     },
@@ -123,8 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时43分]"
         }
       ]
     }
