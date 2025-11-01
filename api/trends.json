@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T07:30:10.903038+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-11-01T11:33:42.825455+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2188280",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 11时33分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -78,6 +79,31 @@
           "time_info": "[04时39分 ~ 07时30分]"
         },
         {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 11时33分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 11时33分]"
+        },
+        {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
           "url": "https://wallstreetcn.com/livenews/2997900",
           "source": "华尔街见闻-快讯",
@@ -104,18 +130,6 @@
           "time_info": "[05时32分 ~ 07时30分]"
         },
         {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时30分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
           "url": "https://wallstreetcn.com/livenews/2997895",
           "source": "华尔街见闻-快讯",
@@ -129,15 +143,15 @@
           "time_info": "[05时32分 ~ 07时30分]"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股盘中）",
@@ -175,51 +189,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价10月份涨3.7%，现货白银涨约4.3%",
-          "url": "https://wallstreetcn.com/livenews/2997897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 07时30分]"
-        },
-        {
-          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
-          "url": "https://www.cls.cn/detail/2188436",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时30分]"
-        },
-        {
-          "title": "金价短线跳水，从4020美元一线跌向3970美元",
-          "url": "https://wallstreetcn.com/livenews/2997824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "习近平",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "习近平会见日本首相高市早苗",
@@ -229,8 +200,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 11时33分]"
         },
         {
           "title": "习近平会见日本首相高市早苗",
@@ -248,11 +219,111 @@
           "url": "https://www.cls.cn/detail/2188323",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 11时33分]"
+        },
+        {
+          "title": "据央视新闻，习近平在亚太经合组织第三十二次领导人非正式会议第二阶段会议上的讲话全文发布。",
+          "url": "https://wallstreetcn.com/livenews/2997953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "习近平会见日本首相高市早苗",
+          "url": "https://wallstreetcn.com/articles/3758450",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "习近平会见加拿大总理卡尼",
+          "url": "https://wallstreetcn.com/articles/3758433",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "习近平将继续出席亚太经合组织第三十二次领导人非正式会议",
+          "url": "https://flash.jin10.com/detail/20251101085554039800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "习近平将继续出席亚太经合组织第三十二次领导人非正式会议",
+          "url": "https://wallstreetcn.com/livenews/2997935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
+          "url": "https://www.cls.cn/detail/2188436",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 11时33分]"
+        },
+        {
+          "title": "金价10月份涨3.7%，现货白银涨约4.3%",
+          "url": "https://wallstreetcn.com/livenews/2997897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时30分]"
+        },
+        {
+          "title": "金价短线跳水，从4020美元一线跌向3970美元",
+          "url": "https://wallstreetcn.com/livenews/2997824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         }
       ]
     },
