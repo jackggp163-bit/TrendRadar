@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T06:35:13.892640+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-11-02T07:30:20.273123+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时30分]"
         },
         {
           "title": "习近平会见日本首相高市早苗",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时30分]"
         },
         {
           "title": "当地时间11月1日晚，国家主席习近平结束出席亚太经合组织第三十二次领导人非正式会议和对韩国的国事访问返回北京。",
@@ -49,8 +49,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时30分]"
         }
       ]
     },
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时30分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -78,11 +78,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时30分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -93,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时30分]"
         }
       ]
     },
@@ -127,8 +128,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河南某学校卖淋巴肉？假的",
+          "url": "https://www.toutiao.com/trending/7567181004297928746/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         }
       ]
     }
