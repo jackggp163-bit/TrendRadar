@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T18:36:09.328995+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2025-11-02T19:24:32.870661+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "习近平",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "习近平宣布中方将在深圳举办亚太经合组织第三十三次领导人非正式会议",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 07时30分]"
+        },
+        {
+          "title": "王毅谈习近平主席出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
+          "url": "https://flash.jin10.com/detail/20251102184838567800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
@@ -168,8 +179,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[07时30分 ~ 19时24分]"
         },
         {
           "title": "网传河南某学校卖淋巴肉系谣言",
