@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T16:40:28.722703+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2025-11-02T17:30:34.828990+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "[00时44分 ~ 06时35分]"
         },
         {
+          "title": "习近平同韩国总统李在明会谈",
+          "url": "https://wallstreetcn.com/articles/3758479",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 17时30分]"
+        },
+        {
           "title": "习近平结束出席亚太经合组织第三十二次领导人非正式会议和对韩国的国事访问回到北京",
           "url": "https://flash.jin10.com/detail/20251101223049523800",
           "source": "金十数据",
@@ -51,19 +64,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时44分 ~ 07时30分]"
-        },
-        {
-          "title": "习近平同韩国总统李在明会谈",
-          "url": "https://wallstreetcn.com/articles/3758479",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 16时40分]"
         }
       ]
     },
@@ -168,8 +168,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 16时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时30分 ~ 17时30分]"
         },
         {
           "title": "网传河南某学校卖淋巴肉系谣言",
@@ -179,8 +179,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 17时30分]"
         },
         {
           "title": "河南洛宁当地回应野猪街头横冲直撞",
