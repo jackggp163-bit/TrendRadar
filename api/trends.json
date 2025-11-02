@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T05:28:23.202768+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-11-03T06:36:19.607275+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时36分]"
         },
         {
           "title": "河南一学校卖淋巴肉系谣言",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时36分]"
         }
       ]
     },
@@ -44,11 +44,12 @@
             11,
             10,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时36分]"
         }
       ]
     }
