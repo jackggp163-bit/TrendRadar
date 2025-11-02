@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T15:29:31.907121+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2025-11-02T16:40:28.722703+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 16时40分]"
         }
       ]
     },
@@ -167,8 +168,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时30分 ~ 15时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时30分 ~ 16时40分]"
         },
         {
           "title": "网传河南某学校卖淋巴肉系谣言",
@@ -178,8 +179,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 16时40分]"
         },
         {
           "title": "河南洛宁当地回应野猪街头横冲直撞",
@@ -188,7 +189,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
