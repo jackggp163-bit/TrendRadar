@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T13:45:20.736658+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2025-11-03T15:02:45.227052+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
           "ranks": [
             10,
             12,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 13时45分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时02分]"
         },
         {
           "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货涨0.11%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
