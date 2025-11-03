@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T11:44:10.181427+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-11-03T12:52:26.443882+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://www.cls.cn/detail/2189006",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 11时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 12时52分]"
         },
         {
           "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货涨0.11%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
@@ -82,8 +83,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 11时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 12时52分]"
         }
       ]
     },
@@ -99,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 11时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时52分]"
         },
         {
           "title": "河南某学校卖淋巴肉？假的",
