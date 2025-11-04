@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T01:36:43.493204+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-11-05T02:52:09.938441+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时52分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -28,8 +28,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时52分]"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251105013105408800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         }
       ]
     },
@@ -45,8 +56,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时52分]"
         }
       ]
     },
