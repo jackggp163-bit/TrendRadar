@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T14:57:07.902254+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2025-11-04T15:34:04.951147+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 14时57分]"
+          "appearance_count": 9,
+          "time_info": "[11时31分 ~ 15时34分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时31分 ~ 14时57分]"
+          "appearance_count": 10,
+          "time_info": "[07时31分 ~ 15时34分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -154,7 +154,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -202,11 +202,12 @@
           "url": "https://flash.jin10.com/detail/20251104144102291800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时34分]"
         },
         {
           "title": "30年期美债收益率涨约3.7个基点",
@@ -265,8 +266,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 14时57分]"
+          "appearance_count": 20,
+          "time_info": "[00时49分 ~ 15时34分]"
         },
         {
           "title": "河南省军区原司令员朱超逝世",
@@ -287,38 +288,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时31分 ~ 14时57分]"
-        },
-        {
-          "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
-          "url": "https://wallstreetcn.com/livenews/2998742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时33分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
@@ -331,6 +302,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时27分]"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）上海金午盘价为913.54元/克，较国际金价(912.74元/克)，高0.8元/克",
+          "url": "https://flash.jin10.com/detail/20251104150233781800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时31分 ~ 15时34分]"
+        },
+        {
+          "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
+          "url": "https://wallstreetcn.com/livenews/2998742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时33分]"
         }
       ]
     },
@@ -349,8 +362,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 14时57分]"
+          "appearance_count": 20,
+          "time_info": "[00时49分 ~ 15时34分]"
         }
       ]
     },
