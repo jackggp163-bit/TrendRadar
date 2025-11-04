@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T11:32:04.536115+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2025-11-04T12:42:49.191971+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 12时42分]"
+        },
+        {
+          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
+          "url": "https://www.cls.cn/detail/2190089",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时42分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
-        },
-        {
-          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
-          "url": "https://www.cls.cn/detail/2190089",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 11时32分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -132,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 12时42分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -213,8 +213,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 11时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 12时42分]"
         },
         {
           "title": "河南省军区原司令员朱超逝世",
@@ -288,8 +288,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 12时42分]"
         }
       ]
     },
@@ -326,8 +326,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 11时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 12时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "习近平",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "习近平会见俄罗斯总理米舒斯京",
+          "url": "https://wallstreetcn.com/livenews/2998972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     }
