@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T02:52:09.938441+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2025-11-05T03:28:36.588546+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -28,19 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 03时28分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251105013105408800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时28分]"
         }
       ]
     },
@@ -56,8 +57,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 03时28分]"
         }
       ]
     },
