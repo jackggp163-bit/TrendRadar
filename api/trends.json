@@ -1,640 +1,118 @@
 {
-  "generated_at": "2025-11-06T23:43:42.730084+08:00",
-  "total_titles_processed": 1953,
+  "generated_at": "2025-11-07T00:57:39.274038+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时39分]"
-        },
-        {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 14时55分]"
-        },
-        {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 15时33分]"
-        },
-        {
-          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
-          "url": "https://wallstreetcn.com/articles/3758685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时34分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 17时41分]"
-        },
-        {
-          "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
-        },
-        {
-          "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
-          "url": "https://flash.jin10.com/detail/20251106191520119800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "多邻国美股跌幅达创纪录的27%，股价跌至2024年8月以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20251106223241147800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3000481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时31分]"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251106051410709800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时39分]"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251106051116318800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时39分]"
-        },
-        {
-          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
-          "url": "https://wallstreetcn.com/livenews/3000501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时31分]"
-        },
-        {
-          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
-          "url": "https://wallstreetcn.com/livenews/3000620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
-          "url": "https://wallstreetcn.com/livenews/3000619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2193483",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时43分 ~ 23时43分]"
-        },
-        {
-          "title": "特朗普上任一年美股跑输全球大盘",
-          "url": "https://www.toutiao.com/trending/7569232858510790187/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 02时55分]"
-        },
-        {
-          "title": "Snap三季度营收15.1亿美元，分析师预期14.9亿美元。 三季度日活用户数4.77亿，分析师预期4.7631亿。 三季度调整后EBITDA为1.82亿美元，分析师预期1.242亿美元。 预计四季度营收16.8亿-17.1亿美元，分析师预期16.9亿美元。 Snap与Perplexity构建合作伙伴关系，将向SnapChat提供人工智能（AI）搜索功能。 Snap美股盘后涨15.99%。",
-          "url": "https://wallstreetcn.com/livenews/3000106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时39分]"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3000606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
-          "url": "https://wallstreetcn.com/livenews/3000605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251106014154445800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时28分]"
-        },
-        {
-          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
-          "url": "https://wallstreetcn.com/livenews/3000599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时43分]"
-        },
-        {
-          "title": "特朗普称美股将再创新高",
-          "url": "https://www.toutiao.com/trending/7569403413117537838/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 超微电脑跌11%",
-          "url": "https://flash.jin10.com/detail/20251106050116805800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美股三大股指集体低开",
-          "url": "https://flash.jin10.com/detail/20251106223025425800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3000125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "费城金银指数收涨2.64%，报272.02点。 纽约证交所ARCA金矿开采商指数收涨2.61%，报1976.44点，北京时间22:30美股开盘之前微幅下跌、持稳于1925点附近，之后“跳空”上涨、持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3000124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "Metsera美股盘后涨6.8%。",
-          "url": "https://wallstreetcn.com/livenews/3000123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
-          "url": "https://wallstreetcn.com/livenews/3000120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251106014135995800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美妆公司E.l.f. Beauty美股盘后下跌30%。",
-          "url": "https://wallstreetcn.com/livenews/3000117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "美股延续涨势，纳指涨幅达1%，道指现涨0.75%，标普500指数涨0.83%。",
-          "url": "https://flash.jin10.com/detail/20251106013722040800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "美股低开低走，纳指跌幅扩大至1%，标普500指数跌0.68%，道指跌0.65%。",
-          "url": "https://flash.jin10.com/detail/20251106230312926800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时38分 ~ 23时43分]"
-        },
-        {
-          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时39分]"
-        },
-        {
-          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
-          "url": "https://wallstreetcn.com/livenews/3000636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
-          "url": "https://flash.jin10.com/detail/20251106011605092800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时55分]"
-        },
-        {
-          "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
-          "url": "https://wallstreetcn.com/livenews/3000088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时31分]"
+          "time_info": "00时57分"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
           "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
-          "url": "https://www.cls.cn/detail/2192526",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "00时57分"
         },
         {
-          "title": "机构：黄金冲关4000美元乏力，强势美债收益率成逆风",
-          "url": "https://flash.jin10.com/detail/20251106142028591800",
-          "source": "金十数据",
+          "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
+          "url": "https://wallstreetcn.com/livenews/3000653",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时55分"
+          "time_info": "00时57分"
+        },
+        {
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
           "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时31分 ~ 23时43分]"
-        },
-        {
-          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
-          "url": "https://wallstreetcn.com/livenews/3000356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 15时33分]"
-        },
-        {
-          "title": "澳大利亚贸易顺差受金价飙升推动",
-          "url": "https://flash.jin10.com/detail/20251106125006375800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3000006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "00时57分"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26stream_entry_id%3D31%26dgr%3D0%26pos%3D28%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26band_rank%3D28%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26display_time%3D1762442924%26pre_seqid%3D176244292421103437747153&launchid=10000360-page_H5",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            28
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时43分"
+          "time_info": "00时57分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3000064",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时41分]"
-        },
-        {
-          "title": "周三（11月5日）纽约尾盘，ICE美元指数跌0.02%，报100.200点，日内交投区间为100.360-100.059点，北京时间21:15发布美国ADP小非农就业数据前下探100.150点、之后涨向100.350点，23:00发布美国ISM非织造业指数时显著反弹、并刷新日高。 彭博美元指数跌0.08%，报1225.05点，日内交投区间为1227.08-1224.82点。",
-          "url": "https://wallstreetcn.com/livenews/3000081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "00时57分"
         },
         {
-          "title": "美元指数5日微跌",
-          "url": "https://flash.jin10.com/detail/20251106052645207800",
+          "title": "美股跌势扩大，道指跌幅达1%，标普500指数跌1.07%，纳指现跌1.73%。",
+          "url": "https://flash.jin10.com/detail/20251107002658179800",
           "source": "金十数据",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "美元指数DXY失守100，日内跌幅0.12%。",
-          "url": "https://flash.jin10.com/detail/20251106140451205800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "周三（11月5日）纽约尾盘，ICE美元指数跌0.02%，报100.200点，日内交投区间为100.360-100.059点，北京时间21:15发布美国ADP小非农就业数据前下探100.150点、之后涨向100.350点，23:00发布美国ISM非制造业指数时显著反弹、并刷新日高。 彭博美元指数跌0.08%，报1225.05点，日内交投区间为1227.08-1224.82点。",
-          "url": "https://wallstreetcn.com/livenews/3000081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "00时57分"
         }
       ]
     },
     {
       "keyword_group": "河南",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "河南公安厅刑侦总队政委主动投案",
-          "url": "https://www.toutiao.com/trending/7568479262858035251/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 16时52分]"
-        },
-        {
-          "title": "河南一公墓遭有组织冲击 3人被拘",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%85%AC%E5%A2%93%E9%81%AD%E6%9C%89%E7%BB%84%E7%BB%87%E5%86%B2%E5%87%BB+3%E4%BA%BA%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            27,
-            24,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时55分 ~ 07时34分]"
-        },
         {
           "title": "河南安徽等地中小学今年放秋假？假",
           "url": "https://www.toutiao.com/trending/7569108378887471130/",
@@ -643,60 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 23时43分]"
-        },
-        {
-          "title": "河南公安厅刑侦总队政委主动投案",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B2%B3%E5%8D%97%E5%85%AC%E5%AE%89%E5%8E%85%E5%88%91%E4%BE%A6%E6%80%BB%E9%98%9F%E6%94%BF%E5%A7%94%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E6%25B2%25B3%25E5%258D%2597%25E5%2585%25AC%25E5%25AE%2589%25E5%258E%2585%25E5%2588%2591%25E4%25BE%25A6%25E6%2580%25BB%25E9%2598%259F%25E6%2594%25BF%25E5%25A7%2594%25E4%25B8%25BB%25E5%258A%25A8%25E6%258A%2595%25E6%25A1%2588%2523%26flag%3D1%26c_type%3D31%26band_rank%3D20%26lcate%3D5001%26realpos%3D20%26pos%3D20%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762400279%26pre_seqid%3D176240027976404331913&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
-        },
-        {
-          "title": "十五运会男篮成年组四川战胜河南",
-          "url": "https://www.toutiao.com/trending/7568716485456805942/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "习近平",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "习近平：认真学习贯彻党的二十届四中全会精神 高标准建设海南自由贸易港",
-          "url": "https://www.cls.cn/detail/2192957",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时52分 ~ 21时42分]"
-        },
-        {
-          "title": "习近平：认真学习贯彻党的二十届四中全会精神 高标准建设海南自由贸易港",
-          "url": "https://wallstreetcn.com/livenews/3000398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时52分]"
+          "time_info": "00时57分"
         }
       ]
     }
