@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:34:04.097295+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-11-06T11:39:14.587863+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -44,6 +44,29 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 11时39分]"
+        },
+        {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251106051410709800",
           "source": "金十数据",
@@ -79,17 +102,6 @@
           "time_info": "[01时39分 ~ 02时55分]"
         },
         {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
-        },
-        {
           "title": "Snap三季度营收15.1亿美元，分析师预期14.9亿美元。 三季度日活用户数4.77亿，分析师预期4.7631亿。 三季度调整后EBITDA为1.82亿美元，分析师预期1.242亿美元。 预计四季度营收16.8亿-17.1亿美元，分析师预期16.9亿美元。 Snap与Perplexity构建合作伙伴关系，将向SnapChat提供人工智能（AI）搜索功能。 Snap美股盘后涨15.99%。",
           "url": "https://wallstreetcn.com/livenews/3000106",
           "source": "华尔街见闻-快讯",
@@ -102,6 +114,17 @@
           "time_info": "[05时31分 ~ 06时39分]"
         },
         {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251106014154445800",
           "source": "金十数据",
@@ -112,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时28分]"
+        },
+        {
+          "title": "特朗普称美股将再创新高",
+          "url": "https://www.toutiao.com/trending/7569403413117537838/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "美股收盘：三大股指收涨 超微电脑跌11%",
@@ -204,6 +238,58 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时39分]"
+        },
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
+          "url": "https://flash.jin10.com/detail/20251106011605092800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时55分]"
+        },
+        {
+          "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
+          "url": "https://wallstreetcn.com/livenews/3000088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时31分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -255,49 +341,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时39分]"
-        },
-        {
-          "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
-          "url": "https://flash.jin10.com/detail/20251106011605092800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时55分]"
-        },
-        {
-          "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
-          "url": "https://wallstreetcn.com/livenews/3000088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时31分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "河南",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "河南一公墓遭有组织冲击 3人被拘",
@@ -313,6 +358,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时55分 ~ 07时34分]"
+        },
+        {
+          "title": "河南公安厅刑侦总队政委主动投案",
+          "url": "https://www.toutiao.com/trending/7568479262858035251/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "河南公安厅刑侦总队政委主动投案",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B2%B3%E5%8D%97%E5%85%AC%E5%AE%89%E5%8E%85%E5%88%91%E4%BE%A6%E6%80%BB%E9%98%9F%E6%94%BF%E5%A7%94%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E6%25B2%25B3%25E5%258D%2597%25E5%2585%25AC%25E5%25AE%2589%25E5%258E%2585%25E5%2588%2591%25E4%25BE%25A6%25E6%2580%25BB%25E9%2598%259F%25E6%2594%25BF%25E5%25A7%2594%25E4%25B8%25BB%25E5%258A%25A8%25E6%258A%2595%25E6%25A1%2588%2523%26flag%3D1%26c_type%3D31%26band_rank%3D20%26lcate%3D5001%26realpos%3D20%26pos%3D20%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762400279%26pre_seqid%3D176240027976404331913&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "十五运会男篮成年组四川战胜河南",
