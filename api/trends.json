@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T15:33:22.402219+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-11-07T16:52:29.356523+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时30分 ~ 15时33分]"
+          "appearance_count": 10,
+          "time_info": "[07时30分 ~ 16时52分]"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
@@ -200,6 +200,18 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时30分 ~ 16时52分]"
+        },
+        {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -222,18 +234,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 06时39分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时30分 ~ 15时33分]"
         },
         {
           "title": "机构：预计10年期美债收益率将降至4%下方",
@@ -298,8 +298,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 15时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 16时52分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -345,6 +345,47 @@
       ]
     },
     {
+      "keyword_group": "习近平",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "我国第一艘电磁弹射型航空母舰入列，习近平出席入列授旗仪式并登舰视察",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31915288",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 16时52分]"
+        },
+        {
+          "title": "我国第一艘电磁弹射型航空母舰入列 习近平出席入列授旗仪式并登舰视察",
+          "url": "https://www.cls.cn/detail/2193999",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 16时52分]"
+        },
+        {
+          "title": "视频丨我国第一艘电磁弹射型航空母舰入列，习近平出席入列授旗仪式并登舰视察",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31915315",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -370,35 +411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "习近平",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我国第一艘电磁弹射型航空母舰入列，习近平出席入列授旗仪式并登舰视察",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31915288",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时33分]"
-        },
-        {
-          "title": "我国第一艘电磁弹射型航空母舰入列 习近平出席入列授旗仪式并登舰视察",
-          "url": "https://www.cls.cn/detail/2193999",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时33分]"
         }
       ]
     },
