@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T14:54:46.543470+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-11-07T15:33:22.402219+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时39分 ~ 14时54分]"
+          "appearance_count": 10,
+          "time_info": "[06时39分 ~ 15时33分]"
+        },
+        {
+          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
+          "url": "https://www.cls.cn/detail/2193592",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时39分 ~ 15时33分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -34,20 +49,6 @@
           "time_info": "[00时57分 ~ 07时31分]"
         },
         {
-          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
-          "url": "https://www.cls.cn/detail/2193592",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时39分 ~ 14时54分]"
-        },
-        {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
           "url": "https://wallstreetcn.com/articles/3758813",
           "source": "华尔街见闻",
@@ -56,8 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 14时54分]"
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 15时33分]"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
@@ -231,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 14时54分]"
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 15时33分]"
         },
         {
           "title": "机构：预计10年期美债收益率将降至4%下方",
@@ -241,7 +242,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -293,11 +294,12 @@
             5,
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 14时54分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 15时33分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -382,20 +384,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时33分]"
         },
         {
           "title": "我国第一艘电磁弹射型航空母舰入列 习近平出席入列授旗仪式并登舰视察",
           "url": "https://www.cls.cn/detail/2193999",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时33分]"
         }
       ]
     },
@@ -421,11 +424,12 @@
           "ranks": [
             28,
             23,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时33分]"
         }
       ]
     }
