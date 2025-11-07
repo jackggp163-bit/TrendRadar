@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T18:44:16.804107+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2025-11-07T19:29:23.858540+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -78,7 +78,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -252,8 +252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时30分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[07时30分 ~ 19时29分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -400,8 +400,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 18时44分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 19时29分]"
         },
         {
           "title": "我国第一艘电磁弹射型航空母舰入列 习近平出席入列授旗仪式并登舰视察",
@@ -413,8 +413,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 18时44分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 19时29分]"
         },
         {
           "title": "视频丨我国第一艘电磁弹射型航空母舰入列，习近平出席入列授旗仪式并登舰视察",
@@ -425,8 +425,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 19时29分]"
         }
       ]
     },
