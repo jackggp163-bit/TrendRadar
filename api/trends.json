@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T15:33:53.440136+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2025-11-10T16:53:00.931876+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 16时53分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -29,11 +29,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时44分 ~ 16时53分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -105,8 +106,19 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "河南大学校长当选世界科学院院士",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E5%BD%93%E9%80%89%E4%B8%96%E7%95%8C%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
         {
           "title": "河南南阳市人大常委会副主任主动投案",
           "url": "https://www.toutiao.com/trending/7570911400706244646/",
@@ -117,6 +129,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧美债券收益率同步上涨，市场寄望美国政府结束停摆",
+          "url": "https://flash.jin10.com/detail/20251110160650766800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     }
