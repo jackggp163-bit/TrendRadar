@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T13:40:14.983304+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2025-11-10T14:56:41.524260+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 13时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 14时56分]"
+        },
+        {
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 14时56分]"
+        },
+        {
+          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时48分 ~ 14时56分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.7%。",
@@ -43,28 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 13时40分]"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 13时40分]"
         }
       ]
     },
@@ -79,11 +81,12 @@
           "ranks": [
             22,
             23,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 14时56分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
@@ -95,6 +98,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河南南阳市人大常委会副主任主动投案",
+          "url": "https://www.toutiao.com/trending/7570911400706244646/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     }
