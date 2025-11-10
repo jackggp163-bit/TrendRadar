@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T19:30:01.804835+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2025-11-10T21:41:55.375980+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时44分 ~ 19时30分]"
+          "appearance_count": 14,
+          "time_info": "[11时44分 ~ 21时41分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -84,6 +84,17 @@
           "time_info": "[17时43分 ~ 18时46分]"
         },
         {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
           "url": "https://flash.jin10.com/detail/20251110175803111800",
           "source": "金十数据",
@@ -109,7 +120,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "河南为什么出营销奇才",
@@ -147,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时43分 ~ 18时46分]"
+        },
+        {
+          "title": "河南一公司将592吨强酸废液偷排至城市窨井等处，多人获刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31932148",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "河南南阳市人大常委会副主任主动投案",
@@ -188,8 +210,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 21时41分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
