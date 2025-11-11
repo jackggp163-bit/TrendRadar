@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T11:39:04.136116+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-11-11T12:45:11.346907+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 11时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 12时45分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -33,6 +34,30 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时52分 ~ 07时32分]"
+        },
+        {
+          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
+          "url": "https://www.cls.cn/detail/2196579",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时45分]"
+        },
+        {
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 12时45分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -55,30 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
-          "url": "https://www.cls.cn/detail/2196579",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 11时39分]"
-        },
-        {
-          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
-          "url": "https://www.cls.cn/detail/2196552",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 11时39分]"
         },
         {
           "title": "CoreWeave美股盘后跌约7%。",
@@ -119,6 +120,17 @@
           "time_info": "[05时32分 ~ 07时32分]"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "Beyond Meat美股盘后跌8%，该公司四季度销售指引逊色于市场预期。",
           "url": "https://wallstreetcn.com/livenews/3002353",
           "source": "华尔街见闻-快讯",
@@ -143,15 +155,15 @@
           "time_info": "[05时32分 ~ 06时40分]"
         },
         {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
+          "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
+          "url": "https://www.zhihu.com/question/1971153219230066622",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "time_info": "[12时44分 ~ 12时45分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股收盘）",
@@ -218,7 +230,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -298,7 +310,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -370,8 +382,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 11时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 12时45分]"
         },
         {
           "title": "朱婷率领河南女排3连胜",
