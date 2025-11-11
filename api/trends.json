@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T19:30:29.997474+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2025-11-11T21:40:29.161341+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
@@ -234,7 +234,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -296,11 +296,12 @@
             12,
             5,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时52分 ~ 19时30分]"
+          "appearance_count": 7,
+          "time_info": "[16时52分 ~ 21时40分]"
         },
         {
           "title": "金价涨超2% 创本月最大涨幅",
@@ -405,7 +406,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
@@ -416,7 +417,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时30分"
         },
