@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:45:11.346907+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2025-11-11T13:41:10.173223+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 13时41分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 13时41分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -56,8 +56,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 13时41分]"
+        },
+        {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 13时41分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -118,17 +129,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时32分]"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 12时45分]"
         },
         {
           "title": "Beyond Meat美股盘后跌8%，该公司四季度销售指引逊色于市场预期。",
@@ -382,8 +382,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 13时41分]"
         },
         {
           "title": "朱婷率领河南女排3连胜",
@@ -429,6 +429,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 04时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "习近平",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "改革潮涌处，开放海天阔——习近平总书记赴海南、广东考察并出席第十五届全运会开幕式纪实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31938122",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         }
       ]
     }
