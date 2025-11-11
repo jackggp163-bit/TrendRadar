@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T16:53:15.551589+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-11-11T17:41:03.868001+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -285,6 +285,18 @@
           "time_info": "[00时52分 ~ 07时32分]"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 17时41分]"
+        },
+        {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
           "url": "https://flash.jin10.com/detail/20251111034728559800",
           "source": "金十数据",
@@ -305,17 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
-        },
-        {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
@@ -358,7 +359,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -397,7 +398,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -492,11 +493,12 @@
           "ranks": [
             16,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[13时40分 ~ 17时41分]"
         }
       ]
     }
