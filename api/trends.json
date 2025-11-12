@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T11:35:16.231004+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2025-11-12T12:46:04.212154+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时38分 ~ 11时35分]"
+          "appearance_count": 7,
+          "time_info": "[06时38分 ~ 12时46分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -120,6 +120,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26flag%3D2%26filter_type%3Drealtimehot%26pos%3D21%26realpos%3D21%26cate%3D5001%26c_type%3D31%26band_rank%3D21%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 12时46分]"
+        },
+        {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3002992",
           "source": "华尔街见闻-快讯",
@@ -144,24 +156,13 @@
           "time_info": "[00时52分 ~ 01时39分]"
         },
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26flag%3D2%26filter_type%3Drealtimehot%26pos%3D21%26realpos%3D21%26cate%3D5001%26c_type%3D31%26band_rank%3D21%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
           "title": "金十图示：2025年11月12日（周三）上海金早盘价为947.47元/克，较国际金价(944.4元/克)，高3.07元/克",
           "url": "https://flash.jin10.com/detail/20251112110231179800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
@@ -233,8 +234,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 11时35分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 12时46分]"
         }
       ]
     }
