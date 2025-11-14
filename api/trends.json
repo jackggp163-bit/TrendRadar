@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T11:11:01.147526+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2025-11-14T12:19:42.872154+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 11时11分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时19分]"
         },
         {
           "title": "应用材料美股盘后跌超4.5%。",
@@ -51,11 +51,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 11时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 12时19分]"
         },
         {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
