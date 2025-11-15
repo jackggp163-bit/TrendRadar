@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T12:17:50.626044+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-11-15T13:15:00.861690+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 13时15分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 13时15分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -63,11 +63,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 13时15分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -86,11 +87,12 @@
           "url": "https://www.cls.cn/detail/2201450",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时15分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -230,8 +232,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 13时15分]"
         },
         {
           "title": "江苏女排3比0河南女排",
@@ -273,11 +275,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 13时15分]"
         },
         {
           "title": "金价",
