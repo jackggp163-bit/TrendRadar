@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T14:21:43.084936+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-11-15T15:14:02.461439+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -43,20 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 14时21分]"
-        },
-        {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 14时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 15时14分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -68,8 +56,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 15时14分]"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 15时14分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -80,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 15时14分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -233,8 +234,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 14时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 15时14分]"
         },
         {
           "title": "江苏女排3比0河南女排",
@@ -281,8 +282,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时03分 ~ 15时14分]"
         },
         {
           "title": "金价",
