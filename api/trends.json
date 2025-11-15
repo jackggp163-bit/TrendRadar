@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T21:21:48.485571+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-11-15T22:13:35.528040+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 21时21分]"
+          "appearance_count": 17,
+          "time_info": "[09时07分 ~ 22时13分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -53,11 +53,12 @@
             5,
             6,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时19分 ~ 21时21分]"
+          "appearance_count": 28,
+          "time_info": "[00时19分 ~ 22时13分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时03分 ~ 21时21分]"
+          "appearance_count": 15,
+          "time_info": "[11时03分 ~ 22时13分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -279,11 +280,12 @@
             17,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时19分 ~ 21时21分]"
+          "appearance_count": 28,
+          "time_info": "[00时19分 ~ 22时13分]"
         },
         {
           "title": "江苏女排3比0河南女排",
@@ -358,8 +360,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时21分]"
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时13分]"
         },
         {
           "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
