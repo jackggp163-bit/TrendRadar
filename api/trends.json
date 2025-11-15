@@ -1,402 +1,89 @@
 {
-  "generated_at": "2025-11-15T23:14:23.846787+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2025-11-16T00:16:24.003697+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时15分]"
-        },
-        {
-          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
-          "url": "https://wallstreetcn.com/articles/3759375",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 14时21分]"
-        },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
           "url": "https://www.cls.cn/detail/2201442",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时07分 ~ 23时14分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时19分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
           "url": "https://www.cls.cn/detail/2201450",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时03分 ~ 23时14分]"
-        },
-        {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 15时14分]"
-        },
-        {
-          "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
-          "url": "https://wallstreetcn.com/livenews/3005057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时15分]"
-        },
-        {
-          "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
-          "url": "https://wallstreetcn.com/livenews/3004953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
-        },
-        {
-          "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
-          "url": "https://wallstreetcn.com/livenews/3005095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "00时16分"
         },
         {
-          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251115094829363800",
-          "source": "金十数据",
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
           "ranks": [
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时03分"
+          "time_info": "00时16分"
         },
         {
-          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251115094343913800",
-          "source": "金十数据",
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
           "ranks": [
-            21
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251115013327366800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
-          "url": "https://wallstreetcn.com/livenews/3004929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "能源业ETF收涨1.7%，领跑美股行业ETF，本周生物科技ETF涨4.1%",
-          "url": "https://wallstreetcn.com/livenews/3005097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251115013245907800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "行业ETF美股盘初普跌，半导体ETF跌2.8%，科技行业ETF跌1.9%，网络股指数ETF、全球科技股指数ETF跌约1.8%，能源业ETF涨约0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3004928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
-          "url": "https://wallstreetcn.com/livenews/3005073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "美股暴涨暴跌意味着什么",
-          "url": "https://www.toutiao.com/trending/7572733950527802886/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "云南铜业：黄金价格上涨对公司整体业绩增长影响有限",
-          "url": "https://wallstreetcn.com/livenews/3005134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            13,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 16时18分]"
-        },
-        {
-          "title": "国际金价深夜跳水",
-          "url": "https://www.toutiao.com/trending/7572870687719689754/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D30%26stream_entry_id%3D31%26pos%3D30%26realpos%3D30%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26flag%3D0%26cate%3D5001%26display_time%3D1763146666%26pre_seqid%3D17631466660710330674316&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "江苏女排碾压河南,朱婷力不从心",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347145&amp;topic_name=%E6%B1%9F%E8%8B%8F%E5%A5%B3%E6%8E%92%E7%A2%BE%E5%8E%8B%E6%B2%B3%E5%8D%97%2C%E6%9C%B1%E5%A9%B7%E5%8A%9B%E4%B8%8D%E4%BB%8E%E5%BF%83",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            13,
-            17,
-            19,
-            20,
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时19分 ~ 23时14分]"
-        },
-        {
-          "title": "江苏女排3比0河南女排",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%A5%B3%E6%8E%923%E6%AF%940%E6%B2%B3%E5%8D%97%E5%A5%B3%E6%8E%92",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            25,
-            22,
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时15分]"
-        },
-        {
-          "title": "河南女排0:3不敌江苏",
-          "url": "https://www.douyin.com/hot/2306374",
-          "source": "抖音",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 11时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "美债收益率本周普遍涨超4个基点",
-          "url": "https://wallstreetcn.com/livenews/3005071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "00时16分"
         }
       ]
     },
     {
       "keyword_group": "习近平",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "习近平：因地制宜发展新质生产力",
           "url": "https://www.cls.cn/detail/2201569",
           "source": "财联社热门",
           "ranks": [
-            12,
-            8,
-            6,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时14分 ~ 23时14分]"
-        },
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
-          "url": "https://wallstreetcn.com/livenews/3005158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16,
-            19,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "河南",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数本周跌0.3%",
-          "url": "https://wallstreetcn.com/livenews/3005030",
-          "source": "华尔街见闻-快讯",
+          "title": "江苏女排碾压河南,朱婷力不从心",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347145&amp;topic_name=%E6%B1%9F%E8%8B%8F%E5%A5%B3%E6%8E%92%E7%A2%BE%E5%8E%8B%E6%B2%B3%E5%8D%97%2C%E6%9C%B1%E5%A9%B7%E5%8A%9B%E4%B8%8D%E4%BB%8E%E5%BF%83",
+          "source": "贴吧",
           "ranks": [
-            7,
-            22
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     }
