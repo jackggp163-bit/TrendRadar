@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T15:14:49.211168+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2025-11-16T16:19:24.743151+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 16时19分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -32,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 16时19分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -47,8 +47,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 16时19分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -76,11 +76,12 @@
           "ranks": [
             12,
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时19分]"
         },
         {
           "title": "河南新乡市人民检察院依法对释永信批准逮捕",
@@ -89,11 +90,12 @@
           "ranks": [
             8,
             16,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 16时19分]"
         },
         {
           "title": "河南新乡市人民检察院依法对释永信批准逮捕",
@@ -101,11 +103,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时19分]"
         },
         {
           "title": "江苏女排碾压河南,朱婷力不从心",
@@ -132,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 16时19分]"
         },
         {
           "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
@@ -155,11 +158,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 16时19分]"
         }
       ]
     }
