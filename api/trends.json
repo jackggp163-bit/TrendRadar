@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T16:19:24.743151+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2025-11-16T17:15:03.833871+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -17,23 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 16时19分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 16时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 17时15分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -45,6 +30,21 @@
             10,
             9,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 17时15分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12,
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 17,
@@ -77,11 +77,26 @@
             12,
             3,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时15分]"
+        },
+        {
+          "title": "河南新乡市人民检察院依法对释永信批准逮捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31977448",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 17时15分]"
         },
         {
           "title": "河南新乡市人民检察院依法对释永信批准逮捕",
@@ -96,19 +111,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时15分 ~ 16时19分]"
-        },
-        {
-          "title": "河南新乡市人民检察院依法对释永信批准逮捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31977448",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 16时19分]"
         },
         {
           "title": "江苏女排碾压河南,朱婷力不从心",
@@ -135,8 +137,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 16时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 17时15分]"
         },
         {
           "title": "《求是》杂志发表习近平总书记重要文章《因地制宜发展新质生产力》",
