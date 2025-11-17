@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T17:20:51.169468+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-11-17T18:18:32.035290+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -26,7 +26,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -42,26 +42,39 @@
           "time_info": "11时13分"
         },
         {
+          "title": "美股加密货币概念股票盘前走高，Coinbase上涨1%，Bitfarms上涨2.3%，Strategy上涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3005762",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
         },
         {
           "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3005756",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
@@ -81,7 +94,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
@@ -98,9 +111,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
         },
         {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -161,7 +174,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "河南新乡市人民检察院依法对释永信批准逮捕",
@@ -185,11 +198,12 @@
             8,
             10,
             15,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 17时20分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 18时18分]"
         },
         {
           "title": "河南鹅毛大雪",
@@ -198,9 +212,20 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
+        },
+        {
+          "title": "河南下大雪",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%8B%E5%A4%A7%E9%9B%AA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时18分"
         },
         {
           "title": "河南驻马店下雪了",
