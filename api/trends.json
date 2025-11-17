@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T09:11:00.640471+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2025-11-17T11:13:23.033942+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -18,6 +18,86 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 07时14分]"
+        },
+        {
+          "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
+          "url": "https://wallstreetcn.com/livenews/3005519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
+          "url": "https://flash.jin10.com/detail/20251117103913637800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "河南新乡市人民检察院依法对释永信批准逮捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31977448",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 11时13分]"
+        },
+        {
+          "title": "河南拟培育20个左右两业融合发展区 将给予省级财政奖励",
+          "url": "https://wallstreetcn.com/livenews/3005507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "河南驻马店下雪了",
+          "url": "https://www.toutiao.com/trending/7573261971874578474/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
+          "url": "https://flash.jin10.com/detail/20251117110119026800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         }
       ]
     },
@@ -35,25 +115,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 07时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "河南新乡市人民检察院依法对释永信批准逮捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31977448",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 09时11分]"
         }
       ]
     }
