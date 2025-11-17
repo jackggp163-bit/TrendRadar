@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T12:22:57.512392+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2025-11-17T13:16:43.129274+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时16分]"
+        },
+        {
+          "title": "全运会男乒团体赛，上海对阵河南，樊振东 3-2 逆转于何一，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1973711985867716228",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时22分]"
+          "time_info": "[12时22分 ~ 13时16分]"
         },
         {
           "title": "河南拟培育20个左右两业融合发展区 将给予省级财政奖励",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "全运会男乒团体赛，上海对阵河南，樊振东 3-2 逆转于何一，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1973711985867716228",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         }
       ]
     },
