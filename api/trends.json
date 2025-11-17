@@ -1,94 +1,12 @@
 {
-  "generated_at": "2025-11-17T23:18:17.069973+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2025-11-18T00:21:45.019572+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
-          "url": "https://www.cls.cn/detail/2201578",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时14分]"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
-          "url": "https://flash.jin10.com/detail/20251117170331832800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
-          "url": "https://wallstreetcn.com/livenews/3005519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "美股三大股指期货均转跌，纳指期货此前一度涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3005902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时16分]"
-        },
-        {
-          "title": "美股加密货币概念股票盘前走高，Coinbase上涨1%，Bitfarms上涨2.3%，Strategy上涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3005785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3005923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 23时18分]"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3005762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时18分]"
-        },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2202991",
@@ -97,341 +15,69 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时17分 ~ 23时18分]"
-        },
-        {
-          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3005756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时18分]"
-        },
-        {
-          "title": "Zymeworks美股盘前一度上涨43%，此前公布了癌症药物Ziihera的试验结果。",
-          "url": "https://wallstreetcn.com/livenews/3005836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "00时21分"
         },
         {
           "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
           "url": "https://wallstreetcn.com/livenews/3005939",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时21分"
         },
         {
           "title": "美股锂矿股集体上涨，投资者关注需求增长迹象",
           "url": "https://wallstreetcn.com/livenews/3005938",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时21分"
         },
         {
           "title": "行业ETF美股盘初多数下跌，全球科技股指数ETF跌1.03%，科技行业ETF跌0.9%，能源业ETF跌0.73%，半导体ETF跌0.63%，银行业ETF跌0.51%，网络股指数ETF则涨0.22%。 标普科技板块跌0.88%，能源板块跌0.7%，电信板块则涨2.06%。",
           "url": "https://wallstreetcn.com/livenews/3005934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时21分"
         },
         {
           "title": "谷歌母公司Alphabet涨5.5%，盘中市值3.5万亿美元，13F报告显示，伯克希尔哈撒韦建仓做多该公司股票，为其第十大美股重仓股。",
           "url": "https://wallstreetcn.com/livenews/3005936",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
-          "url": "https://flash.jin10.com/detail/20251117103913637800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-17）",
-          "url": "https://flash.jin10.com/detail/20251117210242767800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "诺和诺德美股盘前跌超1%，礼来盘前跌约0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3005883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251117225055186800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "美股股指期货涨幅持续扩大，纳斯达克100指数期货涨1%，道琼斯指数期货涨0.25%，标普500指数期货涨0.64%。",
-          "url": "https://wallstreetcn.com/livenews/3005738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "量子计算概念股Quantum Computing美股盘前一度涨25%。",
-          "url": "https://wallstreetcn.com/livenews/3005866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "美股锂矿概念股走强，西格玛锂业（Sigma Lithium）上涨20.8%，标准锂业（Standard Lithium）涨9.3%、智利矿业化工(SQM.N)上涨9%，锂美公司上涨9%，美国雅宝(ALB.N)上涨6.7%。",
-          "url": "https://flash.jin10.com/detail/20251117224517468800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 21时29分]"
-        },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时15分 ~ 23时18分]"
-        },
-        {
-          "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
-          "url": "https://flash.jin10.com/detail/20251117110119026800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）上海金午盘价为928.44元/克，较国际金价(929.51元/克)，低1.07元/克",
-          "url": "https://flash.jin10.com/detail/20251117150157250800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "摩根士丹利：预计2026年黄金价格将达到每盎司4500美元。",
-          "url": "https://flash.jin10.com/detail/20251117153257595800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "摩根士丹利预计2026年黄金价格将达到每盎司4500美元。 预计2026年铜价将达到每吨10,600美元。 由于供需平衡偏弱，布伦特原油2026年应维持在每桶约60美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3005689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "河南新乡市人民检察院依法对释永信批准逮捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31977448",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时22分]"
-        },
-        {
-          "title": "全运会男乒团体赛，上海对阵河南，樊振东 3-2 逆转于何一，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1973711985867716228",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8,
-            10,
-            15,
-            11,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 20时31分]"
-        },
-        {
-          "title": "河南下大雪",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%8B%E5%A4%A7%E9%9B%AA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            15,
-            16,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时16分]"
-        },
-        {
-          "title": "河南鹅毛大雪",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B2%B3%E5%8D%97%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D5%26flag%3D1%26cate%3D5001%26lcate%3D5001%26realpos%3D5%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E6%25B2%25B3%25E5%258D%2597%25E9%25B9%2585%25E6%25AF%259B%25E5%25A4%25A7%25E9%259B%25AA%2523%26dgr%3D0%26pos%3D5%26display_time%3D1763371199%26pre_seqid%3D17633711990670281380065&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            5,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 20时31分]"
-        },
-        {
-          "title": "河南驻马店下雪了",
-          "url": "https://www.toutiao.com/trending/7573261971874578474/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时16分]"
-        },
-        {
-          "title": "河南拟培育20个左右两业融合发展区 将给予省级财政奖励",
-          "url": "https://wallstreetcn.com/livenews/3005507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "习近平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "习近平：因地制宜发展新质生产力",
-          "url": "https://www.cls.cn/detail/2201569",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "time_info": "00时21分"
         }
       ]
     }
