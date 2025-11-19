@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T17:18:09.985726+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2025-11-19T18:17:56.888535+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -80,6 +80,18 @@
           "time_info": "[11时08分 ~ 13时16分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时17分]"
+        },
+        {
           "title": "半导体ETF收跌超2%，领跌美股行业ETF，银行ETF涨超0.8%，标普可选消费板块跌2.5%",
           "url": "https://wallstreetcn.com/livenews/3006743",
           "source": "华尔街见闻-快讯",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
@@ -364,8 +365,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时17分]"
         }
       ]
     }
