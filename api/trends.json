@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T21:29:42.001573+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2025-11-19T22:16:24.123558+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 21时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 22时16分]"
         },
         {
           "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
@@ -317,7 +317,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "朱婷率河南女排创全运会历史最佳成绩",
@@ -352,6 +352,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "朱婷率河南女排创全运历史最佳",
+          "url": "https://www.toutiao.com/trending/7573604744603664426/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
