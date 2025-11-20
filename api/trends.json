@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T03:13:08.336985+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-11-21T04:18:10.647413+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -45,6 +45,17 @@
           "time_info": "[00时20分 ~ 02时22分]"
         },
         {
+          "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
+          "url": "https://flash.jin10.com/detail/20251121032845526800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251121013149531800",
           "source": "金十数据",
@@ -59,7 +70,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -73,6 +84,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 03时13分]"
+        },
+        {
+          "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         }
       ]
     },
@@ -106,8 +128,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 04时18分]"
         }
       ]
     }
