@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-21T15:16:38.354751+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-11-21T16:22:22.606180+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 31,
       "titles": [
+        {
+          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
+          "url": "https://www.cls.cn/detail/2206823",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 16时22分]"
+        },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
           "url": "https://www.cls.cn/detail/2206810",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[07时14分 ~ 15时16分]"
-        },
-        {
-          "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
-          "url": "https://www.cls.cn/detail/2206823",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 15时16分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -45,6 +45,20 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
+          "url": "https://www.cls.cn/detail/2206908",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时07分 ~ 16时22分]"
+        },
+        {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
           "url": "https://wallstreetcn.com/articles/3759840",
           "source": "华尔街见闻",
@@ -53,21 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 15时16分]"
-        },
-        {
-          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
-          "url": "https://www.cls.cn/detail/2206908",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时07分 ~ 16时22分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -80,8 +81,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时07分 ~ 16时22分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 16时22分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -90,23 +104,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时16分]"
-        },
-        {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.toutiao.com/trending/7574979338739650091/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 16时22分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -151,8 +154,20 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时22分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时16分]"
+          "time_info": "[14时24分 ~ 16时22分]"
         },
         {
           "title": "美股大跌 英伟达跌超3%",
@@ -188,18 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 15时16分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -380,11 +383,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 15时16分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 16时22分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -417,7 +421,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -494,8 +498,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 15时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 16时22分]"
         }
       ]
     },
@@ -511,8 +515,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 16时22分]"
         }
       ]
     }
