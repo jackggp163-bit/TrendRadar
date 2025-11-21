@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T19:14:03.248140+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2025-11-21T20:31:14.514344+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时07分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时07分 ~ 20时31分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -83,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时07分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时07分 ~ 20时31分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -123,8 +123,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时24分 ~ 19时14分]"
+          "appearance_count": 9,
+          "time_info": "[14时24分 ~ 20时31分]"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时16分 ~ 20时31分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -172,18 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 19时14分]"
         },
         {
           "title": "美股大跌 英伟达跌超3%",
@@ -416,8 +416,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 19时14分]"
+          "appearance_count": 16,
+          "time_info": "[09时08分 ~ 20时31分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
