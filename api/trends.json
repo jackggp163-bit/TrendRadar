@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T22:13:22.875912+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2025-11-22T23:14:18.317934+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时14分 ~ 22时13分]"
+          "appearance_count": 18,
+          "time_info": "[07时14分 ~ 23时14分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -103,11 +103,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 22时13分]"
+          "appearance_count": 6,
+          "time_info": "[18时15分 ~ 23时14分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -297,6 +298,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时14分 ~ 13时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
+          "url": "https://flash.jin10.com/detail/20251122223006926800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
