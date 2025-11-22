@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T21:20:55.145534+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2025-11-22T22:13:22.875912+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时14分 ~ 21时20分]"
+          "appearance_count": 17,
+          "time_info": "[07时14分 ~ 22时13分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -98,6 +98,18 @@
           "time_info": "[09时06分 ~ 15时14分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 22时13分]"
+        },
+        {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
           "url": "https://wallstreetcn.com/livenews/3008932",
           "source": "华尔街见闻-快讯",
@@ -111,18 +123,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时06分 ~ 13时14分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 21时20分]"
         },
         {
           "title": "美股V形反转，道指涨约1%",
