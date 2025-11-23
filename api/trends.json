@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T17:15:11.310389+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-11-23T18:15:14.167542+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 17时15分]"
+          "appearance_count": 26,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -73,6 +73,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河南8岁女童随奶奶上坟途中走失",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%978%E5%B2%81%E5%A5%B3%E7%AB%A5%E9%9A%8F%E5%A5%B6%E5%A5%B6%E4%B8%8A%E5%9D%9F%E9%80%94%E4%B8%AD%E8%B5%B0%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         }
       ]
     }
