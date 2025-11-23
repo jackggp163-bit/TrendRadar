@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T03:12:24.900102+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-11-24T04:17:17.374463+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             7,
             11,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "河南一地铁站附近车祸致8死系谣言",
@@ -29,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         }
       ]
     }
