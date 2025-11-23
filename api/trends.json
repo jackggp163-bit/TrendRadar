@@ -1,26 +1,22 @@
 {
-  "generated_at": "2025-11-23T23:14:26.906346+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-11-24T00:17:40.382545+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "河南8岁女童随奶奶上坟途中走失",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%978%E5%B2%81%E5%A5%B3%E7%AB%A5%E9%9A%8F%E5%A5%B6%E5%A5%B6%E4%B8%8A%E5%9D%9F%E9%80%94%E4%B8%AD%E8%B5%B0%E5%A4%B1",
-          "source": "百度热搜",
+          "title": "局地风力将达10到11级，河南发布大风蓝色预警",
+          "url": "https://wallstreetcn.com/livenews/3009155",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            26,
-            18,
-            16,
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 22时13分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         },
         {
           "title": "河南一地铁站附近车祸致8死系谣言",
@@ -30,105 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 23时14分]"
-        },
-        {
-          "title": "河南发布大风蓝色预警",
-          "url": "https://www.toutiao.com/trending/7575780236911312915/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 23时14分]"
-        },
-        {
-          "title": "《唐朝诡事录》11月24日登陆河南卫视",
-          "url": "https://www.toutiao.com/trending/7574849660033171497/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
-          "url": "https://www.cls.cn/detail/2207916",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时17分 ~ 19时12分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时24分]"
-        },
-        {
-          "title": "“疫苗之王”科兴或从美股退市",
-          "url": "https://www.toutiao.com/trending/7575693927517261318/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 09时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
-          "url": "https://flash.jin10.com/detail/20251122223006926800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 09时19分]"
-        },
-        {
-          "title": "俄央行抛售黄金 金价会大跌吗",
-          "url": "https://www.toutiao.com/trending/7575692966363139638/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
+          "time_info": "00时17分"
         }
       ]
     }
