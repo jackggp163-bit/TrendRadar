@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T12:30:10.185420+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2025-11-23T13:15:07.165162+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 13时15分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
