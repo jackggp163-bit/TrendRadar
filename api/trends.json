@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T05:14:08.294280+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-11-24T06:14:51.304122+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "局地风力将达10到11级，河南发布大风蓝色预警",
@@ -31,8 +31,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         }
       ]
     }
