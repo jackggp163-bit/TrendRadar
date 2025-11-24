@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T03:11:41.127225+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2025-11-25T04:19:08.488058+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
@@ -113,8 +113,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -124,8 +124,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -135,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -146,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -157,8 +157,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -174,6 +174,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国银行：黄金价格2026年或将达到5000美元",
+          "url": "https://flash.jin10.com/detail/20251125031326768800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "河南",
       "match_count": 1,
       "titles": [
@@ -184,7 +201,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         }
