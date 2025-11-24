@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T06:15:44.387055+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2025-11-25T07:15:07.700868+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -36,33 +36,130 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
+          "title": "闪迪(SNDK.O)美股盘后大涨超10%，此前公司被纳入标普500指数。",
+          "url": "https://flash.jin10.com/detail/20251125062141366800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
           "url": "https://flash.jin10.com/detail/20251125052238827800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
           "url": "https://wallstreetcn.com/livenews/3009777",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050629924800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "半导体ETF收涨将近4%，领跑美股行业ETF，标普电信板块涨超3.9%",
+          "url": "https://wallstreetcn.com/livenews/3009774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "周一（11月24日），美股人工智能（AI）赢家指数涨4.06%，报275.03点。 AI 100指数涨3.39%。 AI电力指数涨3.33%，AI风险指数跌0.56%，AI风险敞口半导体指数涨5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3009770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050520330800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
+          "url": "https://flash.jin10.com/detail/20251125050102306800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
@@ -101,81 +198,26 @@
           "time_info": "[02时23分 ~ 03时11分]"
         },
         {
-          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3009775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251125050629924800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "半导体ETF收涨将近4%，领跑美股行业ETF，标普电信板块涨超3.9%",
-          "url": "https://wallstreetcn.com/livenews/3009774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "周一（11月24日），美股人工智能（AI）赢家指数涨4.06%，报275.03点。 AI 100指数涨3.39%。 AI电力指数涨3.33%，AI风险指数跌0.56%，AI风险敞口半导体指数涨5.59%。",
-          "url": "https://wallstreetcn.com/livenews/3009770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251125050520330800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
-          "url": "https://flash.jin10.com/detail/20251125050102306800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
           "url": "https://wallstreetcn.com/livenews/3009767",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "标普道琼斯指数公司宣布，将Sandisk纳入标普500指数，取代Interpublic Group（IPG）。 将PTC Therapeutics纳入标普600小盘股指。 Sandisk（SNDK）美股盘后涨7%，PTC涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3009788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
@@ -203,7 +245,7 @@
     },
     {
       "keyword_group": "习近平",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -213,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -224,8 +266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -235,8 +277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -246,8 +288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -257,8 +299,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32033959",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -351,8 +404,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 07时15分]"
         }
       ]
     }
