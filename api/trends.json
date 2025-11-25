@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-25T15:17:07.604420+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-11-25T16:22:32.158359+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 22,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时09分 ~ 16时22分]"
+        },
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
           "url": "https://wallstreetcn.com/articles/3759998",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 15时17分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -327,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时14分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[07时14分 ~ 16时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -339,8 +339,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 15时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 16时22分]"
         },
         {
           "title": "习近平向第七届中俄能源商务论坛致贺信",
