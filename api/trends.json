@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T13:16:27.373795+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2025-11-25T14:24:47.219009+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时09分 ~ 14时24分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -39,23 +51,12 @@
             13,
             11,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时16分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时09分 ~ 13时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时24分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -325,8 +326,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时24分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -337,8 +338,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 14时24分]"
         },
         {
           "title": "习近平向第七届中俄能源商务论坛致贺信",
@@ -432,11 +433,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时24分]"
         }
       ]
     },
