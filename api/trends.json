@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T14:24:47.219009+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2025-11-25T15:17:07.604420+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 15时17分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -55,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 15时17分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -318,18 +319,6 @@
           "time_info": "[00时18分 ~ 09时09分]"
         },
         {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3760029",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时24分]"
-        },
-        {
           "title": "详讯丨习近平同美国总统特朗普通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32033959",
           "source": "澎湃新闻",
@@ -338,8 +327,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时14分 ~ 14时24分]"
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 15时17分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3760029",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 15时17分]"
         },
         {
           "title": "习近平向第七届中俄能源商务论坛致贺信",
