@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T03:14:11.606302+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-11-26T04:18:22.549331+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 04时18分]"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -88,11 +88,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 04时18分]"
         },
         {
           "title": "美元指数DXY日内跌超0.50%，现报99.70。",
@@ -149,11 +150,12 @@
             10,
             8,
             13,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时18分]"
         }
       ]
     }
