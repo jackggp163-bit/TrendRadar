@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T16:22:32.158359+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2025-11-25T17:19:03.683758+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -327,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时14分 ~ 16时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时14分 ~ 17时19分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -339,8 +339,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时18分 ~ 17时19分]"
         },
         {
           "title": "习近平向第七届中俄能源商务论坛致贺信",
@@ -425,6 +425,37 @@
       ]
     },
     {
+      "keyword_group": "河南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "河南鲁山8岁失联女孩姑姑发声",
+          "url": "https://www.toutiao.com/trending/7576114217280618532/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            27,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时11分 ~ 13时16分]"
+        },
+        {
+          "title": "河南动物城",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E5%8A%A8%E7%89%A9%E5%9F%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -458,26 +489,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "河南鲁山8岁失联女孩姑姑发声",
-          "url": "https://www.toutiao.com/trending/7576114217280618532/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            27,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时11分 ~ 13时16分]"
         }
       ]
     }
