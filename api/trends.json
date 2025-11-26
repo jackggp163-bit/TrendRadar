@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-26T12:21:43.109647+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2025-11-26T13:16:14.309563+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
+          "url": "https://www.cls.cn/detail/2210921",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 13时16分]"
+        },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
           "url": "https://wallstreetcn.com/articles/3760086",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时21分 ~ 11时12分]"
-        },
-        {
-          "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
-          "url": "https://www.cls.cn/detail/2210921",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时21分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -287,8 +287,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 13时16分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
@@ -327,7 +327,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
