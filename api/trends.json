@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T13:16:14.309563+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2025-11-26T14:24:50.213079+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 14时24分]"
         },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -275,6 +275,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月26日（周三）上海金早盘价为943.33元/克，较国际金价(947.78元/克)，低4.45元/克",
+          "url": "https://flash.jin10.com/detail/20251126110130212800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "金价攀升至近两周高点，因美国降息押注增加",
+          "url": "https://flash.jin10.com/detail/20251126133310159800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "金价高企之际，中国多地加强监管黄金投资“灰色”业务",
+          "url": "https://wallstreetcn.com/livenews/3010456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -287,8 +326,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 14时24分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
@@ -313,34 +352,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月26日（周三）上海金早盘价为943.33元/克，较国际金价(947.78元/克)，低4.45元/克",
-          "url": "https://flash.jin10.com/detail/20251126110130212800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "金价高企之际，中国多地加强监管黄金投资“灰色”业务",
-          "url": "https://wallstreetcn.com/livenews/3010456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
         }
       ]
     },
