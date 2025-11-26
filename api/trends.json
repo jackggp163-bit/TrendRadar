@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T03:13:19.448928+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2025-11-27T04:17:35.811533+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时17分]"
+        },
+        {
+          "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2212003",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时13分]"
-        },
-        {
-          "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2212003",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股盘中）",
@@ -81,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时17分]"
         }
       ]
     },
@@ -98,8 +98,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时17分]"
         }
       ]
     }
