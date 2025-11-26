@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T04:17:35.811533+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-11-27T05:14:43.093507+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
@@ -70,7 +71,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -81,8 +82,47 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "周三（11月26日）纽约尾盘，美国10年期国债收益率跌0.19个基点，报3.9941%，全天冲高回落，北京时间23:04涨至4.0402%刷新日高。 两年期美债收益率涨2.04个基点，报3.4791%，23:01也刷新日高至3.4995%。",
+          "url": "https://wallstreetcn.com/livenews/3011050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数26日下跌",
+          "url": "https://flash.jin10.com/detail/20251127045630156800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "周三（11月26日）纽约尾盘，ICE美元指数跌0.08%，报99.585点，日内交投区间为99.959-99.555点，在一波冲高回落行情中、于北京时间22:01刷新日高。 彭博美元指数跌0.29%，报1219.49点，日内交投区间为1223.57-1219.49点。",
+          "url": "https://wallstreetcn.com/livenews/3011045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
@@ -98,8 +138,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "给老外安排上河南省服了",
+          "url": "https://www.douyin.com/hot/2318284",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     }
