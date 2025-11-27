@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-11-27T13:17:28.933086+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-11-27T14:25:16.605731+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
+          "url": "https://www.cls.cn/detail/2212138",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 14时25分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
+          "url": "https://www.cls.cn/detail/2212125",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 14时25分]"
+        },
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
           "url": "https://wallstreetcn.com/articles/3760164",
@@ -18,29 +42,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时15分]"
-        },
-        {
-          "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
-          "url": "https://www.cls.cn/detail/2212138",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 13时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
-          "url": "https://www.cls.cn/detail/2212125",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 13时17分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -213,7 +214,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -238,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "美股、美债今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20251127134546651800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -267,6 +279,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "给老外安排上河南省服了",
+          "url": "https://www.douyin.com/hot/2318284",
+          "source": "抖音",
+          "ranks": [
+            22,
+            21,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时14分 ~ 13时17分]"
+        },
+        {
+          "title": "江苏男子到河南买胖东来羽绒服",
+          "url": "https://www.toutiao.com/trending/7576208927134859300/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         }
       ]
     },
@@ -302,26 +345,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "给老外安排上河南省服了",
-          "url": "https://www.douyin.com/hot/2318284",
-          "source": "抖音",
-          "ranks": [
-            22,
-            21,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时14分 ~ 13时17分]"
         }
       ]
     }
