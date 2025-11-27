@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T12:20:04.480960+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-11-27T13:17:28.933086+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时17分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
+          "url": "https://www.cls.cn/detail/2212125",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时17分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 12时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
-          "url": "https://www.cls.cn/detail/2212125",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时20分]"
         },
         {
           "title": "Tilray Brands Inc.美股盘后跌20%。",
@@ -316,11 +316,12 @@
           "ranks": [
             22,
             21,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时14分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[05时14分 ~ 13时17分]"
         }
       ]
     }
