@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T09:08:08.117071+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2025-11-28T11:08:33.375291+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "url": "https://wallstreetcn.com/articles/3760251",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时08分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -72,6 +73,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月28日（周五）上海金早盘价为948.94元/克，较国际金价(952.33元/克)，低3.39元/克",
+          "url": "https://flash.jin10.com/detail/20251128105205543800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "给老外安排上河南省服了",
+          "url": "https://www.douyin.com/hot/2318284",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
