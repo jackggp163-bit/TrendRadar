@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:22:01.098731+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-11-29T15:14:47.006245+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 14时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 15时14分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -56,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时14分 ~ 14时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时14分 ~ 15时14分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -233,11 +233,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时14分]"
         },
         {
           "title": "金价",
@@ -293,11 +294,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时14分]"
         },
         {
           "title": "中共中央政治局召开会议，中共中央总书记习近平主持会议",
@@ -305,11 +307,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时14分]"
         }
       ]
     },
