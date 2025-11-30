@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:14:22.047148+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-11-30T16:19:21.105779+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 16时19分]"
         },
         {
           "title": "中国移动河南公司原董事长被查",
