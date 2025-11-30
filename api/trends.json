@@ -1,8 +1,38 @@
 {
-  "generated_at": "2025-11-30T11:23:36.603766+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-11-30T12:31:14.705893+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "河南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国移动河南公司原董事长被查",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E6%B2%B3%E5%8D%97%E5%85%AC%E5%8F%B8%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 06时14分]"
+        },
+        {
+          "title": "如何看待河南官宣第五轮学科评估没有 A 类学科？",
+          "url": "https://www.zhihu.com/question/1977682811021448550",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 1,
@@ -50,27 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国移动河南公司原董事长被查",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E6%B2%B3%E5%8D%97%E5%85%AC%E5%8F%B8%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 06时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时31分]"
         }
       ]
     }
