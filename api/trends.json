@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T02:25:53.646086+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-12-02T04:17:09.561976+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时17分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时17分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
@@ -37,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时17分]"
         },
         {
           "title": "14种“进口”奶制品产自河南某出租房",
@@ -76,7 +76,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
