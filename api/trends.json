@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T15:19:21.623078+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2025-12-02T16:23:41.022682+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -185,7 +185,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "河南中测被曝长期出具虚假检测报告，采样人员用西红柿代替大闸蟹，具体情况如何？出虚假报告要承担哪些责任？",
@@ -212,8 +212,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时11分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时11分 ~ 16时23分]"
         },
         {
           "title": "14种“进口”奶制品产自河南某出租房",
@@ -227,6 +227,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时25分 ~ 07时15分]"
+        },
+        {
+          "title": "河南淅川发现距今约 4500 年的长江流域迄今最早青铜器，这将如何重塑我们对中国早期青铜文明的认知？",
+          "url": "https://www.zhihu.com/question/1976701700988483308",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "河南一景区大力度禁烟引好评",
