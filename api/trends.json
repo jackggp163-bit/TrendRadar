@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T14:25:48.233491+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2025-12-02T15:19:21.623078+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -208,11 +208,12 @@
             15,
             5,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时19分]"
         },
         {
           "title": "14种“进口”奶制品产自河南某出租房",
