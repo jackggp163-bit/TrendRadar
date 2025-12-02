@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T00:22:19.993839+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-03T01:19:36.823095+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "英特尔(INTC.O)美股涨超8%。",
-          "url": "https://flash.jin10.com/detail/20251202235849459800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时19分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -35,6 +25,17 @@
           "source": "百度热搜",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时19分]"
+        },
+        {
+          "title": "英特尔(INTC.O)美股涨超8%。",
+          "url": "https://flash.jin10.com/detail/20251202235849459800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -51,11 +52,12 @@
           "url": "https://wallstreetcn.com/livenews/3013816",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时19分]"
         },
         {
           "title": "美元指数DXY短线回落十余点，现报99.38。",
