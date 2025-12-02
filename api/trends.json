@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T20:34:13.349746+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2025-12-02T21:34:29.691425+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时15分 ~ 14时25分]"
+        },
+        {
+          "title": "波音美股盘前拉升，公司预计美国司法部的处罚程序将延续至2026年",
+          "url": "https://wallstreetcn.com/livenews/3013762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
@@ -214,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
+          "url": "https://flash.jin10.com/detail/20251202202834556800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
@@ -301,7 +323,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价",
@@ -335,6 +357,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "德商银行：预计明年铂金价格将与黄金走势基本一致，并于2026年底升至每1800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204252872800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "德商银行：预计未来一年内金价将上涨至4400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204210323800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创一个月新低",
+          "url": "https://wallstreetcn.com/livenews/3013760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "中长期美债收益率涨约8个基点",
+          "url": "https://wallstreetcn.com/livenews/3013206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
         }
       ]
     },
@@ -364,24 +437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中长期美债收益率涨约8个基点",
-          "url": "https://wallstreetcn.com/livenews/3013206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时15分]"
         }
       ]
     }
