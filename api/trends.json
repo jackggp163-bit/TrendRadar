@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T03:16:02.170380+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2025-12-05T04:19:07.036379+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -26,11 +27,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时19分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股盘中）",
@@ -38,11 +40,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
@@ -104,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "顶住“抛售美国资产”声浪压力，PIMCO靠美债押注出奇制胜",
@@ -167,8 +170,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     },
@@ -181,11 +184,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%BA%9F%E5%BC%83%E5%B7%A5%E5%8E%82%E9%9D%9E%E6%B3%95%E7%82%BC%E9%93%85+11%E4%BA%BA%E5%B7%B2%E5%85%A5%E7%8B%B1",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 04时19分]"
         }
       ]
     }
