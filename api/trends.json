@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T02:26:07.953873+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2025-12-05T03:16:02.170380+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,41 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251205013132298800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时16分]"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251205013132298800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时16分]"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251205013016780800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时16分]"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
@@ -41,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251205013016780800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
         },
         {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
@@ -101,8 +104,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "顶住“抛售美国资产”声浪压力，PIMCO靠美债押注出奇制胜",
@@ -164,8 +167,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "河南废弃工厂非法炼铅 11人已入狱",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%BA%9F%E5%BC%83%E5%B7%A5%E5%8E%82%E9%9D%9E%E6%B3%95%E7%82%BC%E9%93%85+11%E4%BA%BA%E5%B7%B2%E5%85%A5%E7%8B%B1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 03时16分]"
         }
       ]
     }
