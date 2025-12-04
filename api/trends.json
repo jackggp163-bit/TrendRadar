@@ -1,163 +1,12 @@
 {
-  "generated_at": "2025-12-04T23:19:14.936622+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2025-12-05T00:22:24.347915+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时13分]"
-        },
-        {
-          "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
-          "url": "https://wallstreetcn.com/articles/3760624",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时13分]"
-        },
-        {
-          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
-          "url": "https://www.cls.cn/detail/2218940",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时11分 ~ 14时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 14时25分]"
-        },
-        {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时19分 ~ 11时16分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
-          "url": "https://wallstreetcn.com/livenews/3015261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
-          "url": "https://wallstreetcn.com/livenews/3014648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时13分]"
-        },
-        {
-          "title": "美股“降息指数”涨超1.4%，刷新日高。 罗素2000指数涨1.4%。 纳斯达克生物科技指数涨1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3014588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时19分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌0.35%，报318.01点。 纽约证交所ARCA金矿开采商指数收跌0.47%，报2278.38点，美股开盘之前微幅上涨，随后快速走高至2321.09点——短时呈现出M形走势。",
-          "url": "https://wallstreetcn.com/livenews/3014645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时13分]"
-        },
-        {
-          "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251204013120321800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月03日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251204013118092800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时19分]"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3015223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 23时19分]"
-        },
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
           "url": "https://wallstreetcn.com/articles/3760711",
@@ -166,183 +15,46 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "区域银行ETF收涨约2.1%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3014639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时13分]"
-        },
-        {
-          "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/3014638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时13分]"
-        },
-        {
-          "title": "周三（12月3日），降息赢家指数涨1.00%，报100.28点，美股盘初显著走高，后续持续高位震荡。 “特朗普关税输家”指数涨1.78%，报109.06点，走势与降息赢家指数类似。 散户抱团概念股指数/迷因股（meme stock）指数涨1.48%。",
-          "url": "https://wallstreetcn.com/livenews/3014637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时13分]"
-        },
-        {
-          "title": "美股机器人概念股走强",
-          "url": "https://flash.jin10.com/detail/20251204010100994800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时14分]"
-        },
-        {
-          "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
-          "url": "https://wallstreetcn.com/livenews/3014565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时14分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
-          "url": "https://wallstreetcn.com/livenews/3014642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-04）",
-          "url": "https://flash.jin10.com/detail/20251204214405899800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "00时22分"
         },
         {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
           "url": "https://www.cls.cn/detail/2220115",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "00时22分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
+          "url": "https://wallstreetcn.com/livenews/3015261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
           "url": "https://wallstreetcn.com/livenews/3015241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "00时22分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，金融业ETF涨0.53%，能源业ETF涨0.27%，全球科技股指数ETF涨0.11%，科技行业ETF、网络股指数ETF微跌，半导体ETF跌0.54%。",
           "url": "https://wallstreetcn.com/livenews/3015240",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3014632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251204050553087800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十图示：2025年12月03日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251204050517207800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜微软收跌2.5%，英伟达跌超1%，特斯拉涨约4.1%",
-          "url": "https://wallstreetcn.com/livenews/3014642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 金龙指数跌超1%",
-          "url": "https://flash.jin10.com/detail/20251204050058058800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20251203234502090800",
-          "source": "金十数据",
           "ranks": [
             28
           ],
@@ -353,257 +65,70 @@
       ]
     },
     {
-      "keyword_group": "习近平",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "详讯丨习近平同法国总统马克龙举行会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102887",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时22分 ~ 23时19分]"
-        },
-        {
-          "title": "习近平同法国总统马克龙举行会谈",
-          "url": "https://www.cls.cn/detail/2219438",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 20时35分]"
-        },
-        {
-          "title": "习近平同法国总统马克龙共同出席中法企业家委员会第七次会议闭幕式",
-          "url": "https://wallstreetcn.com/livenews/3014908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "习近平同法国总统马克龙共同会见记者",
-          "url": "https://wallstreetcn.com/livenews/3014949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时17分]"
-        },
-        {
-          "title": "12月4日上午，国家主席习近平将在北京同法国总统马克龙共同出席中法企业家委员会第七次会议闭幕式并致辞。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3014884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时16分]"
-        },
-        {
-          "title": "习近平同法国总统马克龙举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3014932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时17分]"
-        },
-        {
-          "title": "12月4日，国家主席习近平同法国总统马克龙在北京共同会见记者。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3014901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "习近平出席中法企业家委员会第七次会议闭幕式并致辞",
-          "url": "https://wallstreetcn.com/livenews/3014964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 15时17分]"
-        },
-        {
-          "title": "美元指数跌0.5%，失守50日均线",
-          "url": "https://wallstreetcn.com/livenews/3014616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时19分]"
-        },
-        {
-          "title": "美元指数3日下跌",
-          "url": "https://flash.jin10.com/detail/20251204054201862800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时13分]"
-        },
-        {
-          "title": "美国上周首次申请失业救济人数创2022年以来最低水平，美元指数短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3015212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美元指数DXY短线上扬后快速回落，波幅约10余点。",
-          "url": "https://flash.jin10.com/detail/20251204213414965800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
-          "url": "https://wallstreetcn.com/livenews/3014649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时13分]"
-        },
-        {
-          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
-          "url": "https://wallstreetcn.com/articles/3760712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 23时19分]"
-        },
-        {
-          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
-          "url": "https://flash.jin10.com/detail/20251204142500817800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
-          "url": "https://flash.jin10.com/detail/20251204082809199800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "金十图示：2025年12月04日（周四）上海金早盘价为952.5元/克，较国际金价(955.12元/克)，低2.62元/克",
-          "url": "https://flash.jin10.com/detail/20251204101723963800",
+          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
+          "url": "https://flash.jin10.com/detail/20251204234446522800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "摩根大通全球市场策略师Nikolaos Panigirtzoglou认为，如果比特币出现类似黄金那样的交易，其价格可能会达到17万美元。",
-          "url": "https://wallstreetcn.com/livenews/3015221",
-          "source": "华尔街见闻-快讯",
+          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
+          "url": "https://wallstreetcn.com/articles/3760712",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌至5周新低，现跌0.12%，报98.77。",
+          "url": "https://flash.jin10.com/detail/20251204234510452800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "习近平",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "详讯丨习近平同法国总统马克龙举行会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102887",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
