@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T17:20:35.293202+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2025-12-04T18:19:44.401368+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
@@ -306,11 +306,12 @@
           "url": "https://www.cls.cn/detail/2219438",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时19分]"
         },
         {
           "title": "详讯丨习近平同法国总统马克龙举行会谈",
@@ -318,11 +319,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时19分]"
         },
         {
           "title": "12月4日上午，国家主席习近平将在北京同法国总统马克龙共同出席中法企业家委员会第七次会议闭幕式并致辞。（央视新闻）",
