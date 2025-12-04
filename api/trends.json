@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T20:35:07.814577+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2025-12-04T21:33:53.074070+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
@@ -286,11 +286,12 @@
             16,
             12,
             9,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 20时35分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 21时33分]"
         },
         {
           "title": "习近平同法国总统马克龙举行会谈",
