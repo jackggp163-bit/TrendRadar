@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T07:15:40.226565+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2025-12-05T09:12:27.491337+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -136,6 +136,17 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
           "url": "https://www.cls.cn/detail/2220115",
           "source": "财联社热门",
@@ -153,7 +164,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -183,7 +194,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -192,11 +203,23 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时12分]"
+        },
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -294,8 +317,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时12分]"
         }
       ]
     },
