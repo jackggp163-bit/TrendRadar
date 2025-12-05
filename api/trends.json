@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T19:15:59.859331+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2025-12-05T20:32:43.015928+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -34,6 +34,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时12分 ~ 14时25分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘前跌幅扩大至3%，此前该公司宣布将以720亿美元收购华纳兄弟探索公司(WBD.O)。",
+          "url": "https://flash.jin10.com/detail/20251205201927250800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -149,6 +160,39 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
+          "title": "华纳兄弟探索公司(WBD.O)美股将于纽约时间上午7:20（北京时间晚上8:20）恢复交易。",
+          "url": "https://flash.jin10.com/detail/20251205201134563800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "华纳兄弟探索公司(WBD.O)美股盘前下跌1.1%。奈飞(NFLX.O)跌0.8%。",
+          "url": "https://flash.jin10.com/detail/20251205200438676800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "美银策略师：警惕美联储鸽派降息危及美股圣诞行情",
+          "url": "https://wallstreetcn.com/livenews/3015933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
           "url": "https://www.cls.cn/detail/2220115",
           "source": "财联社热门",
@@ -169,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "西南航空美股盘前跌超2%，公司将年度息税前利润(EBIT)预期下调至约5亿美元，此前预计6-8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3015927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美股核电股Oklo盘前跌超6%。此前，Oklo签订股权分销协议，拟（增加）发行至多15亿美元的股票。",
@@ -316,8 +371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 20时32分]"
         },
         {
           "title": "习近平同法国总统马克龙在成都进行友好交流",
@@ -325,11 +380,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时32分]"
         },
         {
           "title": "习近平同法国总统马克龙在成都进行友好交流",
@@ -418,8 +474,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时12分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[09时12分 ~ 20时32分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
