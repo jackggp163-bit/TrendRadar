@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T15:18:01.450449+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-12-05T16:22:07.857192+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -205,7 +205,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -249,6 +249,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 16时22分]"
+        },
+        {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
           "url": "https://wallstreetcn.com/articles/3760712",
           "source": "华尔街见闻",
@@ -260,20 +272,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 15时18分]"
-        },
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 15时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 16时22分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -298,6 +298,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "习近平",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "详讯丨习近平同法国总统马克龙举行会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102887",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 16时22分]"
+        },
+        {
+          "title": "习近平同法国总统马克龙在成都进行友好交流",
+          "url": "https://www.cls.cn/detail/2220806",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "习近平同法国总统马克龙在成都进行友好交流",
+          "url": "https://wallstreetcn.com/livenews/3015669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "习近平同法国总统马克龙在成都非正式会晤",
+          "url": "https://wallstreetcn.com/livenews/3015561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -343,47 +393,8 @@
       ]
     },
     {
-      "keyword_group": "习近平",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "详讯丨习近平同法国总统马克龙举行会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102887",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 15时18分]"
-        },
-        {
-          "title": "习近平同法国总统马克龙在成都进行友好交流",
-          "url": "https://wallstreetcn.com/livenews/3015669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "习近平同法国总统马克龙在成都非正式会晤",
-          "url": "https://wallstreetcn.com/livenews/3015561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "河南",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "河南废弃工厂非法炼铅 11人已入狱",
@@ -397,6 +408,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时15分 ~ 05时15分]"
+        },
+        {
+          "title": "河南省信阳市优化住房公积金使用政策，个人贷款额度上浮10％",
+          "url": "https://wallstreetcn.com/livenews/3015739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     }
