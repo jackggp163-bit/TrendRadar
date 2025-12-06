@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:23:35.174611+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2025-12-06T22:14:03.145699+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时08分 ~ 21时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时08分 ~ 22时14分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -43,11 +43,12 @@
             7,
             8,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时08分 ~ 21时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时08分 ~ 22时14分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
@@ -255,6 +256,34 @@
       ]
     },
     {
+      "keyword_group": "河南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "北京国安3比0河南队",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%893%E6%AF%940%E6%B2%B3%E5%8D%97%E9%98%9F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
+          "title": "2万河南球迷远征军抵达苏州",
+          "url": "https://www.toutiao.com/trending/7580320678495371306/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -286,23 +315,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时20分 ~ 15时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2万河南球迷远征军抵达苏州",
-          "url": "https://www.toutiao.com/trending/7580320678495371306/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         }
       ]
     }
