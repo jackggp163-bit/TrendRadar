@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T14:22:01.278078+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2025-12-07T15:15:06.189936+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -47,8 +47,19 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "足协杯决赛北京国安击败河南，队史第5次夺得冠军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32122440",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
         {
           "title": "足协杯河南队输球你觉得可惜吗",
           "url": "https://www.toutiao.com/trending/7580722376812838950/",
@@ -57,8 +68,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 15时15分]"
         }
       ]
     }
