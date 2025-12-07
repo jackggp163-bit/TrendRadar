@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T21:22:33.422819+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-12-07T22:14:32.350001+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 22时14分]"
         },
         {
           "title": "河南三门峡一项目工程发生安全事故 致5人遇难",
