@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T19:15:22.414189+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2025-12-08T20:32:45.483238+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "最乐观美股预测者：美股明年将再涨近20%",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -67,6 +67,17 @@
           "time_info": "[17时23分 ~ 18时18分]"
         },
         {
+          "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
+          "url": "https://wallstreetcn.com/livenews/3016963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
           "url": "https://wallstreetcn.com/livenews/3016623",
           "source": "华尔街见闻-快讯",
@@ -93,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时27分 ~ 19时15分]"
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 20时32分]"
         },
         {
           "title": "中共中央政治局召开会议 分析研究2026年经济工作 习近平主持会议",
@@ -107,8 +118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时27分 ~ 19时15分]"
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 20时32分]"
         },
         {
           "title": "【征求对经济工作的意见和建议 中共中央召开党外人士座谈会 习近平主持并发表重要讲话】12月3日，中共中央在中南海召开党外人士座谈会，就今年经济形势和明年经济工作听取各民主党派中央、全国工商联负责人和无党派人士代表的意见建议。中共中央总书记习近平主持座谈会并发表重要讲话强调，我国经济长期向好的支撑条件和基本趋势没有改变，要坚定信心、用好优势、应对挑战，不断巩固拓展经济稳中向好势头，实现“十五五”良好开局。 （新华社）",
@@ -135,6 +146,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场分析：美联储独立性受质疑将致美债收益率曲线趋陡",
+          "url": "https://flash.jin10.com/detail/20251208194142730800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "中金：哈塞特若成为美联储主席或使美债利率和美元先下后上",
+          "url": "https://flash.jin10.com/detail/20251208080055151800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -150,23 +189,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中金：哈塞特若成为美联储主席或使美债利率和美元先下后上",
-          "url": "https://flash.jin10.com/detail/20251208080055151800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
         }
       ]
     },
