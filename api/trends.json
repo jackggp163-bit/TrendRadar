@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-08T18:18:58.037966+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2025-12-08T19:15:22.414189+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "最乐观美股预测者：美股明年将再涨近20%",
+          "url": "https://flash.jin10.com/detail/20251208190058290800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
         {
           "title": "摩根大通：美联储降息后美股涨势可能停滞",
           "url": "https://wallstreetcn.com/livenews/3016901",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "欧莱雅将所持高德美股份增持至20%。",
@@ -77,11 +89,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 19时15分]"
         },
         {
           "title": "中共中央政治局召开会议 分析研究2026年经济工作 习近平主持会议",
@@ -94,8 +107,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 19时15分]"
         },
         {
           "title": "【征求对经济工作的意见和建议 中共中央召开党外人士座谈会 习近平主持并发表重要讲话】12月3日，中共中央在中南海召开党外人士座谈会，就今年经济形势和明年经济工作听取各民主党派中央、全国工商联负责人和无党派人士代表的意见建议。中共中央总书记习近平主持座谈会并发表重要讲话强调，我国经济长期向好的支撑条件和基本趋势没有改变，要坚定信心、用好优势、应对挑战，不断巩固拓展经济稳中向好势头，实现“十五五”良好开局。 （新华社）",
