@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-08T17:23:51.004028+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2025-12-08T18:18:58.037966+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "摩根大通：美联储降息后美股涨势可能停滞",
+          "url": "https://wallstreetcn.com/livenews/3016901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
         {
           "title": "欧莱雅将所持高德美股份增持至20%。",
           "url": "https://wallstreetcn.com/livenews/3016758",
@@ -24,22 +35,24 @@
           "url": "https://wallstreetcn.com/livenews/3016884",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时18分]"
         },
         {
           "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
           "url": "https://wallstreetcn.com/livenews/3016879",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时18分]"
         },
         {
           "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
@@ -63,11 +76,12 @@
           "url": "https://wallstreetcn.com/articles/3760904",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 18时18分]"
         },
         {
           "title": "中共中央政治局召开会议 分析研究2026年经济工作 习近平主持会议",
@@ -80,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 18时18分]"
         },
         {
           "title": "【征求对经济工作的意见和建议 中共中央召开党外人士座谈会 习近平主持并发表重要讲话】12月3日，中共中央在中南海召开党外人士座谈会，就今年经济形势和明年经济工作听取各民主党派中央、全国工商联负责人和无党派人士代表的意见建议。中共中央总书记习近平主持座谈会并发表重要讲话强调，我国经济长期向好的支撑条件和基本趋势没有改变，要坚定信心、用好优势、应对挑战，不断巩固拓展经济稳中向好势头，实现“十五五”良好开局。 （新华社）",
