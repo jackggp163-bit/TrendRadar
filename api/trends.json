@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T15:19:37.516479+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2025-12-09T16:23:43.128374+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -281,7 +281,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -322,8 +322,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 16时23分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
