@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T13:16:56.434267+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-12-09T14:25:38.514599+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 14时25分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
           "url": "https://www.cls.cn/detail/2223257",
           "source": "财联社热门",
@@ -34,18 +46,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时21分 ~ 13时16分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
-          "url": "https://www.cls.cn/detail/2223379",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 13时16分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -307,11 +307,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 14时25分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
@@ -363,19 +364,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时25分]"
         },
         {
           "title": "征求对经济工作的意见和建议 中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
           "url": "https://wallstreetcn.com/articles/3760922",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 14时25分]"
         }
       ]
     },
