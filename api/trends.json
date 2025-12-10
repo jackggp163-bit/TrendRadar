@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T14:26:05.441470+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2025-12-10T15:20:03.120503+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时48分 ~ 14时26分]"
+          "appearance_count": 14,
+          "time_info": "[06时48分 ~ 15时20分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -190,6 +190,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 15时20分]"
+        },
+        {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
@@ -199,17 +210,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 14时26分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -247,6 +247,75 @@
       ]
     },
     {
+      "keyword_group": "河南",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "河南一职校领导要求学生为其子女投票被免职，如何评价？还有哪些问题值得深思？",
+          "url": "https://www.zhihu.com/question/1982010374543861721",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 14时26分]"
+        },
+        {
+          "title": "河南巩义一村庄流出露天温泉水",
+          "url": "https://www.toutiao.com/trending/7581391482814267443/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 13时18分]"
+        },
+        {
+          "title": "河南发行10年期一般债地方债，规模30.2076亿元，发行利率2.0500%，边际倍数1.28倍，倍数预期2.05； 河南发行30年期其他专项地方债，规模5.9296亿元，发行利率2.4600%，边际倍数1.05倍，倍数预期2.50； 河南发行20年期其他专项地方债，规模16.8411亿元，发行利率2.4500%，边际倍数1.19倍，倍数预期2.50； 河南发行15年期乡村专项地方债，规模3.2600亿元，发行利率2.3600%，边际倍数1.61倍，倍数预期2.38； 河南发行30年期乡村专项地方债，规模17.3600亿元，发行利率2.4600%，边际倍数2.89倍，倍数预期2.49； 河南发行15年期社会事业专项地方债，规模3.1140亿元，发行利率2.3600%，边际倍数1.75倍，倍数预期2.37； 河南发行30年期社会事业专项地方债，规模6.6000亿元，发行利率2.4600%，边际倍数1.65倍，倍数预期2.50； 河南发行7年期棚改专项地方债，规模1.1300亿元，发行利率1.9200%，边际倍数1.82倍，倍数预期1.91； 河南发行5年期土储专项地方债，规模19.2040亿元，发行利率1.7300%，边际倍数1.20倍，倍数预期1.80； 河南发行7年期土储专项地方债，规模11.1100亿元，发行利率1.8900%，边际倍数1.49倍，倍数预期1.92。",
+          "url": "https://wallstreetcn.com/livenews/3018246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
+          "url": "https://flash.jin10.com/detail/20251210150354627800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -272,53 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "河南一职校领导要求学生为其子女投票被免职，如何评价？还有哪些问题值得深思？",
-          "url": "https://www.zhihu.com/question/1982010374543861721",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 14时26分]"
-        },
-        {
-          "title": "河南巩义一村庄流出露天温泉水",
-          "url": "https://www.toutiao.com/trending/7581391482814267443/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 13时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
-          "url": "https://flash.jin10.com/detail/20251210111107526800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时30分]"
         }
       ]
     }
