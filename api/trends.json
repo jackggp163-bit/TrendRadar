@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T07:16:06.069686+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2025-12-10T09:13:54.418358+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 09时13分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时48分 ~ 07时16分]"
+          "appearance_count": 5,
+          "time_info": "[06时48分 ~ 09时13分]"
         },
         {
           "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
@@ -185,7 +186,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -197,6 +198,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 07时16分]"
+        },
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
