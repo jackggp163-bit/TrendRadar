@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T17:20:15.591463+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2025-12-10T18:19:40.314305+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -197,8 +197,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时13分 ~ 17时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时13分 ~ 18时19分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -270,8 +270,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 18时19分]"
         },
         {
           "title": "河南巩义一村庄流出露天温泉水",
@@ -333,7 +333,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
