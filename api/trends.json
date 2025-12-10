@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T18:19:40.314305+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-12-10T19:15:36.884526+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
@@ -197,8 +197,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 18时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 19时15分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -251,6 +251,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "河南一学校通报校领导要求学生为其子女比赛投票：已免职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32143517",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 19时15分]"
+        },
+        {
           "title": "河南一职校领导要求学生为其子女投票被免职，如何评价？还有哪些问题值得深思？",
           "url": "https://www.zhihu.com/question/1982010374543861721",
           "source": "知乎",
@@ -260,18 +272,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时29分 ~ 14时26分]"
-        },
-        {
-          "title": "河南一学校通报校领导要求学生为其子女比赛投票：已免职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32143517",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 18时19分]"
         },
         {
           "title": "河南巩义一村庄流出露天温泉水",
