@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T15:21:53.649513+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2025-12-11T16:24:10.908133+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 16时24分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -264,7 +264,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -275,7 +275,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -305,7 +305,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -340,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "市场认为鲍威尔更关注劳动力市场疲软 欧元区国债收益率随美债走低",
+          "url": "https://flash.jin10.com/detail/20251211154449329800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
