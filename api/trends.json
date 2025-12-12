@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:26:08.529807+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2025-12-12T15:20:32.643121+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 15时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -342,11 +342,12 @@
           "ranks": [
             8,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时20分 ~ 15时20分]"
         },
         {
           "title": "河南迎今冬最强降雪",
@@ -373,8 +374,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 15时20分]"
         },
         {
           "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
@@ -386,8 +387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 15时20分]"
         }
       ]
     },
