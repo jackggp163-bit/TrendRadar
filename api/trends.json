@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T11:20:56.311806+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-12-12T12:31:26.059082+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 12时31分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -351,11 +351,12 @@
           "url": "https://www.douyin.com/hot/2333922",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 12时31分]"
         }
       ]
     },
@@ -371,8 +372,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时31分]"
         },
         {
           "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
@@ -384,8 +385,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时31分]"
         }
       ]
     },
@@ -400,7 +401,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         }
