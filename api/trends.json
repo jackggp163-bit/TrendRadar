@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-13T03:14:31.915846+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-12-13T04:18:06.547240+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
+        {
+          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 04时18分]"
+        },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
           "url": "https://wallstreetcn.com/articles/3761271",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 01时16分]"
-        },
-        {
-          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览",
@@ -120,11 +120,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 04时18分]"
         }
       ]
     },
