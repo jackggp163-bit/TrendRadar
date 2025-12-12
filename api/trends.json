@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T16:23:34.754879+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2025-12-12T17:20:46.680468+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
@@ -239,7 +239,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国纽约联储披露短期美债购买情况：美联储周五将购买82亿美元国库券。",
@@ -264,6 +264,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时17分]"
+        },
+        {
+          "title": "花旗：美债仍属可控，投资者仍具信心",
+          "url": "https://flash.jin10.com/detail/20251212164856635800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美债收益率于美股盘中持续走高",
@@ -347,8 +358,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时20分]"
         },
         {
           "title": "河南迎今冬最强降雪",
@@ -374,7 +385,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -403,8 +414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 16时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 17时20分]"
         },
         {
           "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
@@ -416,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 16时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 17时20分]"
         }
       ]
     }
