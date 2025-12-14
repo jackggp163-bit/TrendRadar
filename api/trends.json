@@ -1,85 +1,33 @@
 {
-  "generated_at": "2025-12-14T23:15:12.568683+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2025-12-15T00:18:23.001951+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "习近平",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "习近平：实践证明，对我们“卡脖子”是卡不住的",
           "url": "https://wallstreetcn.com/articles/3761361",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时16分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "习近平：实践证明，对我们“卡脖子”是卡不住的",
           "url": "https://www.cls.cn/detail/2228846",
           "source": "财联社热门",
           "ranks": [
-            13,
-            8,
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时15分 ~ 23时15分]"
-        },
-        {
-          "title": "习近平：实践证明，对我们“卡脖子”是卡不住的",
-          "url": "https://wallstreetcn.com/livenews/3020339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 18时16分]"
-        },
-        {
-          "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
-          "url": "https://wallstreetcn.com/articles/3761330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时33分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
@@ -92,12 +40,11 @@
           "url": "https://wallstreetcn.com/articles/3761367",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时24分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
@@ -110,14 +57,11 @@
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            6,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时16分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
@@ -126,16 +70,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "河南风光年发电量首破“千亿”千瓦时",
-          "url": "https://wallstreetcn.com/livenews/3020301",
-          "source": "华尔街见闻-快讯",
+          "title": "河南省委书记暗访嵩山少林",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            29
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时25分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     }
