@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:16:18.598822+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2025-12-14T18:16:05.671413+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 18时16分]"
+        },
+        {
+          "title": "习近平：实践证明，对我们“卡脖子”是卡不住的",
+          "url": "https://www.cls.cn/detail/2228846",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时16分]"
         },
         {
           "title": "习近平：实践证明，对我们“卡脖子”是卡不住的",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时16分 ~ 16时20分]"
-        },
-        {
-          "title": "习近平：实践证明，对我们“卡脖子”是卡不住的",
-          "url": "https://www.cls.cn/detail/2228846",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 17时16分]"
         }
       ]
     },
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 17时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -93,11 +93,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 18时16分]"
         }
       ]
     },
