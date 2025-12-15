@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:17:19.722069+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-12-16T04:18:52.624437+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时18分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时18分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -79,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时18分]"
         },
         {
           "title": "习近平对未成年人思想道德建设作出重要指示",
@@ -88,11 +89,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 04时18分]"
         }
       ]
     },
