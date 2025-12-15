@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T19:15:32.809173+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-12-15T20:36:43.193664+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -88,6 +88,17 @@
           "time_info": "17时27分"
         },
         {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
           "url": "https://wallstreetcn.com/livenews/3020718",
           "source": "华尔街见闻-快讯",
@@ -123,8 +134,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时36分]"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
+          "url": "https://wallstreetcn.com/articles/3761409",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时36分]"
         },
         {
           "title": "习近平：实践证明，对我们“卡脖子”是卡不住的",
@@ -140,26 +164,13 @@
           "time_info": "[00时18分 ~ 09时16分]"
         },
         {
-          "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
-          "url": "https://wallstreetcn.com/articles/3761409",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时15分]"
-        },
-        {
           "title": "习近平对未成年人思想道德建设作出重要指示强调，坚持把未成年人思想道德建设作为战略性、基础性工作来抓，合力为未成年人健康成长营造良好社会环境。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3020921",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
