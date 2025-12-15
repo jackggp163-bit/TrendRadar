@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T00:23:39.893217+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-16T01:22:00.154594+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -43,6 +44,34 @@
       ]
     },
     {
+      "keyword_group": "习近平",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
+          "url": "https://wallstreetcn.com/articles/3761409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时22分]"
+        },
+        {
+          "title": "习近平对未成年人思想道德建设作出重要指示",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180167",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 01时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -52,23 +81,6 @@
           "source": "金十数据",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "习近平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
-          "url": "https://wallstreetcn.com/articles/3761409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
