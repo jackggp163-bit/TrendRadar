@@ -1,8 +1,53 @@
 {
-  "generated_at": "2025-12-15T07:14:51.536840+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-12-15T09:16:14.490563+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "河南",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "河南省委书记暗访嵩山少林",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            12,
+            8,
+            7,
+            6,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时16分]"
+        },
+        {
+          "title": "河南省委书记暗访嵩山少林",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "河南省委书记暗访嵩山少林",
+          "url": "https://www.toutiao.com/trending/7583718025950969866/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 2,
@@ -34,6 +79,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
+          "url": "https://wallstreetcn.com/articles/3761364",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "习近平",
       "match_count": 2,
       "titles": [
@@ -45,8 +118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时16分]"
         },
         {
           "title": "习近平：实践证明，对我们“卡脖子”是卡不住的",
@@ -58,8 +131,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时16分]"
         }
       ]
     },
@@ -76,30 +149,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "河南省委书记暗访嵩山少林",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%9A%97%E8%AE%BF%E5%B5%A9%E5%B1%B1%E5%B0%91%E6%9E%97",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            12,
-            8,
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时16分]"
         }
       ]
     }
