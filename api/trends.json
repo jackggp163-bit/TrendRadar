@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-16T13:19:06.702238+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2025-12-16T14:26:36.831008+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时57分 ~ 14时26分]"
+        },
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
           "url": "https://wallstreetcn.com/articles/3761417",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 05时16分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时57分 ~ 13时19分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -172,7 +172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -276,8 +276,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时26分]"
         },
         {
           "title": "习近平对未成年人思想道德建设作出重要指示",
