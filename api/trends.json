@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T11:21:17.775839+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2025-12-16T12:32:28.376097+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 12时32分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -172,7 +172,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -206,7 +206,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -217,7 +217,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
@@ -265,8 +265,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时32分]"
         },
         {
           "title": "习近平对未成年人思想道德建设作出重要指示",
