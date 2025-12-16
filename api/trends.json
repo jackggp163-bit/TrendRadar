@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:19:59.037371+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2025-12-16T19:15:39.268473+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
@@ -206,7 +206,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -242,6 +242,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "习近平",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
+          "url": "https://wallstreetcn.com/articles/3761409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时26分]"
+        },
+        {
+          "title": "习近平对未成年人思想道德建设作出重要指示",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180167",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 05时16分]"
+        },
+        {
+          "title": "习近平听取李家超述职报告",
+          "url": "https://wallstreetcn.com/livenews/3021642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "习近平听取岑浩辉述职报告",
+          "url": "https://wallstreetcn.com/livenews/3021644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
@@ -299,37 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "习近平",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《扩大内需是战略之举》",
-          "url": "https://wallstreetcn.com/articles/3761409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时26分]"
-        },
-        {
-          "title": "习近平对未成年人思想道德建设作出重要指示",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180167",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 05时16分]"
         }
       ]
     }
