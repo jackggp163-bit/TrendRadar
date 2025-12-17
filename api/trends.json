@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T13:19:08.245147+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-12-17T14:25:26.884186+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 14时25分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
@@ -175,8 +175,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 14时25分]"
         },
         {
           "title": "不敢带恁回河南",
@@ -199,8 +199,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 14时25分]"
         },
         {
           "title": "河南通报方城学校火灾事故调查结果",
@@ -212,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
+          "url": "https://news.ifeng.com/c/8p9Z1BIc1KG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 14时25分]"
         },
         {
           "title": "河南学校火灾致13人遇难 25人被处分",
@@ -250,27 +261,17 @@
           "time_info": "[11时16分 ~ 12时29分]"
         },
         {
-          "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
-          "url": "https://news.ifeng.com/c/8p9Z1BIc1KG",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时19分]"
-        },
-        {
           "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
           "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 14时25分]"
         },
         {
           "title": "河南通报方城学校火灾事故调查结果",
