@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T15:19:46.692973+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2025-12-17T16:23:55.839242+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -175,8 +175,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 15时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 16时23分]"
+        },
+        {
+          "title": "河南方城学校致 13 死报告发布，系学生使用打火机所致，暴露了学校管理哪些漏洞？如何避免类似悲剧发生？",
+          "url": "https://www.zhihu.com/question/1984565256928851551",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 16时23分]"
         },
         {
           "title": "不敢带恁回河南",
@@ -191,16 +203,19 @@
           "time_info": "[00时22分 ~ 09时09分]"
         },
         {
-          "title": "河南方城学校致 13 死报告发布，系学生使用打火机所致，暴露了学校管理哪些漏洞？如何避免类似悲剧发生？",
-          "url": "https://www.zhihu.com/question/1984565256928851551",
-          "source": "知乎",
+          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            2
+            20,
+            15,
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 16时23分]"
         },
         {
           "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
@@ -223,20 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 15时19分]"
         },
         {
           "title": "河南学校火灾致13人遇难 25人被处分",
@@ -291,11 +292,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%977%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%BB%83%E6%AD%A6+%E8%A1%8C%E4%BA%91%E6%B5%81%E6%B0%B4%E5%A4%AA%E9%A3%92%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时23分]"
         }
       ]
     },
