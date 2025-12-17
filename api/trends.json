@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T11:16:55.951711+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2025-12-17T12:29:40.553174+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 12时29分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
@@ -160,7 +160,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "河南辉县一村委会欠债后村支书为逃限高串通让智力缺陷者接任，多人获处分",
@@ -175,8 +175,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时29分]"
         },
         {
           "title": "不敢带恁回河南",
@@ -197,53 +197,68 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "河南方城学校致 13 死报告发布，系学生使用打火机所致，暴露了学校管理哪些漏洞？如何避免类似悲剧发生？",
+          "url": "https://www.zhihu.com/question/1984565256928851551",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "河南学校火灾致13人遇难 25人被处分",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%AD%A6%E6%A0%A1%E7%81%AB%E7%81%BE%E8%87%B413%E4%BA%BA%E9%81%87%E9%9A%BE+25%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "河南一学校13死火灾25人被处理处分",
           "url": "https://www.toutiao.com/trending/7584312707193503795/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "河南公布致13死学校火灾调查报告",
           "url": "https://www.douyin.com/hot/2338837",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "河南通报方城学校火灾事故调查结果",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E6%96%B9%E5%9F%8E%E5%AD%A6%E6%A0%A1%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "河南公布小学13死重大火灾事故调查报告：25人被问责",
@@ -252,9 +267,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
+        },
+        {
+          "title": "河南发布方城英才学校重大火灾事故调查报告，25名责任人员被处理处分",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193701",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "12时29分"
         }
       ]
     },
