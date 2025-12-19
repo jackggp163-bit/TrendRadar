@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T12:31:43.496672+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2025-12-19T13:18:14.643177+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时18分]"
+        },
+        {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
@@ -29,19 +42,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时24分 ~ 06时16分]"
-        },
-        {
-          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2234084",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时31分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 13时18分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股收盘）",
@@ -148,18 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 12时31分]"
         },
         {
           "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
@@ -462,7 +462,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
