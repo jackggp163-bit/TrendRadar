@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T02:23:15.951061+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-12-20T03:13:56.553620+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -49,7 +50,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
@@ -78,30 +79,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "河南女孩吐槽经常被南方室友催着洗澡，南北洗浴习惯差异为何这么大？天天冲澡和搓澡，哪种更健康？",
           "url": "https://www.zhihu.com/question/1985013127494988661",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "河南方城英才学校致13死4伤火灾三名责任人今日受审，涉嫌教育设施重大安全事故罪",
           "url": "https://m.thepaper.cn/newsDetail_forward_32209739",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时13分]"
         }
       ]
     },
@@ -132,11 +135,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时13分]"
         }
       ]
     }
