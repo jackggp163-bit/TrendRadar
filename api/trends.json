@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T20:29:29.421982+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2025-12-20T21:24:18.956959+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 20时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时09分 ~ 21时24分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -40,11 +40,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 20时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时09分 ~ 21时24分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 21时24分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -106,11 +107,12 @@
           "ranks": [
             4,
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时24分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -232,8 +234,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时16分 ~ 20时29分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 21时24分]"
         },
         {
           "title": "河南女孩吐槽经常被南方室友催着洗澡，南北洗浴习惯差异为何这么大？天天冲澡和搓澡，哪种更健康？",
@@ -281,11 +283,25 @@
             12,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 20时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 21时24分]"
+        },
+        {
+          "title": "河南22岁小伙52秒KO泰拳世界冠军",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9722%E5%B2%81%E5%B0%8F%E4%BC%9952%E7%A7%92KO%E6%B3%B0%E6%8B%B3%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 21时24分]"
         },
         {
           "title": "河南学校13死4伤火灾案宣判",
@@ -299,18 +315,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 07时16分]"
-        },
-        {
-          "title": "河南22岁小伙52秒KO泰拳世界冠军",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9722%E5%B2%81%E5%B0%8F%E4%BC%9952%E7%A7%92KO%E6%B3%B0%E6%8B%B3%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 20时29分]"
         }
       ]
     },
