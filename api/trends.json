@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T19:13:13.374837+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2025-12-20T20:29:29.421982+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 20时29分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时09分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 20时29分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -60,17 +60,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时16分]"
-        },
-        {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
           "url": "https://www.cls.cn/detail/2235373",
           "source": "财联社热门",
@@ -80,8 +69,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 20时29分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时22分 ~ 19时13分]"
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -100,6 +100,19 @@
           "time_info": "[11时12分 ~ 16时20分]"
         },
         {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时29分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
           "url": "https://wallstreetcn.com/livenews/3024176",
           "source": "华尔街见闻-快讯",
@@ -111,18 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 09时10分]"
-        },
-        {
-          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
-          "url": "https://wallstreetcn.com/livenews/3024266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -231,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时16分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[07时16分 ~ 20时29分]"
         },
         {
           "title": "河南女孩吐槽经常被南方室友催着洗澡，南北洗浴习惯差异为何这么大？天天冲澡和搓澡，哪种更健康？",
@@ -283,8 +284,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时29分]"
         },
         {
           "title": "河南学校13死4伤火灾案宣判",
@@ -304,11 +305,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9722%E5%B2%81%E5%B0%8F%E4%BC%9952%E7%A7%92KO%E6%B3%B0%E6%8B%B3%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 20时29分]"
         }
       ]
     },
