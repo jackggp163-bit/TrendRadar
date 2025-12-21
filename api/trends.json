@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T17:16:05.281351+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2025-12-21T18:17:04.191471+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,40 @@
             7,
             8,
             9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时18分 ~ 18时17分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 18时17分]"
+        },
+        {
+          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
+          "url": "https://flash.jin10.com/detail/20251221123146651800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            11,
+            16,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 18时17分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -45,33 +74,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 09时19分]"
-        },
-        {
-          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
-          "url": "https://flash.jin10.com/detail/20251221123146651800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            11,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 17时16分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 17时16分]"
         }
       ]
     },
@@ -100,11 +102,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "孩子从山西到河南看望远嫁的姑姑",
@@ -143,11 +146,12 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 18时17分]"
         },
         {
           "title": "金价又涨了",
