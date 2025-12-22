@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-22T17:24:09.677415+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-12-22T18:17:57.392866+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 6,
       "titles": [
+        {
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 18时17分]"
+        },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
           "url": "https://wallstreetcn.com/articles/3761788",
@@ -21,21 +37,6 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 17时24分]"
-        },
-        {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
@@ -43,8 +44,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时17分]"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时17分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -58,28 +72,16 @@
           "time_info": "07时15分"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 17时24分]"
-        },
-        {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
           "url": "https://wallstreetcn.com/livenews/3024841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时17分]"
         }
       ]
     },
@@ -147,8 +149,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 17时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时17分]"
         }
       ]
     },
