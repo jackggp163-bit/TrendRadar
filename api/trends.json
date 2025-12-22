@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T15:21:01.793007+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-12-22T16:24:23.922960+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -79,11 +79,12 @@
             10,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时24分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -101,11 +102,12 @@
           "url": "https://www.cls.cn/detail/2236150",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时24分]"
         }
       ]
     },
@@ -118,11 +120,12 @@
           "url": "https://www.douyin.com/hot/2344085",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时24分]"
         }
       ]
     },
