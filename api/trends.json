@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T21:31:43.545090+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2025-12-22T22:17:14.713728+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -22,6 +22,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时36分 ~ 18时17分]"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 22时17分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -49,19 +64,15 @@
           "time_info": "[17时23分 ~ 20时33分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            7,
-            6,
-            8,
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时17分]"
         },
         {
           "title": "英伟达美股盘前拉升， 现涨近2%。",
@@ -75,17 +86,6 @@
           "time_info": "20时33分"
         },
         {
-          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3024485",
           "source": "华尔街见闻-快讯",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -137,11 +148,23 @@
           "url": "https://wallstreetcn.com/livenews/3024963",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222212925989800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "22时17分"
         }
       ]
     },
@@ -225,8 +248,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时31分]"
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 22时17分]"
         },
         {
           "title": "河南：及时将符合条件的辅助生殖技术项目纳入医保支付范围",
@@ -249,6 +272,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "习近平",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中央军委举行晋升上将军衔仪式，习近平颁发命令状并向晋衔的军官表示祝贺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229226",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "李强主持召开国务院“十五五”规划《纲要草案》编制工作领导小组会议强调 深入学习贯彻习近平总书记重要讲话精神 进一步做好“十五五”规划纲要编制工作 丁薛祥出席",
+          "url": "https://wallstreetcn.com/livenews/3024922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },
@@ -281,23 +332,6 @@
           "source": "金十数据",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "习近平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李强主持召开国务院“十五五”规划《纲要草案》编制工作领导小组会议强调 深入学习贯彻习近平总书记重要讲话精神 进一步做好“十五五”规划纲要编制工作 丁薛祥出席",
-          "url": "https://wallstreetcn.com/livenews/3024922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
