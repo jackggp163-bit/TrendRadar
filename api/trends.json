@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T11:23:27.436877+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2025-12-23T12:34:44.866907+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 12时34分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -337,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 12时34分]"
         }
       ]
     }
