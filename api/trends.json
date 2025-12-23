@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T20:33:20.155565+08:00",
-  "total_titles_processed": 1784,
+  "generated_at": "2025-12-23T21:33:42.982535+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
@@ -205,7 +205,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -270,8 +270,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 20时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 21时33分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -282,8 +282,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时33分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -295,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "金价银价同日创新高",
@@ -391,7 +402,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
@@ -466,8 +477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 20时33分]"
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 21时33分]"
         },
         {
           "title": "习近平对中央企业工作作出重要指示强调",
