@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T14:26:41.997438+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-12-23T15:21:03.162105+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时21分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -232,9 +232,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时21分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -349,7 +349,7 @@
     },
     {
       "keyword_group": "习近平",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中央军委举行晋升上将军衔仪式，习近平颁发命令状并向晋衔的军官表示祝贺",
@@ -359,8 +359,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 15时21分]"
+        },
+        {
+          "title": "习近平对中央企业工作作出重要指示",
+          "url": "https://www.cls.cn/detail/2237432",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "习近平对中央企业工作作出重要指示强调",
@@ -369,7 +380,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }
