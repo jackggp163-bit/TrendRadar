@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T13:20:42.410332+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-12-24T14:27:06.373173+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 14时27分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -304,8 +304,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 14时27分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -360,11 +360,12 @@
           "url": "https://flash.jin10.com/detail/20251224130812700800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时27分]"
         }
       ]
     },
@@ -379,9 +380,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 14时27分]"
         }
       ]
     }
