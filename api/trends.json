@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T03:13:42.417412+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-12-25T04:17:55.287629+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3026322",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时17分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
@@ -24,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时17分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）热门中概股行情一览（美股收盘）",
@@ -36,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时17分]"
         },
         {
           "title": "美股收盘：三大股指齐涨 标普500续创新高",
@@ -48,11 +51,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时17分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3026315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时13分]"
+          "time_info": "[03时13分 ~ 04时17分]"
         },
         {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
@@ -65,17 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时14分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3026315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
@@ -113,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "河南一宗族恶势力团伙5人获刑",
@@ -127,8 +132,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时17分]"
         },
         {
           "title": "河南一宗族恶势力团伙5人获刑",
@@ -136,11 +141,24 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时17分]"
+        },
+        {
+          "title": "河南商丘一空地冒出大量全新手机壳",
+          "url": "https://www.toutiao.com/trending/7587410584400986155/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 04时17分]"
         },
         {
           "title": "河南小伙墙绘天安门圆全村老人梦",
@@ -148,22 +166,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时13分]"
-        },
-        {
-          "title": "河南商丘一空地冒出大量全新手机壳",
-          "url": "https://www.toutiao.com/trending/7587410584400986155/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 04时17分]"
         }
       ]
     },
@@ -180,8 +188,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "圣诞前夕交易清淡，标普500指数创新高，英特尔跌近4%，金属涨势暂缓，美元连跌三日",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         }
       ]
     }
