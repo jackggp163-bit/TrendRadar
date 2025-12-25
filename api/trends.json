@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T06:16:04.486921+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-26T07:15:37.824423+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             8,
             6,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "班主任兼宿管被判刑引热议，河南方城“英才学校火灾案”判决书披露量刑依据",
@@ -29,11 +30,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "河南一大货车出事故多人哄抢货物",
@@ -44,11 +46,12 @@
             19,
             28,
             17,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时15分]"
         }
       ]
     },
@@ -65,11 +68,12 @@
             11,
             10,
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -100,8 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         }
       ]
     },
@@ -116,11 +120,12 @@
           "ranks": [
             20,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时15分]"
         }
       ]
     }
