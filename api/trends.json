@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T19:15:29.812277+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2025-12-25T20:32:11.797027+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时14分 ~ 19时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时14分 ~ 20时32分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
@@ -27,11 +27,12 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 20时32分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -247,6 +248,18 @@
           "time_info": "[03时13分 ~ 07时15分]"
         },
         {
+          "title": "「河南校园火灾涉事班主任判六年」量刑依据披露，此前有热议量刑过重、教师责任边界模糊，如何理解这一量刑？",
+          "url": "https://www.zhihu.com/question/1986471004445365937",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 20时32分]"
+        },
+        {
           "title": "河南一宗族恶势力团伙5人获刑",
           "url": "https://www.toutiao.com/trending/7587310534547079219/",
           "source": "今日头条",
@@ -266,23 +279,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时32分]"
         },
         {
-          "title": "「河南校园火灾涉事班主任判六年」量刑依据披露，此前有热议量刑过重、教师责任边界模糊，如何理解这一量刑？",
-          "url": "https://www.zhihu.com/question/1986471004445365937",
-          "source": "知乎",
+          "title": "班主任兼宿管被判刑引热议，河南方城“英才学校火灾案”判决书披露量刑依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32252552",
+          "source": "澎湃新闻",
           "ranks": [
-            20,
-            13
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "河南商丘空地冒出大量全新手机壳",
@@ -295,17 +309,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 14时26分]"
-        },
-        {
-          "title": "班主任兼宿管被判刑引热议，河南方城“英才学校火灾案”判决书披露量刑依据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32252552",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "河南火灾事故贾霞亲人发文",
@@ -377,11 +380,12 @@
           "url": "https://www.zhihu.com/question/1987171318681068732",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 20时32分]"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
