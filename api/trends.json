@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T01:14:54.815098+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-12-26T02:22:49.405009+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -12,23 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32252552",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
-        },
-        {
-          "title": "河南一大货车出事故多人哄抢货物",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%A4%A7%E8%B4%A7%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E5%93%84%E6%8A%A2%E8%B4%A7%E7%89%A9%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时22分]"
         },
         {
           "title": "河南一大货车出事故多人哄抢货物",
@@ -37,6 +26,18 @@
           "ranks": [
             17,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时22分]"
+        },
+        {
+          "title": "河南一大货车出事故多人哄抢货物",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%A4%A7%E8%B4%A7%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E5%93%84%E6%8A%A2%E8%B4%A7%E7%89%A9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -54,11 +55,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时22分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -68,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时22分]"
         }
       ]
     },
@@ -86,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时22分]"
         }
       ]
     },
@@ -100,11 +102,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32252203",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时22分]"
         }
       ]
     }
