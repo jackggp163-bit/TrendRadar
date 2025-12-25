@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-26T04:18:38.166738+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-12-26T05:15:06.007778+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
       "match_count": 3,
       "titles": [
+        {
+          "title": "河南一大货车出事故多人哄抢货物",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%A4%A7%E8%B4%A7%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E5%93%84%E6%8A%A2%E8%B4%A7%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
+        },
         {
           "title": "班主任兼宿管被判刑引热议，河南方城“英才学校火灾案”判决书披露量刑依据",
           "url": "https://m.thepaper.cn/newsDetail_forward_32252552",
@@ -16,22 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "河南一大货车出事故多人哄抢货物",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%A4%A7%E8%B4%A7%E8%BD%A6%E5%87%BA%E4%BA%8B%E6%95%85%E5%A4%9A%E4%BA%BA%E5%93%84%E6%8A%A2%E8%B4%A7%E7%89%A9",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "河南一大货车出事故多人哄抢货物",
@@ -40,11 +41,12 @@
           "ranks": [
             7,
             19,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时15分]"
         }
       ]
     },
@@ -59,11 +61,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -94,8 +97,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         }
       ]
     },
@@ -113,8 +116,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时15分]"
         }
       ]
     }
