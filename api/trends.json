@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T04:17:45.704105+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-12-27T05:14:45.001826+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
           "url": "https://www.cls.cn/detail/2241565",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -107,8 +109,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 05时14分]"
         },
         {
           "title": "河南回应大货车货物遭哄抢",
@@ -117,11 +119,12 @@
           "ranks": [
             20,
             16,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 05时14分]"
         },
         {
           "title": "河南周口通报一中学食堂承包方举报校领导：成立联合调查组",
@@ -132,8 +135,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时17分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时14分]"
         }
       ]
     },
@@ -150,8 +153,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数本周跌约0.7%",
+          "url": "https://wallstreetcn.com/livenews/3027455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     }
