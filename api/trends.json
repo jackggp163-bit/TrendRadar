@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T12:29:12.915692+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2025-12-27T13:17:30.545973+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -42,8 +42,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 13时17分]"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -58,18 +70,6 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 12时29分]"
-        },
-        {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
           "url": "https://www.cls.cn/detail/2241688",
           "source": "财联社热门",
@@ -79,8 +79,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 13时17分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
@@ -201,7 +201,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "河南周口通报一中学食堂承包方举报校领导：成立联合调查组",
@@ -214,8 +214,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时13分 ~ 12时29分]"
+          "appearance_count": 12,
+          "time_info": "[03时13分 ~ 13时17分]"
         },
         {
           "title": "河南回应大货车货物遭哄抢",
@@ -232,8 +232,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时22分 ~ 12时29分]"
+          "appearance_count": 14,
+          "time_info": "[02时22分 ~ 13时17分]"
         },
         {
           "title": "河南普通人的生活现状",
@@ -243,11 +243,12 @@
             13,
             11,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时14分 ~ 12时29分]"
+          "appearance_count": 15,
+          "time_info": "[01时14分 ~ 13时17分]"
         },
         {
           "title": "河南 4 所高校拟申报本科学校，更名为大学，例如「中原工学院」改为「河南电子科技大学」，如何评价？",
@@ -262,6 +263,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 03时13分]"
+        },
+        {
+          "title": "河南69岁奶奶活成大女主年入200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9769%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B4%BB%E6%88%90%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%B9%B4%E5%85%A5200%E4%B8%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "河南69岁奶奶活成大女主年入200万",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9769%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B4%BB%E6%88%90%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%B9%B4%E5%85%A5200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -292,11 +315,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 13时17分]"
         }
       ]
     },
