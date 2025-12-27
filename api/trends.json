@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T05:14:45.159653+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-28T06:15:53.334386+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "我看见了河南普通人的生活",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "河南普通人的生活现状",
@@ -39,11 +39,12 @@
           "ranks": [
             14,
             26,
-            23
+            23,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时15分]"
         }
       ]
     },
@@ -62,8 +63,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时15分]"
         }
       ]
     },
@@ -79,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         }
       ]
     }
