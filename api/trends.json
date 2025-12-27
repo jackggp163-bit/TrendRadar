@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T03:12:32.896810+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2025-12-28T04:17:27.159971+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32263967",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "我看见了河南普通人的生活",
@@ -28,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "河南普通人的生活现状",
@@ -60,8 +61,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时17分]"
         }
       ]
     },
@@ -77,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 04时17分]"
         }
       ]
     }
