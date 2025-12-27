@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T16:21:42.950088+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2025-12-27T17:16:29.322903+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 17时16分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 17时16分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -68,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 17时16分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -202,7 +202,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "河南周口通报一中学食堂承包方举报校领导：成立联合调查组",
@@ -216,8 +216,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时13分 ~ 16时21分]"
+          "appearance_count": 16,
+          "time_info": "[03时13分 ~ 17时16分]"
         },
         {
           "title": "河南回应大货车货物遭哄抢",
@@ -249,11 +249,12 @@
             12,
             14,
             16,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时14分 ~ 16时21分]"
+          "appearance_count": 19,
+          "time_info": "[01时14分 ~ 17时16分]"
         },
         {
           "title": "河南69岁奶奶活成大女主年入200万",
@@ -262,11 +263,12 @@
           "ranks": [
             30,
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 17时16分]"
         },
         {
           "title": "河南 4 所高校拟申报本科学校，更名为大学，例如「中原工学院」改为「河南电子科技大学」，如何评价？",
@@ -281,6 +283,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 03时13分]"
+        },
+        {
+          "title": "河南网红“蹭饭书记”11月中旬卸任，称将回老家当村干部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263967",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "河南69岁奶奶活成大女主年入200万",
