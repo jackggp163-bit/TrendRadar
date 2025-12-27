@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T19:13:41.623402+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2025-12-27T20:30:42.042171+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[09时12分 ~ 20时30分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -216,11 +216,12 @@
             7,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时13分 ~ 19时13分]"
+          "appearance_count": 20,
+          "time_info": "[03时13分 ~ 20时30分]"
         },
         {
           "title": "河南回应大货车货物遭哄抢",
@@ -257,8 +258,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时14分 ~ 19时13分]"
+          "appearance_count": 22,
+          "time_info": "[01时14分 ~ 20时30分]"
         },
         {
           "title": "河南69岁奶奶活成大女主年入200万",
@@ -296,22 +297,24 @@
           "ranks": [
             14,
             13,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 20时30分]"
         },
         {
           "title": "我看见了河南普通人的生活",
           "url": "https://www.douyin.com/hot/2348976",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时30分]"
         },
         {
           "title": "河南69岁奶奶活成大女主年入200万",
@@ -328,7 +331,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
@@ -341,6 +344,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 07时16分]"
+        },
+        {
+          "title": "金价上涨的受益者这里有一屋",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E5%B1%8B&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
         }
       ]
     },
@@ -406,11 +420,12 @@
           "url": "https://flash.jin10.com/detail/20251227183819288800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时30分]"
         }
       ]
     }
