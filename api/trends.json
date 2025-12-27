@@ -1,11 +1,67 @@
 {
-  "generated_at": "2025-12-27T23:15:10.814100+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-12-28T00:18:36.061008+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "河南",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "河南网红“蹭饭书记”11月中旬卸任，称将回老家当村干部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263967",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "我看见了河南普通人的生活",
+          "url": "https://www.douyin.com/hot/2348976",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "河南普通人的生活现状",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金饰价格破1400元黄金回收加工却遇冷",
+          "url": "https://www.toutiao.com/trending/7588294573819101226/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 1,
       "titles": [
         {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
@@ -15,434 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时12分 ~ 23时15分]"
-        },
-        {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 19时13分]"
-        },
-        {
-          "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时14分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2241565",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 18时16分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 19时13分]"
-        },
-        {
-          "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3027473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 09时12分]"
-        },
-        {
-          "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3027472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 09时12分]"
-        },
-        {
-          "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
-          "url": "https://flash.jin10.com/detail/20251226234452132800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "纽约银日内涨幅达6.0%，报76美元/盎司。现货白银日内涨幅达5.5%，报75.85美元/盎司。 现货铂金涨10%，报2452.95美元，创历史新高，美股开盘后短暂回落至2380美元下方、随后加速上涨。 现货黄金涨1.28%，报4537.07美元。纽约金日内涨幅达1.5%，报4570.4美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3027401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "韩国电商Coupang美股盘初涨11%，创5月7日以来最佳盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/3027382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF、能源业ETF、网络股指数ETF、可选消费ETF至多跌0.47%，银行业ETF、半导体ETF、科技行业ETF至多涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3027380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
-          "url": "https://wallstreetcn.com/livenews/3027465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3027489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "黄金ETF收涨将近1.2%，领跑美股大类资产类ETF，今年已涨超72%",
-          "url": "https://wallstreetcn.com/livenews/3027493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌2.1%，英伟达涨1%",
-          "url": "https://wallstreetcn.com/livenews/3027465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "河南周口通报一中学食堂承包方举报校领导：成立联合调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32258835",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            7,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[03时13分 ~ 21时25分]"
-        },
-        {
-          "title": "我看见了河南普通人的生活",
-          "url": "https://www.douyin.com/hot/2348976",
-          "source": "抖音",
-          "ranks": [
-            12,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时13分 ~ 23时15分]"
-        },
-        {
-          "title": "河南网红“蹭饭书记”11月中旬卸任，称将回老家当村干部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263967",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时16分 ~ 23时15分]"
-        },
-        {
-          "title": "河南回应大货车货物遭哄抢",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%9B%9E%E5%BA%94%E5%A4%A7%E8%B4%A7%E8%BD%A6%E8%B4%A7%E7%89%A9%E9%81%AD%E5%93%84%E6%8A%A2",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            16,
-            13,
-            8,
-            7,
-            6,
-            9,
-            17,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时22分 ~ 16时21分]"
-        },
-        {
-          "title": "河南普通人的生活现状",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            11,
-            12,
-            14,
-            16,
-            19,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时14分 ~ 20时30分]"
-        },
-        {
-          "title": "河南69岁奶奶活成大女主年入200万",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%9769%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B4%BB%E6%88%90%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%B9%B4%E5%85%A5200%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            1,
-            2,
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时17分 ~ 19时13分]"
-        },
-        {
-          "title": "河南 4 所高校拟申报本科学校，更名为大学，例如「中原工学院」改为「河南电子科技大学」，如何评价？",
-          "url": "https://www.zhihu.com/question/1986119208908644469",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时13分]"
-        },
-        {
-          "title": "河南69岁奶奶活成大女主年入200万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9769%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%B4%BB%E6%88%90%E5%A4%A7%E5%A5%B3%E4%B8%BB%E5%B9%B4%E5%85%A5200%E4%B8%87%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时16分]"
-        },
-        {
-          "title": "金价上涨的受益者这里有一屋",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E5%B1%8B&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金饰价格破1400元黄金回收加工却遇冷",
-          "url": "https://www.toutiao.com/trending/7588294573819101226/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时25分 ~ 23时15分]"
-        },
-        {
-          "title": "金饰价格突破1400元黄金回收遇冷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周五（12月26日）纽约尾盘，美国10年期国债收益率跌0.38个基点，报4.1297%，本周累计下跌1.74个基点 两年期美债收益率跌2.04个基点，报3.4810%，本周累跌0.24个基点；30年期美债收益率本周累跌0.71个基点，报4.8171%。",
-          "url": "https://wallstreetcn.com/livenews/3027456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数本周跌约0.7%",
-          "url": "https://wallstreetcn.com/livenews/3027455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "习近平",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家主席习近平12月27日签署第六十三号、第六十四号、第六十五号、第六十六号、第六十七号、第六十八号主席令。",
-          "url": "https://flash.jin10.com/detail/20251227183819288800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时25分]"
+          "time_info": "00时18分"
         }
       ]
     }
