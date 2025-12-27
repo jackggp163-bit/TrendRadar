@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T02:22:04.476973+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-12-28T03:12:32.896810+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "我看见了河南普通人的生活",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "河南普通人的生活现状",
@@ -76,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     }
