@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T22:15:23.746016+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2025-12-28T23:15:26.954129+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时16分 ~ 22时15分]"
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 23时15分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -100,6 +100,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时44分 ~ 13时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
+          "url": "https://flash.jin10.com/detail/20251228222030090800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
@@ -120,23 +148,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
     }
