@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-28T07:15:24.564132+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-12-28T09:22:47.949462+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
       "match_count": 3,
       "titles": [
-        {
-          "title": "河南网红“蹭饭书记”11月中旬卸任，称将回老家当村干部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263967",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
         {
           "title": "我看见了河南普通人的生活",
           "url": "https://www.douyin.com/hot/2348976",
@@ -27,11 +15,25 @@
             5,
             8,
             11,
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时22分]"
+        },
+        {
+          "title": "河南网红“蹭饭书记”11月中旬卸任，称将回老家当村干部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263967",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时22分]"
         },
         {
           "title": "河南普通人的生活现状",
@@ -42,11 +44,12 @@
             26,
             23,
             11,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 09时22分]"
         }
       ]
     },
