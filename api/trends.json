@@ -1,153 +1,39 @@
 {
-  "generated_at": "2025-12-28T23:15:26.954129+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2025-12-29T00:19:13.408071+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "河南",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "我看见了河南普通人的生活",
-          "url": "https://www.douyin.com/hot/2348976",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8,
-            11,
-            9,
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 12时40分]"
-        },
-        {
-          "title": "河南网红“蹭饭书记”11月中旬卸任，称将回老家当村干部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263967",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 11时44分]"
-        },
-        {
-          "title": "河南普通人的生活现状",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            26,
-            23,
-            11,
-            18,
-            12,
-            28,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 17时16分]"
-        },
-        {
-          "title": "河南“种”出的钻石如何戳破保值神话",
-          "url": "https://www.toutiao.com/trending/7588784451774058035/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时16分 ~ 23时15分]"
-        },
-        {
-          "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
-          "url": "https://flash.jin10.com/detail/20251228100400527800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
           "url": "https://flash.jin10.com/detail/20251228222030090800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金饰价格破1400元黄金回收加工却遇冷",
-          "url": "https://www.toutiao.com/trending/7588294573819101226/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            27,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "time_info": "00时19分"
         }
       ]
     }
