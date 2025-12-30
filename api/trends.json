@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T16:23:06.694166+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2025-12-30T17:21:21.402254+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时14分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 17时21分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -104,11 +104,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时21分]"
         },
         {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
@@ -184,11 +185,12 @@
             8,
             7,
             24,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时35分 ~ 17时21分]"
         },
         {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
@@ -208,7 +210,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -284,8 +286,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时21分]"
         },
         {
           "title": "国家主席习近平将发表二〇二六年新年贺词",
