@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T09:15:56.801974+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2025-12-31T11:23:39.384726+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,28 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 11时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
+          "url": "https://www.cls.cn/detail/2244733",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 11时23分]"
+        },
+        {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2244587",
           "source": "财联社热门",
@@ -53,28 +75,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 09时15分]"
-        },
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
-          "url": "https://www.cls.cn/detail/2244733",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
@@ -198,6 +198,60 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "金价周二略微反弹",
+          "url": "https://wallstreetcn.com/livenews/3028932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）上海金早盘价为980.89元/克，较国际金价(976.71元/克)，高4.18元/克",
+          "url": "https://flash.jin10.com/detail/20251231105932049800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -252,49 +306,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "金价周二略微反弹",
-          "url": "https://wallstreetcn.com/livenews/3028932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -335,6 +346,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }
