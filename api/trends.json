@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T00:20:56.604262+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-01T01:15:18.183926+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "习近平",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "习近平 胜利荣光永载史册",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -48,8 +48,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
+          "title": "国家主席习近平发表二〇二六年新年贺词",
+          "url": "https://wallstreetcn.com/articles/3762391",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 01时15分]"
         }
       ]
     },
@@ -65,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -76,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
