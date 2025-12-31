@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:23:21.394885+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-12-31T17:20:46.737220+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时15分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 17时20分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -245,7 +245,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -330,8 +330,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时20分]"
         },
         {
           "title": "全国政协举行新年茶话会 习近平发表重要讲话",
@@ -362,11 +362,12 @@
           "url": "https://www.cls.cn/detail/2245337",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时20分]"
         }
       ]
     },
@@ -425,11 +426,12 @@
           "ranks": [
             29,
             6,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时20分]"
         },
         {
           "title": "河南的雪也赶着跨年来了",
@@ -438,7 +440,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
