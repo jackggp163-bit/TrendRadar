@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T13:26:04.994182+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2025-12-31T14:26:58.108809+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 14时26分]"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -350,6 +350,35 @@
       ]
     },
     {
+      "keyword_group": "习近平",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全国政协举行新年茶话会 习近平发表重要讲话",
+          "url": "https://wallstreetcn.com/livenews/3029096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时26分]"
+        },
+        {
+          "title": "全国政协举行新年茶话会 习近平发表重要讲话",
+          "url": "https://www.cls.cn/detail/2245146",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -359,28 +388,29 @@
           "source": "抖音",
           "ranks": [
             18,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 14时26分]"
         }
       ]
     },
     {
-      "keyword_group": "习近平",
+      "keyword_group": "河南",
       "match_count": 1,
       "titles": [
         {
-          "title": "全国政协举行新年茶话会 习近平发表重要讲话",
-          "url": "https://wallstreetcn.com/livenews/3029096",
-          "source": "华尔街见闻-快讯",
+          "title": "河南“天安门”墙绘火了",
+          "url": "https://www.toutiao.com/trending/7589793363114098751/",
+          "source": "今日头条",
           "ranks": [
-            2
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "14时26分"
         }
       ]
     }
