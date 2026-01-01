@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:31:27.894481+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-01-01T22:16:04.387900+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时21分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 22时16分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -153,8 +153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时20分 ~ 21时31分]"
+          "appearance_count": 31,
+          "time_info": "[00时20分 ~ 22时16分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -191,6 +191,17 @@
           "time_info": "[00时20分 ~ 17时20分]"
         },
         {
+          "title": "习近平祝大家万事皆可期",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E5%A4%A7%E5%AE%B6%E4%B8%87%E4%BA%8B%E7%9A%86%E5%8F%AF%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 22时16分]"
+        },
+        {
           "title": "国家主席习近平发表二〇二六年新年贺词",
           "url": "https://wallstreetcn.com/articles/3762391",
           "source": "华尔街见闻",
@@ -206,17 +217,6 @@
           "is_new": false,
           "appearance_count": 26,
           "time_info": "[01时14分 ~ 19时15分]"
-        },
-        {
-          "title": "习近平祝大家万事皆可期",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E5%A4%A7%E5%AE%B6%E4%B8%87%E4%BA%8B%E7%9A%86%E5%8F%AF%E6%9C%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 21时31分]"
         },
         {
           "title": "习近平向瑞士新任联邦主席帕姆兰致贺电。",
