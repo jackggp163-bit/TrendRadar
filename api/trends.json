@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T13:23:40.714133+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-01-01T14:26:37.555725+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时26分]"
         },
         {
           "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
@@ -151,8 +151,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时26分]"
+        },
+        {
+          "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
+          "url": "https://www.zhihu.com/question/1989772971334730023",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时26分]"
         },
         {
           "title": "习近平 胜利荣光永载史册",
@@ -166,26 +177,16 @@
           "time_info": "[00时20分 ~ 13时23分]"
         },
         {
-          "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
-          "url": "https://www.zhihu.com/question/1989772971334730023",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时23分]"
-        },
-        {
           "title": "国家主席习近平发表二〇二六年新年贺词",
           "url": "https://www.cls.cn/detail/2245766",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时26分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -201,8 +202,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时14分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[01时14分 ~ 14时26分]"
         },
         {
           "title": "习近平向瑞士新任联邦主席帕姆兰致贺电。",
@@ -268,8 +269,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时26分]"
         }
       ]
     }
