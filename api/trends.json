@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:19:01.499607+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-01-02T05:16:06.414762+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时16分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 05时16分]"
         }
       ]
     }
