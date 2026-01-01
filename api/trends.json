@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:32:40.565850+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-01-01T21:31:27.894481+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时21分 ~ 20时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时21分 ~ 21时31分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -153,8 +153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时20分 ~ 20时32分]"
+          "appearance_count": 29,
+          "time_info": "[00时20分 ~ 21时31分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -215,8 +215,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时32分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时31分]"
         },
         {
           "title": "习近平向瑞士新任联邦主席帕姆兰致贺电。",
@@ -240,11 +240,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 21时31分]"
         },
         {
           "title": "金价波动",
