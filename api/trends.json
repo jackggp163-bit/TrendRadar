@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:26:54.104607+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-01-02T15:21:01.416792+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时21分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时16分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 15时21分]"
         }
       ]
     },
@@ -90,8 +101,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时21分]"
         },
         {
           "title": "习近平祝大家万事皆可期",
