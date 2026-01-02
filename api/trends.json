@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T07:16:29.485373+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-02T09:16:41.085499+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时16分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
           "url": "https://flash.jin10.com/detail/20260102070027378800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时16分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时16分]"
         },
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -54,8 +55,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025年美元指数黯然收官！美联储主席动向将左右后市行情",
+          "url": "https://www.cls.cn/detail/2246198",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     }
