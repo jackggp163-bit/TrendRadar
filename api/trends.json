@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T15:21:01.416792+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-01-02T16:23:07.695628+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 15时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 16时23分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -50,11 +50,12 @@
           "url": "https://wallstreetcn.com/articles/3762449",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 16时23分]"
         }
       ]
     },
@@ -101,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 15时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 16时23分]"
         },
         {
           "title": "习近平祝大家万事皆可期",
