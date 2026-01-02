@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T16:23:07.695628+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-01-02T17:20:44.390242+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -14,11 +14,23 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 17时20分]"
+        },
+        {
+          "title": "美股盘前，中概股大涨，百度涨约12%",
+          "url": "https://wallstreetcn.com/livenews/3029794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -56,6 +68,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时20分 ~ 16时23分]"
+        },
+        {
+          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3029787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "美股三大股指期货走高，纳指期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
+          "url": "https://flash.jin10.com/detail/20260102165416378800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -91,6 +125,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债于2026年首个交易日下跌，就业市场韧性引关注",
+          "url": "https://flash.jin10.com/detail/20260102170712304800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "科技股引领全球股市开年上涨，纳指期货涨0.7%，金银领衔贵金属反弹，伦铝站上3000美元，美债收益率上行",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "习近平",
       "match_count": 2,
       "titles": [
@@ -102,8 +164,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 17时20分]"
         },
         {
           "title": "习近平祝大家万事皆可期",
