@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:16:40.948309+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-01-03T19:13:35.023257+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时11分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时11分 ~ 19时13分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时23分 ~ 18时16分]"
+          "appearance_count": 18,
+          "time_info": "[02时23分 ~ 19时13分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时19分 ~ 18时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 19时13分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 19时13分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -225,6 +225,18 @@
           "time_info": "[09时11分 ~ 12时29分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时13分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
           "url": "https://flash.jin10.com/detail/20260103083148259800",
           "source": "金十数据",
@@ -248,17 +260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "半导体ETF美股盘初涨近4%，半导体设备股上涨，引领芯片股走高",
