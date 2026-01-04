@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T14:25:02.813171+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-01-04T15:18:17.096514+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -66,6 +66,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 15时18分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -75,17 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 11时47分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
         }
       ]
     },
