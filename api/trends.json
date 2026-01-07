@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T12:36:55.265870+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-07T13:22:22.198348+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 12时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 13时22分]"
         },
         {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时22分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -342,8 +342,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时22分]"
         },
         {
           "title": "河南许昌市委原书记史根治被双开",
@@ -352,7 +352,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
