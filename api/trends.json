@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T13:22:22.198348+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-01-07T14:27:02.849621+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时22分 ~ 06时17分]"
         },
         {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时27分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2249754",
           "source": "财联社热门",
@@ -47,18 +59,6 @@
           "time_info": "[00时22分 ~ 09时16分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 13时22分]"
-        },
-        {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
           "url": "https://wallstreetcn.com/articles/3762638",
           "source": "华尔街见闻",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时27分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -342,8 +342,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 14时27分]"
         },
         {
           "title": "河南许昌市委原书记史根治被双开",
