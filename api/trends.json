@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T11:26:16.887185+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-01-08T12:36:05.357619+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 11时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 12时36分]"
         },
         {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
@@ -156,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 11时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 12时36分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -218,6 +219,59 @@
       ]
     },
     {
+      "keyword_group": "河南",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "河南新乡通报一智力残疾村民被“顶包”成“村支书”：11人被追责问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32335948",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时16分]"
+        },
+        {
+          "title": "不中嘞,河南彩礼纠纷全国第一",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348775&amp;topic_name=%E4%B8%8D%E4%B8%AD%E5%98%9E%2C%E6%B2%B3%E5%8D%97%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 12时36分]"
+        },
+        {
+          "title": "河南多地夜空现“神秘光点”",
+          "url": "https://www.toutiao.com/trending/7592452075787763766/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 07时17分]"
+        },
+        {
+          "title": "河南三兄弟为全村老人发钱600多万",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%89%E5%85%84%E5%BC%9F%E4%B8%BA%E5%85%A8%E6%9D%91%E8%80%81%E4%BA%BA%E5%8F%91%E9%92%B1600%E5%A4%9A%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -251,7 +305,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -295,47 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "河南新乡通报一智力残疾村民被“顶包”成“村支书”：11人被追责问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32335948",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时16分]"
-        },
-        {
-          "title": "不中嘞,河南彩礼纠纷全国第一",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348775&amp;topic_name=%E4%B8%8D%E4%B8%AD%E5%98%9E%2C%E6%B2%B3%E5%8D%97%E5%BD%A9%E7%A4%BC%E7%BA%A0%E7%BA%B7%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 11时26分]"
-        },
-        {
-          "title": "河南多地夜空现“神秘光点”",
-          "url": "https://www.toutiao.com/trending/7592452075787763766/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 07时17分]"
         }
       ]
     }
