@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T18:19:50.690845+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-01-08T19:17:23.897844+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "从“冷门”到“爆款” 美股存储巨头2026开年狂飙",
+          "url": "https://flash.jin10.com/detail/20260108181820906800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
@@ -255,8 +266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时16分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时16分 ~ 19时17分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -318,7 +329,7 @@
     },
     {
       "keyword_group": "河南",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "河南新乡通报一智力残疾村民被“顶包”成“村支书”：11人被追责问责",
@@ -374,6 +385,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时35分 ~ 18时19分]"
+        },
+        {
+          "title": "河南趴地菠菜走红",
+          "url": "https://www.toutiao.com/trending/7592439064201461823/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "国家能源集团河南电力有限公司原一级业务总监朱国庆接受纪律审查和监察调查",
