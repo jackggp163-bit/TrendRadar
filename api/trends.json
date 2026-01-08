@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:36:05.357619+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-01-08T13:21:34.463440+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 12时36分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 13时21分]"
         },
         {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
@@ -157,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 12时36分]"
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 13时21分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -240,11 +240,12 @@
           "ranks": [
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 12时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 13时21分]"
         },
         {
           "title": "河南多地夜空现“神秘光点”",
@@ -266,8 +267,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时21分]"
         }
       ]
     },
