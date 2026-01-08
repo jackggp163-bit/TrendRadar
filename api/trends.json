@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T19:17:23.897844+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-01-08T20:35:17.531376+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
@@ -161,7 +161,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
@@ -266,8 +266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时16分 ~ 20时35分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -391,11 +391,12 @@
           "url": "https://www.toutiao.com/trending/7592439064201461823/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时35分]"
         },
         {
           "title": "国家能源集团河南电力有限公司原一级业务总监朱国庆接受纪律审查和监察调查",
@@ -448,6 +449,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "习近平",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中共中央政治局常务委员会召开会议 中共中央总书记习近平主持会议",
+          "url": "https://www.cls.cn/detail/2252105",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 20时35分]"
         }
       ]
     }
