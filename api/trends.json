@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T02:22:25.736195+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-01-09T03:16:21.475339+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股盘中）",
@@ -26,7 +26,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时16分]"
         }
       ]
     },
@@ -85,8 +85,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时16分]"
         }
       ]
     },
@@ -104,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时16分]"
         }
       ]
     }
