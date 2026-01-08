@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:24:31.420666+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-01-08T17:24:48.789905+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时16分 ~ 15时21分]"
+        },
+        {
+          "title": "美股军工股盘前普涨，雷神技术盘前涨超5%，洛克希德马丁涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3033169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
@@ -147,7 +158,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
@@ -173,6 +184,18 @@
           "time_info": "[09时16分 ~ 11时26分]"
         },
         {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时24分]"
+        },
+        {
           "title": "国际金价为何一路狂飙",
           "url": "https://www.toutiao.com/trending/7591730575850602502/",
           "source": "今日头条",
@@ -182,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
+          "url": "https://flash.jin10.com/detail/20260108171213389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
@@ -204,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
-        },
-        {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         }
       ]
     },
@@ -231,8 +254,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 16时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 17时24分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -317,11 +340,12 @@
             19,
             20,
             23,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 16时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 17时24分]"
         },
         {
           "title": "河南多地夜空现“神秘光点”",
@@ -343,11 +367,12 @@
             5,
             8,
             14,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 17时24分]"
         },
         {
           "title": "国家能源集团河南电力有限公司原一级业务总监朱国庆接受纪律审查和监察调查",
