@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T00:21:26.701033+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-10T01:20:03.583341+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时20分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
           "url": "https://wallstreetcn.com/articles/3762954",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时20分]"
         }
       ]
     },
@@ -57,11 +59,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AF%B7400%E4%BD%99%E5%90%8D%E5%B8%88%E7%94%9F%E5%90%83%E5%A4%A7%E5%B8%AD",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时20分]"
         }
       ]
     }
