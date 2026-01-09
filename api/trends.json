@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:36:32.762349+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-01-09T13:21:56.666164+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时21分]"
+        },
+        {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时15分 ~ 12时36分]"
+          "time_info": "[09时16分 ~ 13时21分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时22分 ~ 09时17分]"
-        },
-        {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 12时36分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -215,22 +215,24 @@
           "url": "https://wallstreetcn.com/articles/3762888",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
           "url": "https://wallstreetcn.com/articles/3762855",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -272,11 +274,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "河南一市政绿化带被人埋入骨灰盒",
