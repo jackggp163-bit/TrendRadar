@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T04:17:34.311486+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-01-11T05:14:36.119848+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "河南走红的趴地菠菜为何好吃",
@@ -28,11 +29,12 @@
             13,
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时14分]"
         }
       ]
     },
@@ -50,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         }
       ]
     },
@@ -68,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时14分]"
         }
       ]
     }
