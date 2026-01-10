@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T20:31:50.394053+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-01-10T21:27:03.099795+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时14分 ~ 20时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时14分 ~ 21时27分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -173,6 +173,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "河南走红的趴地菠菜为何好吃",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E8%B5%B0%E7%BA%A2%E7%9A%84%E8%B6%B4%E5%9C%B0%E8%8F%A0%E8%8F%9C%E4%B8%BA%E4%BD%95%E5%A5%BD%E5%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时15分 ~ 21时27分]"
+        },
+        {
           "title": "河南一小学请400余名师生吃大席",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%AF%B7400%E4%BD%99%E5%90%8D%E5%B8%88%E7%94%9F%E5%90%83%E5%A4%A7%E5%B8%AD",
           "source": "百度热搜",
@@ -189,18 +203,17 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "河南走红的趴地菠菜为何好吃",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E8%B5%B0%E7%BA%A2%E7%9A%84%E8%B6%B4%E5%9C%B0%E8%8F%A0%E8%8F%9C%E4%B8%BA%E4%BD%95%E5%A5%BD%E5%90%83",
-          "source": "bilibili 热搜",
+          "title": "网友一条视频让河南趴地菠菜意外走红，商家喜提数万订单，这是什么品种？此事为农产品营销破圈带来哪些启示？",
+          "url": "https://www.zhihu.com/question/1992896498053116690",
+          "source": "知乎",
           "ranks": [
-            8,
-            9,
-            10,
-            7
+            20,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 21时27分]"
         },
         {
           "title": "河南：国企发行境外债券致新增地方政府隐性债务的，将依法依规追责",
@@ -217,18 +230,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时31分 ~ 17时16分]"
-        },
-        {
-          "title": "网友一条视频让河南趴地菠菜意外走红，商家喜提数万订单，这是什么品种？此事为农产品营销破圈带来哪些启示？",
-          "url": "https://www.zhihu.com/question/1992896498053116690",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 20时31分]"
         },
         {
           "title": "河南“自由的菠菜”爆火",
@@ -256,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时14分 ~ 20时31分]"
+          "appearance_count": 16,
+          "time_info": "[09时14分 ~ 21时27分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
