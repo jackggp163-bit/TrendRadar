@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:18:00.494894+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-01-10T14:23:59.806742+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 14时23分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -105,11 +106,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时23分]"
         },
         {
           "title": "金价波动",
@@ -130,11 +132,12 @@
           "source": "微博",
           "ranks": [
             8,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时23分]"
         },
         {
           "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
@@ -163,8 +166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 14时23分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -245,11 +248,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时23分]"
         }
       ]
     }
