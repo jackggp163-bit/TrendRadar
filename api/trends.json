@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T06:15:55.388722+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-01-11T07:15:33.441104+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "网友一条视频让河南趴地菠菜意外走红，商家喜提数万订单，这是什么品种？此事为农产品营销破圈带来哪些启示？",
@@ -33,8 +34,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     },
@@ -52,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     },
