@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T19:14:19.706252+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-01-11T20:31:45.636244+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
             30,
             27,
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 19时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 20时31分]"
         },
         {
           "title": "河南一13岁学生校内死亡，官方通报详情",
@@ -160,8 +161,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "金价新高不断 还能上车吗",
@@ -178,7 +179,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
