@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T22:15:36.561002+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-01-11T23:15:55.571267+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 22时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 23时15分]"
         },
         {
           "title": "河南一13岁学生校内死亡，官方通报详情",
@@ -56,6 +56,18 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
+          "title": "河南10名干部违规吃喝1人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9710%E5%90%8D%E5%B9%B2%E9%83%A8%E8%BF%9D%E8%A7%84%E5%90%83%E5%96%9D1%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时15分]"
+        },
+        {
           "title": "河南新蔡通报13岁男生宿舍内死亡",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E8%94%A1%E9%80%9A%E6%8A%A513%E5%B2%81%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -65,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
-        },
-        {
-          "title": "河南10名干部违规吃喝1人死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9710%E5%90%8D%E5%B9%B2%E9%83%A8%E8%BF%9D%E8%A7%84%E5%90%83%E5%96%9D1%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "河南新蔡再通报“一男生宿舍内身亡”：心源性疾病导致，排除外伤、中毒",
@@ -159,11 +160,12 @@
           "ranks": [
             29,
             24,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 23时15分]"
         },
         {
           "title": "金价飙升银行紧急提示",
@@ -213,11 +215,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时15分]"
         }
       ]
     },
