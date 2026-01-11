@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T07:15:33.441104+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-01-11T09:23:27.312046+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "河南走红的趴地菠菜为何好吃",
@@ -20,8 +20,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 09时23分]"
         },
         {
           "title": "网友一条视频让河南趴地菠菜意外走红，商家喜提数万订单，这是什么品种？此事为农产品营销破圈带来哪些启示？",
@@ -36,6 +36,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "河南一13岁学生校内死亡，官方通报详情",
+          "url": "https://news.ifeng.com/c/8potvJjA2F8",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "河南新蔡县再通报13岁学生校内死亡",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%96%B0%E8%94%A1%E5%8E%BF%E5%86%8D%E9%80%9A%E6%8A%A513%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
