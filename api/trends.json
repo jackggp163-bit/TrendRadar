@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T18:17:07.594805+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-01-11T19:14:19.706252+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 18时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 19时14分]"
         },
         {
           "title": "河南一13岁学生校内死亡，官方通报详情",
@@ -103,11 +103,12 @@
           "url": "https://www.toutiao.com/trending/7592879964421177371/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "河南新蔡县再通报13岁学生校内死亡",
