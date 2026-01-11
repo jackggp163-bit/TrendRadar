@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T12:43:43.921881+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-01-11T13:22:24.485680+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             6,
             9,
             10,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时22分]"
         },
         {
           "title": "网友一条视频让河南趴地菠菜意外走红，商家喜提数万订单，这是什么品种？此事为农产品营销破圈带来哪些启示？",
@@ -57,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时22分]"
         },
         {
           "title": "河南新蔡再通报“一男生宿舍内身亡”：心源性疾病导致，排除外伤、中毒",
@@ -68,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时22分]"
         },
         {
           "title": "河南新蔡通报 13 岁学生校内身亡，系心源性疾病导致，校方曾被曝在家长赶到前转运遗体，还有哪些疑点待厘清？",
@@ -79,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时22分]"
         },
         {
           "title": "河南新蔡县再通报13岁学生校内死亡",
@@ -92,6 +93,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价新高不断 还能上车吗",
+          "url": "https://www.toutiao.com/trending/7593887858499259940/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     },
