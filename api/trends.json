@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T17:17:46.004286+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-01-11T18:17:07.594805+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "河南走红的趴地菠菜为何好吃",
@@ -22,11 +22,12 @@
             22,
             30,
             27,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 17时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 18时17分]"
         },
         {
           "title": "河南一13岁学生校内死亡，官方通报详情",
@@ -98,6 +99,17 @@
           "time_info": "[16时20分 ~ 17时17分]"
         },
         {
+          "title": "河南五名大学教师被处罚",
+          "url": "https://www.toutiao.com/trending/7592879964421177371/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
           "title": "河南新蔡县再通报13岁学生校内死亡",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%96%B0%E8%94%A1%E5%8E%BF%E5%86%8D%E9%80%9A%E6%8A%A513%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
@@ -112,7 +124,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价将走向何方",
@@ -120,22 +132,35 @@
           "source": "今日头条",
           "ranks": [
             5,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "金价飙升银行紧急提示",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E9%93%B6%E8%A1%8C%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 18时17分]"
+        },
+        {
+          "title": "金价飙升 多家银行公告提醒",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "金价新高不断 还能上车吗",
