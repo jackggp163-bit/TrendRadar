@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T13:22:24.485680+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-01-11T14:25:01.879943+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             9,
             10,
             18,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 13时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 14时25分]"
         },
         {
           "title": "网友一条视频让河南趴地菠菜意外走红，商家喜提数万订单，这是什么品种？此事为农产品营销破圈带来哪些启示？",
@@ -58,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时25分]"
         },
         {
           "title": "河南新蔡再通报“一男生宿舍内身亡”：心源性疾病导致，排除外伤、中毒",
@@ -107,7 +108,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
