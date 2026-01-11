@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T04:18:31.113600+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-01-12T05:15:02.690871+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "河南10名干部违规吃喝1人死亡",
@@ -15,11 +15,23 @@
             8,
             15,
             17,
-            30
+            30,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时15分]"
+        },
+        {
+          "title": "河南一大哥手绘“脏脏车”",
+          "url": "https://www.toutiao.com/trending/7593924445601857542/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
         },
         {
           "title": "河南走红的趴地菠菜为何好吃",
@@ -76,8 +88,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时15分]"
         }
       ]
     }
