@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T13:26:16.026420+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-01-12T14:29:42.345930+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "河南10名干部违规吃喝1人死亡",
@@ -36,6 +36,18 @@
           "time_info": "[07时15分 ~ 13时26分]"
         },
         {
+          "title": "河南省考 进不去",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%20%E8%BF%9B%E4%B8%8D%E5%8E%BB&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 14时29分]"
+        },
+        {
           "title": "河南一大哥手绘“脏脏车”",
           "url": "https://www.toutiao.com/trending/7593924445601857542/",
           "source": "今日头条",
@@ -60,15 +72,26 @@
           "time_info": "[00时19分 ~ 09时20分]"
         },
         {
-          "title": "河南省考 进不去",
-          "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%20%E8%BF%9B%E4%B8%8D%E5%8E%BB&t=31&band_rank=13&Refer=top",
+          "title": "河南省考",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "河南省考报名",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%E6%8A%A5%E5%90%8D&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "河南五名大学教师被处罚",
@@ -95,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 14时29分]"
         },
         {
           "title": "金价",
@@ -171,8 +194,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 14时29分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -183,8 +206,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时29分]"
         }
       ]
     },
