@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T21:40:00.113059+08:00",
-  "total_titles_processed": 1678,
+  "generated_at": "2026-01-12T22:21:46.119631+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时19分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[09时19分 ~ 22时21分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时21分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
@@ -104,6 +104,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3035390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
           "url": "https://flash.jin10.com/detail/20260112170224589800",
           "source": "金十数据",
@@ -124,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-12）",
+          "url": "https://flash.jin10.com/detail/20260112214500163800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
@@ -324,6 +346,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报98.68。",
+          "url": "https://flash.jin10.com/detail/20260112214654921800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美元指数日内跌超0.50%，现报98.68。",
+          "url": "https://wallstreetcn.com/livenews/3035384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美元指数DXY失守99，日内跌幅0.18%。",
+          "url": "https://flash.jin10.com/detail/20260112083545120800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "习近平",
       "match_count": 2,
       "titles": [
@@ -332,11 +393,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32368248",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时21分]"
         },
         {
           "title": "习近平在二十届中央纪委五次全会上发表重要讲话强调，以更高标准更实举措推进全面从严治党，为实现“十五五”时期目标任务提供坚强保障。（新华社）",
@@ -383,23 +445,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY失守99，日内跌幅0.18%。",
-          "url": "https://flash.jin10.com/detail/20260112083545120800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
         }
       ]
     }
