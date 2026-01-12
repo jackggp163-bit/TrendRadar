@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T15:23:48.465092+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-01-12T16:26:13.787878+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "河南10名干部违规吃喝1人死亡",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时15分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 16时26分]"
         },
         {
           "title": "河南省考 进不去",
@@ -42,11 +42,12 @@
           "ranks": [
             13,
             2,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 16时26分]"
         },
         {
           "title": "河南省考报名",
@@ -54,11 +55,25 @@
           "source": "微博",
           "ranks": [
             27,
-            1
+            1,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时26分]"
+        },
+        {
+          "title": "河南省考",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时26分]"
         },
         {
           "title": "河南一大哥手绘“脏脏车”",
@@ -85,16 +100,15 @@
           "time_info": "[00时19分 ~ 09时20分]"
         },
         {
-          "title": "河南省考",
-          "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83&t=31&band_rank=15&Refer=top",
+          "title": "河南省考报名延期2天",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83%E6%8A%A5%E5%90%8D%E5%BB%B6%E6%9C%9F2%E5%A4%A9%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            15,
-            9
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时23分]"
+          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "河南五名大学教师被处罚",
@@ -118,11 +132,12 @@
           "url": "https://www.cls.cn/detail/2254455",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 16时26分]"
         },
         {
           "title": "金价",
@@ -154,7 +169,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -187,6 +202,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 16时26分]"
+        },
+        {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
@@ -199,19 +227,6 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 15时23分]"
-        },
-        {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
@@ -221,8 +236,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 16时26分]"
         },
         {
           "title": "美股期货走低，标普500指数期货跌0.6%，纳指期货跌0.9%。",
@@ -231,7 +246,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         }
