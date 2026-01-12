@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:26:22.010178+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-13T03:18:15.421213+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时18分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时18分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时18分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -59,7 +59,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -99,8 +99,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时18分]"
         }
       ]
     }
