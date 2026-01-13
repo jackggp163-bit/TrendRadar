@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-13T14:26:54.343810+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-01-13T15:22:08.800961+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 22,
       "titles": [
+        {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时13分 ~ 15时22分]"
+        },
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
           "url": "https://wallstreetcn.com/articles/3763053",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 06时15分]"
-        },
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 14时26分]"
         },
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -329,8 +329,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时22分]"
         }
       ]
     }
