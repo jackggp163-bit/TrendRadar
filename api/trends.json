@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T13:22:11.935179+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-01-13T14:26:54.343810+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 14时26分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 14时26分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -53,19 +66,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 09时13分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 13时22分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -329,8 +329,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 14时26分]"
         }
       ]
     }
