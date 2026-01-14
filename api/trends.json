@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T11:44:07.286249+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-01-14T12:43:48.073923+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 12时43分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 12时43分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -211,7 +211,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         }
@@ -279,11 +279,12 @@
           "url": "https://www.toutiao.com/trending/7594929978266452009/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 11时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 12时43分]"
         }
       ]
     },
