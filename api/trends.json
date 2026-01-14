@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:43:48.073923+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-01-14T13:21:09.743817+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 12时43分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 13时21分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -283,8 +283,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 13时21分]"
         }
       ]
     },
