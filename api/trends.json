@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T03:16:17.597156+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-01-15T04:16:51.578666+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时16分]"
+        },
+        {
+          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时16分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -32,18 +44,6 @@
           "time_info": "[00时23分 ~ 01时24分]"
         },
         {
-          "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时16分]"
-        },
-        {
           "title": "美股集体低开 携程跌近17%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
           "source": "百度热搜",
@@ -51,8 +51,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时16分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -124,11 +124,12 @@
           "ranks": [
             16,
             29,
-            25
+            25,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时16分]"
         }
       ]
     }
