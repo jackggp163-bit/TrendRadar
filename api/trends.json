@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-14T15:22:33.891064+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-01-14T16:24:11.670455+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 16时24分]"
+        },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时16分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -194,6 +194,18 @@
           "time_info": "[00时25分 ~ 06时17分]"
         },
         {
+          "title": "金价暴涨下谁在赚钱",
+          "url": "https://www.toutiao.com/trending/7595070385364667930/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时24分]"
+        },
+        {
           "title": "金价为何持续走强",
           "url": "https://www.toutiao.com/trending/7594774199927836179/",
           "source": "今日头条",
@@ -214,17 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
-        },
-        {
-          "title": "金价暴涨下谁在赚钱",
-          "url": "https://www.toutiao.com/trending/7595070385364667930/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
