@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:21:32.799494+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-16T04:20:34.371635+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -16,30 +16,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时20分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时20分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时20分]"
         },
         {
           "title": "房利美和房地美股价下跌9%，跌至盘中低点。",
@@ -99,8 +101,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时20分]"
         },
         {
           "title": "金价",
@@ -110,8 +112,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时30分 ~ 04时20分]"
         }
       ]
     },
@@ -127,11 +129,12 @@
             19,
             25,
             22,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时20分]"
         },
         {
           "title": "河南周口多次异响 应急部门回应",
@@ -142,8 +145,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时30分 ~ 04时20分]"
         }
       ]
     },
