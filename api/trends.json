@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T17:23:47.531078+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2026-01-15T18:19:11.442880+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 18时19分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -156,7 +156,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -167,7 +167,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -240,7 +240,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -325,11 +325,12 @@
           "url": "https://www.cls.cn/detail/2258704",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "《求是》杂志发表习近平总书记重要文章《在中央城市工作会议上的讲话》",
@@ -363,8 +364,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 15时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 18时19分]"
         },
         {
           "title": "新疆大盘鸡怎么成了河南“省菜”",
