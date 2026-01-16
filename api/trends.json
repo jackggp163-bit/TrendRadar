@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T15:21:38.686240+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-01-16T16:23:26.163697+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 16时23分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -79,18 +80,6 @@
           "time_info": "[03时21分 ~ 09时17分]"
         },
         {
-          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260116050523142800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
           "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
           "url": "https://www.cls.cn/detail/2259861",
           "source": "财联社热门",
@@ -101,8 +90,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 16时23分]"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050523142800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股收盘）",
@@ -221,7 +222,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -266,9 +267,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "金价飙升后银行保管箱出现「一箱难求」，部分银行租箱排队已排到一年后，投资者该如何安全存放黄金资产？",
+          "url": "https://www.zhihu.com/question/1995155168442996449",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
