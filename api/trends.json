@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:20:40.782318+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-01-17T17:16:11.700003+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时16分 ~ 16时20分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 17时16分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -44,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 14时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 17时16分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -265,6 +265,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
+          "url": "https://flash.jin10.com/detail/20260117140618013800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 17时16分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -275,18 +288,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 12时29分]"
-        },
-        {
-          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
-          "url": "https://flash.jin10.com/detail/20260117140618013800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时20分]"
         }
       ]
     },
@@ -304,8 +305,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 16时20分]"
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 17时16分]"
         },
         {
           "title": "累计降温超20℃ 河南将迎寒冷暴击",
