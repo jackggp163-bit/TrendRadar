@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T18:16:15.490182+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-01-17T19:14:07.339409+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时16分 ~ 18时16分]"
+          "appearance_count": 19,
+          "time_info": "[07时16分 ~ 19时14分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -303,11 +303,12 @@
           "ranks": [
             6,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时23分 ~ 18时16分]"
+          "appearance_count": 11,
+          "time_info": "[14时23分 ~ 19时14分]"
         },
         {
           "title": "累计降温超20℃ 河南将迎寒冷暴击",
