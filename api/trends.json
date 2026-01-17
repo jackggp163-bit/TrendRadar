@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T22:15:42.155299+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-01-17T23:16:08.668351+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时16分 ~ 22时15分]"
+          "appearance_count": 24,
+          "time_info": "[07时16分 ~ 23时16分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -223,6 +223,64 @@
       ]
     },
     {
+      "keyword_group": "河南",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "河南四九将迎寒冷“暴击”",
+          "url": "https://www.douyin.com/hot/2370329",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9,
+            7,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[14时23分 ~ 22时15分]"
+        },
+        {
+          "title": "河南趴地菠菜爆火农户4天卖掉170亩",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%B6%B4%E5%9C%B0%E8%8F%A0%E8%8F%9C%E7%88%86%E7%81%AB%E5%86%9C%E6%88%B74%E5%A4%A9%E5%8D%96%E6%8E%89170%E4%BA%A9",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时16分]"
+        },
+        {
+          "title": "累计降温超20℃ 河南将迎寒冷暴击",
+          "url": "https://www.baidu.com/s?wd=%E7%B4%AF%E8%AE%A1%E9%99%8D%E6%B8%A9%E8%B6%8520%E2%84%83+%E6%B2%B3%E5%8D%97%E5%B0%86%E8%BF%8E%E5%AF%92%E5%86%B7%E6%9A%B4%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 12时29分]"
+        },
+        {
+          "title": "国家防减救灾办向河南派出工作组",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%98%B2%E5%87%8F%E6%95%91%E7%81%BE%E5%8A%9E%E5%90%91%E6%B2%B3%E5%8D%97%E6%B4%BE%E5%87%BA%E5%B7%A5%E4%BD%9C%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -259,52 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "河南四九将迎寒冷“暴击”",
-          "url": "https://www.douyin.com/hot/2370329",
-          "source": "抖音",
-          "ranks": [
-            6,
-            9,
-            7,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时23分 ~ 22时15分]"
-        },
-        {
-          "title": "累计降温超20℃ 河南将迎寒冷暴击",
-          "url": "https://www.baidu.com/s?wd=%E7%B4%AF%E8%AE%A1%E9%99%8D%E6%B8%A9%E8%B6%8520%E2%84%83+%E6%B2%B3%E5%8D%97%E5%B0%86%E8%BF%8E%E5%AF%92%E5%86%B7%E6%9A%B4%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 12时29分]"
-        },
-        {
-          "title": "河南趴地菠菜爆火农户4天卖掉170亩",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%B6%B4%E5%9C%B0%E8%8F%A0%E8%8F%9C%E7%88%86%E7%81%AB%E5%86%9C%E6%88%B74%E5%A4%A9%E5%8D%96%E6%8E%89170%E4%BA%A9",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时15分]"
         }
       ]
     },
