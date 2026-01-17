@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T09:14:06.661254+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-01-17T11:20:02.674851+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 11时20分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -54,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 09时14分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 11时20分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -246,6 +247,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "河南",
       "match_count": 1,
       "titles": [
@@ -254,11 +272,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%B4%AF%E8%AE%A1%E9%99%8D%E6%B8%A9%E8%B6%8520%E2%84%83+%E6%B2%B3%E5%8D%97%E5%B0%86%E8%BF%8E%E5%AF%92%E5%86%B7%E6%9A%B4%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 11时20分]"
         }
       ]
     }
