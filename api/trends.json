@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T04:18:01.845063+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-01-18T05:14:31.876627+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             16,
             19,
             18,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "国家防减救灾办向河南派出工作组",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%98%B2%E5%87%8F%E6%95%91%E7%81%BE%E5%8A%9E%E5%90%91%E6%B2%B3%E5%8D%97%E6%B4%BE%E5%87%BA%E5%B7%A5%E4%BD%9C%E7%BB%84",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -46,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -63,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     }
