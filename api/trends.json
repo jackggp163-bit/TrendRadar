@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T02:22:28.555881+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-01-18T03:13:19.823985+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时13分]"
         },
         {
           "title": "国家防减救灾办向河南派出工作组",
@@ -27,8 +28,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时13分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时13分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时13分]"
         }
       ]
     }
