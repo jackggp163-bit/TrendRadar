@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:20:02.674851+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-01-17T12:29:26.479947+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 12时29分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时25分 ~ 07时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 11时20分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -255,11 +256,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时29分]"
         }
       ]
     },
@@ -273,11 +275,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 11时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 12时29分]"
         }
       ]
     }
