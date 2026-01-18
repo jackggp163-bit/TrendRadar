@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T20:31:39.967754+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-01-18T21:26:43.245220+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
             9,
             8,
             5,
-            16
+            16,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 21时26分]"
         },
         {
           "title": "河南省委书记主持会议提到王妙丽",
@@ -84,22 +85,36 @@
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时26分]"
         },
         {
           "title": "2025年河南可再生能源发电装机破9000万千瓦",
           "url": "https://wallstreetcn.com/livenews/3039248",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时26分]"
+        },
+        {
+          "title": "河南迎大范围暴雪",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%BF%8E%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%9A%B4%E9%9B%AA",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时26分]"
         },
         {
           "title": "河南省考",
@@ -111,17 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        },
-        {
-          "title": "河南迎大范围暴雪",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%BF%8E%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%9A%B4%E9%9B%AA",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "U23国足队里有4个河南小伙",
