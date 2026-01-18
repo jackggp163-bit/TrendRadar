@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T04:18:11.567609+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-19T05:14:54.702938+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%BF%8E%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%9A%B4%E9%9B%AA",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 05时14分]"
         },
         {
           "title": "2025年河南可再生能源发电装机破9000万千瓦",
@@ -40,11 +41,12 @@
           "url": "https://flash.jin10.com/detail/20260118225633271800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时14分]"
         }
       ]
     }
