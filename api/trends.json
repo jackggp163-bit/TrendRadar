@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T16:21:36.168862+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-01-18T17:17:31.181794+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,19 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "河南迎大范围暴雪",
+          "url": "https://www.toutiao.com/trending/7596504943067037759/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 17时17分]"
+        },
+        {
           "title": "河南省委书记主持会议提到王妙丽",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%B8%BB%E6%8C%81%E4%BC%9A%E8%AE%AE%E6%8F%90%E5%88%B0%E7%8E%8B%E5%A6%99%E4%B8%BD",
           "source": "百度热搜",
@@ -63,18 +76,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 15时17分]"
-        },
-        {
-          "title": "河南迎大范围暴雪",
-          "url": "https://www.toutiao.com/trending/7596504943067037759/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时21分]"
         },
         {
           "title": "河南省考",
