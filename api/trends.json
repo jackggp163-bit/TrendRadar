@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-19T21:42:28.043296+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2026-01-19T22:23:05.471351+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
       "match_count": 15,
       "titles": [
+        {
+          "title": "河南进入雨雪最强时段",
+          "url": "https://www.douyin.com/hot/2372603",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时25分 ~ 22时23分]"
+        },
         {
           "title": "暴雪+冻雨！直击河南大范围雨雪天",
           "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%2B%E5%86%BB%E9%9B%A8%EF%BC%81%E7%9B%B4%E5%87%BB%E6%B2%B3%E5%8D%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E5%A4%A9",
@@ -17,20 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时21分 ~ 21时42分]"
-        },
-        {
-          "title": "河南进入雨雪最强时段",
-          "url": "https://www.douyin.com/hot/2372603",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时25分 ~ 21时42分]"
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 22时23分]"
         },
         {
           "title": "暴雪+冻雨！直击河南风雪一线",
@@ -53,22 +53,12 @@
           "ranks": [
             9,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时42分]"
-        },
-        {
-          "title": "河南趴地菠菜走红 高速绿通送全国",
-          "url": "https://www.toutiao.com/trending/7596877392296034331/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 22时23分]"
         },
         {
           "title": "暴雪预警升级！河南一地：必要时停业",
@@ -76,11 +66,24 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时42分]"
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 22时23分]"
+        },
+        {
+          "title": "河南趴地菠菜走红 高速绿通送全国",
+          "url": "https://www.toutiao.com/trending/7596877392296034331/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时23分]"
         },
         {
           "title": "河南学生教室内用板凳攻击同学后脑",
@@ -93,6 +96,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
+          "title": "河南矿山老板：雪天可带薪休假",
+          "url": "https://www.toutiao.com/trending/7596541733954011179/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时23分]"
         },
         {
           "title": "河南迎大范围暴雪",
@@ -162,17 +177,6 @@
           "time_info": "15时25分"
         },
         {
-          "title": "河南矿山老板：雪天可带薪休假",
-          "url": "https://www.toutiao.com/trending/7596541733954011179/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "2025年河南可再生能源发电装机破9000万千瓦",
           "url": "https://wallstreetcn.com/livenews/3039248",
           "source": "华尔街见闻-快讯",
@@ -213,6 +217,17 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时23分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -222,17 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "美股今日休市 金银油交易提前结束",
