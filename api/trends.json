@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T03:17:02.422992+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-01-20T04:19:07.969785+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "河南趴地菠菜走红 高速绿通送全国",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "河南进入雨雪最强时段",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "河南矿山老板：雪天可带薪休假",
@@ -63,6 +63,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "财晓得丨金价涨成这样，到什么位置了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 04时19分]"
+        },
+        {
           "title": "决定黄金价格的三大属性",
           "url": "https://www.toutiao.com/trending/7597064696004349450/",
           "source": "今日头条",
@@ -75,19 +89,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 03时17分]"
-        },
-        {
-          "title": "财晓得丨金价涨成这样，到什么位置了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 03时17分]"
         }
       ]
     },
@@ -103,8 +104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     },
