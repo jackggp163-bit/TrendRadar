@@ -1,162 +1,22 @@
 {
-  "generated_at": "2026-01-19T23:21:49.675942+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-01-20T00:23:14.170981+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
-      "match_count": 17,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "河南进入雨雪最强时段",
-          "url": "https://www.douyin.com/hot/2372603",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时25分 ~ 23时21分]"
-        },
         {
           "title": "河南一乡村蛋糕店因低价走红，4 寸蛋糕仅卖 10 元，这种模式能复刻吗？",
           "url": "https://www.zhihu.com/question/1995951330670372374",
           "source": "知乎",
           "ranks": [
-            9,
-            6,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 23时21分]"
-        },
-        {
-          "title": "暴雪+冻雨！直击河南大范围雨雪天",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%2B%E5%86%BB%E9%9B%A8%EF%BC%81%E7%9B%B4%E5%87%BB%E6%B2%B3%E5%8D%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时21分 ~ 22时23分]"
-        },
-        {
-          "title": "暴雪+冻雨！直击河南风雪一线",
-          "url": "https://www.toutiao.com/trending/7596849237816512010/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 16时26分]"
-        },
-        {
-          "title": "暴雪预警升级！河南一地：必要时停业",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E9%A2%84%E8%AD%A6%E5%8D%87%E7%BA%A7%EF%BC%81%E6%B2%B3%E5%8D%97%E4%B8%80%E5%9C%B0%EF%BC%9A%E5%BF%85%E8%A6%81%E6%97%B6%E5%81%9C%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            21,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 23时21分]"
-        },
-        {
-          "title": "河南趴地菠菜走红 高速绿通送全国",
-          "url": "https://www.toutiao.com/trending/7596877392296034331/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 23时21分]"
-        },
-        {
-          "title": "河南学生教室内用板凳攻击同学后脑",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%AD%A6%E7%94%9F%E6%95%99%E5%AE%A4%E5%86%85%E7%94%A8%E6%9D%BF%E5%87%B3%E6%94%BB%E5%87%BB%E5%90%8C%E5%AD%A6%E5%90%8E%E8%84%91",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时19分]"
-        },
-        {
-          "title": "河南矿山老板：雪天可带薪休假",
-          "url": "https://www.toutiao.com/trending/7596541733954011179/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 22时23分]"
-        },
-        {
-          "title": "河南迎大范围暴雪",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E8%BF%8E%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%9A%B4%E9%9B%AA",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 05时14分]"
-        },
-        {
-          "title": "河南高速交警警车带路雪中护航",
-          "url": "https://www.toutiao.com/trending/7596455924479377462/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
-        },
-        {
-          "title": "孙守刚不再担任河南省副省长",
-          "url": "https://www.toutiao.com/trending/7596943774228414514/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "河南安徽多地中小学临时停课",
-          "url": "https://www.toutiao.com/trending/7596258391925473330/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
           "title": "河南趴地菠菜走红 高速绿通送全国",
@@ -165,170 +25,65 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "河南暴雪233条预警生效",
-          "url": "https://www.toutiao.com/trending/7596642640839163910/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时38分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "河南人大常委会通过一批任免名单",
-          "url": "https://www.toutiao.com/trending/7596924759994073151/",
-          "source": "今日头条",
+          "title": "河南进入雨雪最强时段",
+          "url": "https://www.douyin.com/hot/2372603",
+          "source": "抖音",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "河南多部门联合除雪融冰护航出行",
-          "url": "https://www.toutiao.com/trending/7596867726262599707/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "2025年河南可再生能源发电装机破9000万千瓦",
-          "url": "https://wallstreetcn.com/livenews/3039248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 20时38分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 23时21分]"
-        },
-        {
-          "title": "美股明日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260118225633271800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时14分]"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "美股今日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260119135736792800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3039552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时25分]"
+          "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "河南矿山老板：雪天可带薪休假",
+          "url": "https://www.toutiao.com/trending/7596541733954011179/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
           "ranks": [
-            21,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时46分 ~ 13时29分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            24
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时21分 ~ 11时46分]"
-        },
+          "time_info": "[00时22分 ~ 00时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "金十图示：2026年01月19日（周一）上海金早盘价为1043.62元/克，较国际金价(1043.9元/克)，低0.28元/克",
-          "url": "https://flash.jin10.com/detail/20260119110338125800",
-          "source": "金十数据",
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
