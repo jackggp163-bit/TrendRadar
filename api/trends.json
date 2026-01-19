@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T09:21:29.588083+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-01-19T11:46:36.975398+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7596849237816512010/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时46分]"
         },
         {
           "title": "河南迎大范围暴雪",
@@ -35,11 +36,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%2B%E5%86%BB%E9%9B%A8%EF%BC%81%E7%9B%B4%E5%87%BB%E6%B2%B3%E5%8D%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E5%A4%A9",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时46分]"
         },
         {
           "title": "2025年河南可再生能源发电装机破9000万千瓦",
@@ -56,18 +58,41 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 11时46分]"
+        },
+        {
+          "title": "金十图示：2026年01月19日（周一）上海金早盘价为1043.62元/克，较国际金价(1043.9元/克)，低0.28元/克",
+          "url": "https://flash.jin10.com/detail/20260119110338125800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时21分"
+          "time_info": "11时46分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         }
       ]
     },
