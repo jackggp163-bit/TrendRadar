@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T12:48:01.957878+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-01-19T13:29:04.044296+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 12时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 13时29分]"
         },
         {
           "title": "河南迎大范围暴雪",
@@ -66,11 +66,12 @@
           "source": "微博",
           "ranks": [
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时48分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 13时29分]"
         },
         {
           "title": "金价",
