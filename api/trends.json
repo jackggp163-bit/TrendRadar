@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:23:22.190195+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-01-19T19:19:13.593412+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "河南",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "暴雪+冻雨！直击河南大范围雨雪天",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 18时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时21分 ~ 19时19分]"
         },
         {
           "title": "暴雪+冻雨！直击河南风雪一线",
@@ -39,11 +39,24 @@
           "url": "https://www.douyin.com/hot/2372603",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时19分]"
+        },
+        {
+          "title": "河南学生教室内用板凳攻击同学后脑",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%AD%A6%E7%94%9F%E6%95%99%E5%AE%A4%E5%86%85%E7%94%A8%E6%9D%BF%E5%87%B3%E6%94%BB%E5%87%BB%E5%90%8C%E5%AD%A6%E5%90%8E%E8%84%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时19分]"
         },
         {
           "title": "河南迎大范围暴雪",
@@ -69,6 +82,28 @@
           "time_info": "[17时29分 ~ 17时30分]"
         },
         {
+          "title": "河南一乡村蛋糕店因低价走红，4 寸蛋糕仅卖 10 元，这种模式能复刻吗？",
+          "url": "https://www.zhihu.com/question/1995951330670372374",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "暴雪预警升级！河南一地：必要时停业",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%AA%E9%A2%84%E8%AD%A6%E5%8D%87%E7%BA%A7%EF%BC%81%E6%B2%B3%E5%8D%97%E4%B8%80%E5%9C%B0%EF%BC%9A%E5%BF%85%E8%A6%81%E6%97%B6%E5%81%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "孙守刚不再担任河南省副省长",
           "url": "https://www.toutiao.com/trending/7596943774228414514/",
           "source": "今日头条",
@@ -86,7 +121,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -111,17 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "河南学生教室内用板凳攻击同学后脑",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%AD%A6%E7%94%9F%E6%95%99%E5%AE%A4%E5%86%85%E7%94%A8%E6%9D%BF%E5%87%B3%E6%94%BB%E5%87%BB%E5%90%8C%E5%AD%A6%E5%90%8E%E8%84%91",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         }
       ]
     },
@@ -129,6 +153,17 @@
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
+        {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 19时19分]"
+        },
         {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
@@ -140,17 +175,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时14分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时23分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
