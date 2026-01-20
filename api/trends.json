@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T02:29:13.690147+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-21T04:09:47.634416+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时09分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时09分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -38,8 +38,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时09分]"
+        },
+        {
+          "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
+          "url": "https://flash.jin10.com/detail/20260121032659165800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
@@ -48,7 +59,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -59,7 +70,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         },
@@ -99,19 +110,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时09分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
           "url": "https://wallstreetcn.com/articles/3763688",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时09分]"
         },
         {
           "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
@@ -139,8 +151,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时09分]"
         },
         {
           "title": "金价",
@@ -151,8 +163,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时09分]"
         }
       ]
     },
