@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T22:27:16.998916+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-01-20T23:26:49.010425+08:00",
+  "total_titles_processed": 2123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时16分 ~ 22时27分]"
+          "appearance_count": 20,
+          "time_info": "[07时16分 ~ 23时26分]"
         },
         {
           "title": "美股纳指期货跌2%，Applovin盘前大跌10%，日债引领全球国债抛售潮，黄金站上4700、白银95美元！",
@@ -56,6 +56,30 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时26分]"
+        },
+        {
           "title": "Applovin美股盘前跌超10%，现报511.53美元。Capitalwatch指控APPLovin“广告即洗钱”，协助“东南亚杀猪盘” 。",
           "url": "https://wallstreetcn.com/livenews/3040354",
           "source": "华尔街见闻-快讯",
@@ -68,16 +92,15 @@
           "time_info": "[17时29分 ~ 18时22分]"
         },
         {
-          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2264127",
-          "source": "财联社热门",
+          "title": "美股存储芯片股逆势大涨，美光、希捷、闪迪等股集体刷新记录新高",
+          "url": "https://wallstreetcn.com/livenews/3040557",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 22时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "ServiceNow美股盘前涨近5%，报道称OpenAI与ServiceNow在商业软件领域达成AI Agent合作协议。",
@@ -102,6 +125,17 @@
           "time_info": "20时38分"
         },
         {
+          "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260120224725137800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "欧美股市跌幅扩大，纳斯达克100指数期货跌2%，德国DAX指数跌超1%",
           "url": "https://wallstreetcn.com/livenews/3040321",
           "source": "华尔街见闻-快讯",
@@ -113,13 +147,119 @@
           "time_info": "17时29分"
         },
         {
+          "title": "行业ETF美股盘初几乎全线溃败，生物科技指数ETF、可选消费ETF、全球科技股指数ETF至多跌2.29%，网络股指数ETF、科技行业ETF、半导体ETF至多跌1.82%，能源业ETF涨0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3040543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-20）",
           "url": "https://flash.jin10.com/detail/20260120214309185800",
           "source": "金十数据",
           "ranks": [
             24
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "丹麦养老基金决定抛售美债 称美国不再是一个良好的信用对象",
+          "url": "https://flash.jin10.com/detail/20260120215845735800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "贝森特称日本国债抛售潮外溢至美债市场，已与日方对口官员沟通",
+          "url": "https://wallstreetcn.com/livenews/3040562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
+          "url": "https://wallstreetcn.com/articles/3763671",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 23时26分]"
+        },
+        {
+          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
+          "url": "https://wallstreetcn.com/articles/3763688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时26分]"
+        },
+        {
+          "title": "美财长：欧洲抛售美债是“虚假叙事”",
+          "url": "https://www.toutiao.com/trending/7597354792205159982/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
+        },
+        {
+          "title": "古根海姆首席投资官Anne Walsh：不认可丹麦基金抛售美债的做法。 市场笼罩着针对美国的情绪。 地缘政治逆风加剧紧张情绪。 美国信用的基本面“相当不错”。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3040527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟卖美债 称特朗普政策引发信用风险",
+          "url": "https://wallstreetcn.com/livenews/3040510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "受丹麦基金清仓美债影响，欧元兑美元EUR/USD升至盘中高点1.1768。",
+          "url": "https://flash.jin10.com/detail/20260120213905710800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -189,11 +329,12 @@
           "ranks": [
             8,
             13,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 23时26分]"
         },
         {
           "title": "河南网友排队给气象台“道歉”",
@@ -232,92 +373,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "丹麦养老基金决定抛售美债 称美国不再是一个良好的信用对象",
-          "url": "https://flash.jin10.com/detail/20260120215845735800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
-          "url": "https://wallstreetcn.com/articles/3763671",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时27分]"
-        },
-        {
-          "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
-          "url": "https://wallstreetcn.com/articles/3763688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
-        },
-        {
-          "title": "美财长：欧洲抛售美债是“虚假叙事”",
-          "url": "https://www.toutiao.com/trending/7597354792205159982/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
-        },
-        {
-          "title": "古根海姆首席投资官Anne Walsh：不认可丹麦基金抛售美债的做法。 市场笼罩着针对美国的情绪。 地缘政治逆风加剧紧张情绪。 美国信用的基本面“相当不错”。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3040527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "丹麦养老基金AkademikerPension拟卖美债 称特朗普政策引发信用风险",
-          "url": "https://wallstreetcn.com/livenews/3040510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "受丹麦基金清仓美债影响，欧元兑美元EUR/USD升至盘中高点1.1768。",
-          "url": "https://flash.jin10.com/detail/20260120213905710800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -359,8 +416,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时26分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
@@ -388,6 +445,17 @@
           "time_info": "[17时28分 ~ 20时38分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
           "url": "https://flash.jin10.com/detail/20260120150210258800",
           "source": "金十数据",
@@ -402,7 +470,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数19日下跌",
@@ -454,13 +522,24 @@
           "time_info": "17时29分"
         },
         {
+          "title": "恒天然：1月20日全球乳品贸易（GDT）拍卖价格指数上涨1.5%，奶粉各合同期FAS拍卖均价3,615美元/吨。 批发奶粉价格指数上升1.0%，报3,449美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3040547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "丹麦基金宣布抛售后，美国国债跌势延续。 欧元兑美元升至盘中高点1.1768。 美元指数短线走低约20点，现报98.37。 瑞典克朗和丹麦克朗兑美元上涨1%。",
           "url": "https://wallstreetcn.com/livenews/3040513",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
