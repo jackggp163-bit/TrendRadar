@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T05:24:47.805724+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-01-22T06:20:53.764412+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时20分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -28,52 +28,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时20分]"
         },
         {
-          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260122050522975800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260122050514062800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "美股收盘：特朗普助力 三大股指涨超1%",
-          "url": "https://flash.jin10.com/detail/20260122050202493800",
-          "source": "金十数据",
+          "title": "（美股）费城金银指数收跌1.22%，报410.57点。 （全球时段）纽约证交所ARCA金矿开采商指数跌0.55%，报2896.08点。 （美股）原材料指数收涨1.52%，（美股）金属与矿业指数收涨2.33%。",
+          "url": "https://wallstreetcn.com/livenews/3041537",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3041520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时20分"
         },
         {
           "title": "美股涨幅大幅收窄，数字货币大跌",
@@ -87,6 +54,54 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 03时23分]"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260122050522975800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时20分]"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260122050514062800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时20分]"
+        },
+        {
+          "title": "美股收盘：特朗普助力 三大股指涨超1%",
+          "url": "https://flash.jin10.com/detail/20260122050202493800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时20分]"
+        },
+        {
+          "title": "美股地区银行指数涨4.7%，创8月份以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3041520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时20分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -144,6 +159,28 @@
           "time_info": "04时25分"
         },
         {
+          "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3041529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3041528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "美股三大股指冲高，涨幅全线扩大至1%。特朗普宣布有关消息，格陵兰岛局势担忧大幅缓解。",
           "url": "https://flash.jin10.com/detail/20260122033201570800",
           "source": "金十数据",
@@ -195,6 +232,18 @@
           "time_info": "[01时53分 ~ 02时36分]"
         },
         {
+          "title": "中长期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3041511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时20分]"
+        },
+        {
           "title": "贝森特称日债抛售波及美债、已与日本对口官员沟通，日财相呼吁市场冷静",
           "url": "https://wallstreetcn.com/articles/3763746",
           "source": "华尔街见闻",
@@ -204,17 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "中长期美债收益率跌约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3041511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         },
         {
           "title": "美债2年期与10年期收益率曲线趋平，现报66个基点。",
@@ -257,6 +295,18 @@
           "time_info": "[04时25分 ~ 05时24分]"
         },
         {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260122045020837800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时20分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报3629.95点，北京时间23:19涨至3791.91点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数涨0.08%，报3415.49点，23:56曾涨至3536.13点。 MarketVector数字资产100指数跌2.34%，报17964.88点，23:19也曾涨至18520.85点。 目前，Solana跌0.84%，狗狗币跌1.70%，XRP跌0.88%。 比特币跌1.72%，暂报88000美元；以太坊跌3.15%，暂报2901.24美元。",
           "url": "https://wallstreetcn.com/livenews/3041450",
           "source": "华尔街见闻-快讯",
@@ -267,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时23分]"
-        },
-        {
-          "title": "美元指数21日上涨",
-          "url": "https://flash.jin10.com/detail/20260122045020837800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         },
         {
           "title": "美元指数DXY拉升十余点，现报98.80；欧元兑美元EUR/USD一度下挫近20点，现报1.1685。",
@@ -304,11 +343,12 @@
             14,
             12,
             11,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时20分]"
         },
         {
           "title": "代孕单亲妈妈分娩时大出血子宫被切除，河南平顶山涉事医院被查",
@@ -319,8 +359,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时20分]"
         },
         {
           "title": "河南周口通报一中学食堂承包商举报校领导：基本属实，14人被问责",
@@ -332,14 +372,14 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时20分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -351,8 +391,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 06时20分]"
+        },
+        {
+          "title": "金价在亚太午盘创历史新高，特朗普所谓格陵兰“协议框架”带来一波V型走势",
+          "url": "https://wallstreetcn.com/livenews/3041532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     }
