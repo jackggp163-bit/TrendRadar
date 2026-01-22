@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T18:22:48.230469+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2026-01-22T19:20:32.179084+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 19时20分]"
         },
         {
           "title": "美股涨幅大幅收窄，数字货币大跌",
@@ -281,7 +281,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -372,8 +372,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时20分]"
         },
         {
           "title": "男子趁金价高涨出手500克金条",
@@ -490,8 +490,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 19时20分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -588,11 +588,12 @@
             11,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 18时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时36分 ~ 19时20分]"
         },
         {
           "title": "代孕单亲妈妈分娩时大出血子宫被切除，河南平顶山涉事医院被查",
