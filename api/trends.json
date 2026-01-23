@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T14:27:35.272940+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-01-23T15:22:16.024647+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时17分 ~ 15时22分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -215,7 +216,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -240,6 +241,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 06时18分]"
+        },
+        {
+          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
+          "url": "https://wallstreetcn.com/articles/3763920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点",
@@ -359,6 +371,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 15时22分]"
+        },
+        {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
           "url": "https://flash.jin10.com/detail/20260123120453959800",
           "source": "金十数据",
@@ -369,19 +394,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 13时24分]"
-        },
-        {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 14时27分]"
         }
       ]
     },
