@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T22:16:08.061239+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-01-24T23:16:11.651915+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时17分 ~ 22时16分]"
+          "appearance_count": 21,
+          "time_info": "[07时17分 ~ 23时16分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时17分 ~ 22时16分]"
+          "appearance_count": 21,
+          "time_info": "[07时17分 ~ 23时16分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时22分 ~ 07时17分]"
+        },
+        {
+          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
+          "url": "https://flash.jin10.com/detail/20260124222616668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
@@ -234,8 +245,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[19时14分 ~ 23时16分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -246,8 +257,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[21时28分 ~ 23时16分]"
         },
         {
           "title": "金价暴涨胖东来金店挤爆了",
