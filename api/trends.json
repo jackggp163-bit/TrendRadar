@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:15:10.954216+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-01-24T11:24:17.010043+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 09时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 11时24分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 09时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 11时24分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
@@ -274,8 +274,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 11时24分]"
         }
       ]
     }
