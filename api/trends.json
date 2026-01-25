@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:16:16.132379+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-25T09:24:27.162739+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20260124222616668800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 09时24分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时24分]"
         }
       ]
     },
@@ -70,6 +71,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "海霞哽咽回应任河南大学学术副校长",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E4%BB%BB%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%9C%AF%E5%89%AF%E6%A0%A1%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "海霞哽咽回应任河南大学学术副校长",
+          "url": "https://www.toutiao.com/trending/7598439573417623562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
