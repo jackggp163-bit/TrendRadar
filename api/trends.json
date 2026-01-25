@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T11:50:27.045206+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-01-25T12:49:00.647782+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 11时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 12时49分]"
         }
       ]
     },
@@ -85,11 +86,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E9%9C%9E%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E4%BB%BB%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%9C%AF%E5%89%AF%E6%A0%A1%E9%95%BF",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 12时49分]"
         },
         {
           "title": "海霞哽咽回应任河南大学学术副校长",
@@ -101,6 +103,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白银价格跟随黄金狂飙",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%B7%9F%E9%9A%8F%E9%BB%84%E9%87%91%E7%8B%82%E9%A3%99%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         }
       ]
     }
