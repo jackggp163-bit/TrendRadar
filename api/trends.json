@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:25:03.514903+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-01-25T15:19:16.560199+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,23 @@
           "source": "微博",
           "ranks": [
             10,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时19分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时25分 ~ 14时25分]"
+          "time_info": "[14时24分 ~ 15时19分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时23分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
         }
       ]
     },
@@ -96,8 +97,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 15时19分]"
         }
       ]
     },
