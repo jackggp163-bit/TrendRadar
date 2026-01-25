@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T09:24:27.162739+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-01-25T11:50:27.045206+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 09时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 11时50分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -36,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 11时50分]"
         }
       ]
     },
@@ -85,9 +87,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时50分]"
         },
         {
           "title": "海霞哽咽回应任河南大学学术副校长",
@@ -96,7 +98,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
