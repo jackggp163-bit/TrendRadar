@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T14:31:53.129672+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-26T15:24:35.921267+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 15时24分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -29,8 +30,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 15时24分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）上海金午盘价为1142.06元/克，较国际金价(1138.03元/克)，高4.03元/克",
+          "url": "https://flash.jin10.com/detail/20260126151422471800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -39,11 +51,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 15时24分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -82,7 +95,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -107,6 +120,45 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时16分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "河南",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "蜜雪冰城再被写入河南省政府工作报告",
+          "url": "https://www.toutiao.com/trending/7598529270490808370/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "河南明确2026年GDP目标",
+          "url": "https://www.toutiao.com/trending/7599156874575020058/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
@@ -142,23 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "河南",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "河南明确2026年GDP目标",
-          "url": "https://www.toutiao.com/trending/7599156874575020058/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         }
       ]
     }
