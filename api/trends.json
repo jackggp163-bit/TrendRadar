@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T15:22:41.105585+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-01-28T16:25:35.095906+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -138,7 +138,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -344,8 +344,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 16时25分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -358,8 +358,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时31分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[02时31分 ~ 16时25分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -369,11 +369,12 @@
             8,
             7,
             23,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时25分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -386,8 +387,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 16时25分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -398,8 +399,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时25分]"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
