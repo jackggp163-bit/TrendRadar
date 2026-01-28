@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T03:24:13.082279+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-29T04:24:09.338258+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
-        },
-        {
-          "title": "美股三大指数短线波动不大。",
-          "url": "https://flash.jin10.com/detail/20260129030203931800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -39,8 +28,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "美股三大指数短线波动不大。",
+          "url": "https://flash.jin10.com/detail/20260129030203931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
@@ -100,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -112,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -125,8 +125,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -136,8 +136,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -149,8 +149,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金价波动",
@@ -161,8 +161,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 04时24分]"
         }
       ]
     },
@@ -177,7 +177,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -188,7 +188,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -216,7 +216,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -247,8 +247,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时24分]"
         }
       ]
     }
