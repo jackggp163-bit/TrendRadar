@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T12:04:25.685818+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-01-29T13:39:57.343926+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时39分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -203,7 +203,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -254,8 +254,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时39分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -267,6 +267,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 13时39分]"
         },
         {
           "title": "金价波动",
@@ -283,15 +294,16 @@
           "time_info": "[02时31分 ~ 07时22分]"
         },
         {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
           "source": "财联社热门",
           "ranks": [
-            1
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时04分]"
+          "time_info": "[12时04分 ~ 13时39分]"
         },
         {
           "title": "金价",
@@ -304,17 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时27分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
         },
         {
           "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
@@ -337,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "金价飙涨消费者把黄金变现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
@@ -367,7 +379,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
@@ -451,7 +463,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
