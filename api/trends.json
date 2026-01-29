@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T07:22:19.546767+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-01-29T09:27:58.635005+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时27分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -50,7 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美股三大指数短线波动不大。",
@@ -150,7 +161,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -191,7 +202,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -214,8 +225,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时27分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -229,19 +240,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时27分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -251,6 +251,17 @@
             26,
             21,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时27分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -269,6 +280,40 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时31分 ~ 07时22分]"
+        },
+        {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时27分]"
+        },
+        {
+          "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
+          "url": "https://flash.jin10.com/detail/20260129085233565800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
@@ -293,15 +338,15 @@
           "time_info": "05时25分"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "渣打：金价任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
           "ranks": [
-            22
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时27分"
         }
       ]
     },
@@ -383,11 +428,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时27分]"
         }
       ]
     }
